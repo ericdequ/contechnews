@@ -83,7 +83,6 @@ const LayoutWrapper = ({ children }) => {
         >
           {children}
         </motion.main>
-
       </div>
     </SectionContainer>
   )
