@@ -47,4 +47,9 @@ Quantum computing's optimization capabilities not only save money but also contr
 
 As quantum computers become more powerful and accessible, the logistics industry stands to benefit enormously. By harnessing the potential of this groundbreaking technology, companies can optimize their operations, save money, and contribute to a more sustainable future.
 
-The quantum revolution in logistics is just beginning, and those who embrace it early will gain a significant competitive advantage. Is your company ready to leap into the quantum future?
+
+
+# Checkout what Quantum Cyber Solutions is Doing with Quantum Computers To Optimize Routes, Cutting Costs & Saving The Enviornment 
+[![Quantum Cyber Solutions Logo](https://www.quantumcybersolutions.com/QCS-logo.webp)](https://www.quantumcybersolutions.com/Logistics)
+
+Visit [Quantum Cyber Solutions](https://www.quantumcybersolutions.com/Logistics) to learn more.

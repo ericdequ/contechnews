@@ -1,6 +1,6 @@
 ---
-name: Eric deQuevedo 😄
-avatar: https://www.ericdequevedo.com/profilepic.webp
+name: Con Tech News
+avatar: https://www.contechnews/logoo.webp
 occupation: Founder & Quantum Solutions Architect 💻
 company: Quantum Cyber Solutions 🚀
 email: eric@quantumcybersolutions.com 📧
