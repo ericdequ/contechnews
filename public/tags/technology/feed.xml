@@ -690,5 +690,25 @@
     <category>Construction</category><category>Finance</category><category>Technology</category><category>Innovation</category>
   </item>
 
+  <item>
+    <guid>https://www.www.contechnews.com/blog/Reviews/ElonTusk</guid>
+    <title>Elon Tusk Blog Review</title>
+    <link>https://www.www.contechnews.com/blog/Reviews/ElonTusk</link>
+    <description>A comprehensive review of the Elon Tusk blog, highlighting its insightful articles on quantum computing, biomimicry, AI ethics, and more.</description>
+    <pubDate>Sun, 30 May 2021 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
+    <category>Science</category><category>Technology</category><category>Innovation</category><category>Blog Review</category>
+  </item>
+
+  <item>
+    <guid>https://www.www.contechnews.com/blog/Reviews/Plantheath</guid>
+    <title>PlantHealth Blog Review</title>
+    <link>https://www.www.contechnews.com/blog/Reviews/Plantheath</link>
+    <description>A detailed review of the PlantHealth blog, highlighting its insightful articles on the intersection of nature, technology, and holistic health.</description>
+    <pubDate>Sun, 30 May 2021 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
+    <category>Nature</category><category>Technology</category><category>Holistic Health</category><category>Blog Review</category>
+  </item>
+
     </channel>
   </rss>
