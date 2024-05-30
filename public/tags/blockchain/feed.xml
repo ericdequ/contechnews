@@ -3,21 +3,61 @@
     <channel>
       <title>Construction NoteBook</title>
       <link>https://www.www.contechnews.com/blog</link>
-      <description>Ric&#39;s Guide to the Galaxy</description>
+      <description>Learn about the latest in Construction Technology!</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Thu, 21 Sep 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 04 Nov 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.www.contechnews.com/tags/blockchain/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.www.contechnews.com/blog/inventions/iosBlockWPT</guid>
-    <title>Integrating Blockchain, IoT, and Wireless Power Transfer: A Comprehensive Tech Stack for the Future</title>
-    <link>https://www.www.contechnews.com/blog/inventions/iosBlockWPT</link>
-    <description>Explore the integration of Blockchain, IoT, and Wireless Power Transfer to create a robust, secure, and innovative tech stack. Discover the challenges, solutions, and potential of this combination in transforming technology and connectivity. 🚀</description>
-    <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+    <guid>https://www.www.contechnews.com/blog/the_future_of_construction_contracts_smart_contracts_and_blockchain</guid>
+    <title>The Future of Construction Contracts: Smart Contracts and Blockchain</title>
+    <link>https://www.www.contechnews.com/blog/the_future_of_construction_contracts_smart_contracts_and_blockchain</link>
+    <description>Discover how smart contracts and blockchain are revolutionizing the construction industry, offering greater transparency, efficiency, and security.</description>
+    <pubDate>Sat, 04 Nov 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Blockchain</category><category>IoT</category><category>Wireless Power Transfer</category><category>Technology</category><category>Innovation</category><category>Tech Stack</category>
+    <category>Construction</category><category>Blockchain</category><category>Smart Contracts</category>
+  </item>
+
+  <item>
+    <guid>https://www.www.contechnews.com/blog/the_role_of_blockchain_in_construction_enhancing_transparency_and_efficiency</guid>
+    <title>The Role of Blockchain in Construction: Enhancing Transparency and Efficiency</title>
+    <link>https://www.www.contechnews.com/blog/the_role_of_blockchain_in_construction_enhancing_transparency_and_efficiency</link>
+    <description>Explore how blockchain technology is revolutionizing the construction industry by increasing transparency and improving operational efficiency.</description>
+    <pubDate>Fri, 13 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Blockchain</category><category>Construction</category><category>Technology</category>
+  </item>
+
+  <item>
+    <guid>https://www.www.contechnews.com/blog/how_to_leverage_blockchain_for_supply_chain_transparency_in_construction</guid>
+    <title>How to Leverage Blockchain for Supply Chain Transparency in Construction</title>
+    <link>https://www.www.contechnews.com/blog/how_to_leverage_blockchain_for_supply_chain_transparency_in_construction</link>
+    <description>Discover how blockchain technology can revolutionize supply chain transparency in the construction industry, highlighting its potential for enhanced efficiency, trust, and accountability.</description>
+    <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Blockchain</category><category>Supply Chain</category><category>Construction</category><category>Technology</category>
+  </item>
+
+  <item>
+    <guid>https://www.www.contechnews.com/blog/the_impact_of_smart_contracts_on_construction_project_delivery</guid>
+    <title>The Impact of Smart Contracts on Construction Project Delivery</title>
+    <link>https://www.www.contechnews.com/blog/the_impact_of_smart_contracts_on_construction_project_delivery</link>
+    <description>Explore how smart contracts are transforming the delivery of construction projects, enhancing efficiency, transparency, and trust across the industry.</description>
+    <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Smart Contracts</category><category>Blockchain</category><category>Construction</category>
+  </item>
+
+  <item>
+    <guid>https://www.www.contechnews.com/blog/the_impact_of_smart_contracts_on_streamlining_construction_payments</guid>
+    <title>The Impact of Smart Contracts on Streamlining Construction Payments</title>
+    <link>https://www.www.contechnews.com/blog/the_impact_of_smart_contracts_on_streamlining_construction_payments</link>
+    <description>Discover how smart contracts are revolutionizing the construction industry by streamlining payment processes, ensuring transparency, and reducing disputes.</description>
+    <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Blockchain</category><category>Construction</category><category>Smart Contracts</category>
   </item>
 
     </channel>

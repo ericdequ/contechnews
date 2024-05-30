@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Construction NoteBook</title>
+      <link>https://www.www.contechnews.com/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Mon, 09 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.www.contechnews.com/tags/3d-scanning/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.www.contechnews.com/blog/how_3d_scanning_is_enhancing_construction_project_documentation</guid>
+    <title>How 3D Scanning is Enhancing Construction Project Documentation</title>
+    <link>https://www.www.contechnews.com/blog/how_3d_scanning_is_enhancing_construction_project_documentation</link>
+    <description>Explore how cutting-edge 3D scanning technology is revolutionizing the way construction projects are documented, making the building process more accurate, efficient, and safe.</description>
+    <pubDate>Mon, 09 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Construction</category><category>3D Scanning</category><category>Technology</category><category>Innovation</category>
+  </item>
+
+    </channel>
+  </rss>

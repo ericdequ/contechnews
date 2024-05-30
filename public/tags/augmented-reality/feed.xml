@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Construction NoteBook</title>
+      <link>https://www.www.contechnews.com/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Wed, 11 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.www.contechnews.com/tags/augmented-reality/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.www.contechnews.com/blog/how_augmented_reality_is_enhancing_construction_planning_and_execution</guid>
+    <title>How Augmented Reality is Enhancing Construction Planning and Execution</title>
+    <link>https://www.www.contechnews.com/blog/how_augmented_reality_is_enhancing_construction_planning_and_execution</link>
+    <description>Exploring how augmented reality (AR) is revolutionizing the construction industry, from meticulous planning to efficient execution.</description>
+    <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Augmented Reality</category><category>Construction</category><category>Innovation</category>
+  </item>
+
+  <item>
+    <guid>https://www.www.contechnews.com/blog/how_to_leverage_augmented_reality_for_construction_error_detection</guid>
+    <title>How to Leverage Augmented Reality for Construction Error Detection</title>
+    <link>https://www.www.contechnews.com/blog/how_to_leverage_augmented_reality_for_construction_error_detection</link>
+    <description>Discover how cutting-edge Augmented Reality technology can be utilized to detect and mitigate errors in construction projects, ensuring higher accuracy and efficiency.</description>
+    <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Augmented Reality</category><category>Construction</category><category>Technology</category><category>Innovation</category>
+  </item>
+
+  <item>
+    <guid>https://www.www.contechnews.com/blog/how_to_use_augmented_reality_for_construction_site_inspections</guid>
+    <title>How to Use Augmented Reality for Construction Site Inspections</title>
+    <link>https://www.www.contechnews.com/blog/how_to_use_augmented_reality_for_construction_site_inspections</link>
+    <description>Discover how augmented reality (AR) is revolutionizing construction site inspections, enhancing accuracy, efficiency, and safety.</description>
+    <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Augmented Reality</category><category>Construction Technology</category><category>Innovation</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,8 +1,8 @@
 const siteMetadata = {
   title: 'Construction NoteBook',
   author: 'Eric deQuevedo',
-  headerTitle: `Ric's NoteBook`,
-  description: `Ric's Guide to the Galaxy`,
+  headerTitle: `Your Construction Tech News`,
+  description: `Learn about the latest in Construction Technology!`,
   language: 'en-us',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://www.www.contechnews.com',

@@ -3,41 +3,61 @@
     <channel>
       <title>Construction NoteBook</title>
       <link>https://www.www.contechnews.com/blog</link>
-      <description>Ric&#39;s Guide to the Galaxy</description>
+      <description>Learn about the latest in Construction Technology!</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Thu, 31 Aug 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 11 Oct 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.www.contechnews.com/tags/automation/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.www.contechnews.com/blog/Companies/Hashicorp/Terraform</guid>
-    <title>Terraform: Crafting Infrastructure as Easily as Writing Code 🌍⚙️</title>
-    <link>https://www.www.contechnews.com/blog/Companies/Hashicorp/Terraform</link>
-    <description>Infrastructure management can be tedious and error-prone. Enter Terraform, HashiCorps Infrastructure as Code tool, designed to make provisioning and management a breeze. Discover the transformative power of Terraform.</description>
-    <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
+    <guid>https://www.www.contechnews.com/blog/bridging_the_gap_how_construction_tech_is_helping_to_address_labor_shortages</guid>
+    <title>Bridging the Gap: How Construction Tech is Helping to Address Labor Shortages</title>
+    <link>https://www.www.contechnews.com/blog/bridging_the_gap_how_construction_tech_is_helping_to_address_labor_shortages</link>
+    <description>Discover how cutting-edge technologies are transforming the construction industry and tackling labor shortages head-on. From robotics to AI, explore the innovations that are building the future.</description>
+    <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Terraform</category><category>Infrastructure as Code</category><category>Automation</category><category>devops</category>
+    <category>Construction Tech</category><category>Innovation</category><category>Labor Shortages</category><category>Automation</category>
   </item>
 
   <item>
-    <guid>https://www.www.contechnews.com/blog/Companies/Redhat/Ansible</guid>
-    <title>Ansible: The IT Automation Maestro for Diverse Enterprises 🌐🤖</title>
-    <link>https://www.www.contechnews.com/blog/Companies/Redhat/Ansible</link>
-    <description>In a world where IT operations can be complex and time-consuming, Ansible by Red Hat emerges as a beacon of automation. Understand how Ansible simplifies tasks across both public and private sectors.</description>
-    <pubDate>Thu, 10 Aug 2023 00:00:00 GMT</pubDate>
+    <guid>https://www.www.contechnews.com/blog/the_future_of_construction_labor_embracing_automation_and_ai</guid>
+    <title>The Future of Construction Labor: Embracing Automation and AI</title>
+    <link>https://www.www.contechnews.com/blog/the_future_of_construction_labor_embracing_automation_and_ai</link>
+    <description>Explore how automation and AI are revolutionizing the construction industry, bringing enhanced efficiency, safety, and sustainability to the forefront.</description>
+    <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Ansible</category><category>Automation</category><category>Public Sector</category><category>Private Sector</category><category>devops</category>
+    <category>Construction</category><category>Automation</category><category>AI</category>
   </item>
 
   <item>
-    <guid>https://www.www.contechnews.com/blog/Companies/Hashicorp/Packer</guid>
-    <title>Packer: Crafting Consistent Machine Images with Precision 🖥️🛠️</title>
-    <link>https://www.www.contechnews.com/blog/Companies/Hashicorp/Packer</link>
-    <description>In the age of cloud and virtualization, machine images are the backbone of infrastructure. With HashiCorps Packer, automate the creation of consistent and multi-platform machine images. Discover the art of precision imaging.</description>
-    <pubDate>Sat, 05 Aug 2023 00:00:00 GMT</pubDate>
+    <guid>https://www.www.contechnews.com/blog/the_future_of_construction_workforce_embracing_automation_and_technology</guid>
+    <title>The Future of Construction Workforce: Embracing Automation and Technology</title>
+    <link>https://www.www.contechnews.com/blog/the_future_of_construction_workforce_embracing_automation_and_technology</link>
+    <description>Dive into how automation and advanced technologies are reshaping the construction industry, offering insights into the future workforce, increased efficiency, and innovative solutions.</description>
+    <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Packer</category><category>Image Creation</category><category>Automation</category><category>devops</category>
+    <category>Construction</category><category>Automation</category><category>Technology</category>
+  </item>
+
+  <item>
+    <guid>https://www.www.contechnews.com/blog/the_role_of_advanced_robotics_in_construction_automation</guid>
+    <title>The Role of Advanced Robotics in Construction Automation</title>
+    <link>https://www.www.contechnews.com/blog/the_role_of_advanced_robotics_in_construction_automation</link>
+    <description>Dive into the transformative impact of advanced robotics in automating the construction industry. Discover how robots are making building sites smarter, safer, and more efficient.</description>
+    <pubDate>Mon, 09 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Robotics</category><category>Construction</category><category>Automation</category><category>Innovation</category>
+  </item>
+
+  <item>
+    <guid>https://www.www.contechnews.com/blog/the_future_of_construction_equipment_trends_in_automation_and_efficiency</guid>
+    <title>The Future of Construction Equipment: Trends in Automation and Efficiency</title>
+    <link>https://www.www.contechnews.com/blog/the_future_of_construction_equipment_trends_in_automation_and_efficiency</link>
+    <description>Dive into the remarkable trends shaping the future of construction equipment through automation and efficiency, revolutionizing the industry as we know it.</description>
+    <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Construction</category><category>Automation</category><category>Innovation</category>
   </item>
 
     </channel>

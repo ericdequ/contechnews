@@ -3,7 +3,7 @@
     <channel>
       <title>Construction NoteBook</title>
       <link>https://www.www.contechnews.com/blog</link>
-      <description>Ric&#39;s Guide to the Galaxy</description>
+      <description>Learn about the latest in Construction Technology!</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
@@ -28,6 +28,16 @@
     <pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Construction Technology</category><category>Innovative Building</category><category>Smart Construction</category><category>AI in Construction</category><category>Quantum Cyber Solutions</category>
+  </item>
+
+  <item>
+    <guid>https://www.www.contechnews.com/blog/integrating_bim_with_iot_for_smart_construction_projects</guid>
+    <title>Integrating BIM with IoT for Smart Construction Projects</title>
+    <link>https://www.www.contechnews.com/blog/integrating_bim_with_iot_for_smart_construction_projects</link>
+    <description>Discover how integrating Building Information Modeling (BIM) with the Internet of Things (IoT) can revolutionize smart construction projects, enhancing efficiency, safety, and overall project outcomes.</description>
+    <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>BIM</category><category>IoT</category><category>Smart Construction</category><category>Technology</category>
   </item>
 
     </channel>

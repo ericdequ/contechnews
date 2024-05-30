@@ -3,7 +3,7 @@
     <channel>
       <title>Construction NoteBook</title>
       <link>https://www.www.contechnews.com/blog</link>
-      <description>Ric&#39;s Guide to the Galaxy</description>
+      <description>Learn about the latest in Construction Technology!</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
@@ -38,6 +38,16 @@
     <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Computing</category><category>Logistics</category><category>Optimization</category><category>Cost Savings</category><category>Energy Conservation</category><category>Supply Chain</category>
+  </item>
+
+  <item>
+    <guid>https://www.www.contechnews.com/blog/how_to_use_advanced_analytics_for_construction_resource_optimization</guid>
+    <title>How to Use Advanced Analytics for Construction Resource Optimization</title>
+    <link>https://www.www.contechnews.com/blog/how_to_use_advanced_analytics_for_construction_resource_optimization</link>
+    <description>Discover how advanced analytics can revolutionize resource optimization in the construction industry, driving efficiency and cost savings like never before.</description>
+    <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Construction</category><category>Analytics</category><category>Optimization</category>
   </item>
 
     </channel>

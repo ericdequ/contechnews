@@ -3,41 +3,21 @@
     <channel>
       <title>Construction NoteBook</title>
       <link>https://www.www.contechnews.com/blog</link>
-      <description>Ric&#39;s Guide to the Galaxy</description>
+      <description>Learn about the latest in Construction Technology!</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Sun, 10 Sep 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 15 Oct 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.www.contechnews.com/tags/software/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.www.contechnews.com/blog/Quantum/QuantumSoftwareAndTools</guid>
-    <title>Quantum Software &amp; Tools Powering the Quantum Revolution 💻</title>
-    <link>https://www.www.contechnews.com/blog/Quantum/QuantumSoftwareAndTools</link>
-    <description>Exploring the software and tools ecosystem thats driving quantum technological  advancements!</description>
-    <pubDate>Sun, 10 Sep 2023 00:00:00 GMT</pubDate>
+    <guid>https://www.www.contechnews.com/blog/the_role_of_advanced_project_scheduling_software_in_construction</guid>
+    <title>The Role of Advanced Project Scheduling Software in Construction</title>
+    <link>https://www.www.contechnews.com/blog/the_role_of_advanced_project_scheduling_software_in_construction</link>
+    <description>Discover how advanced project scheduling software is revolutionizing the construction industry by optimizing project timelines, enhancing collaboration, and ensuring efficient resource allocation.</description>
+    <pubDate>Sun, 15 Oct 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Quantum</category><category>Software</category><category>Tools</category>
-  </item>
-
-  <item>
-    <guid>https://www.www.contechnews.com/blog/AI/LangChain</guid>
-    <title>LangChain: Your Ultimate Tool for Crafting AI-Powered Software 🌐🤖</title>
-    <link>https://www.www.contechnews.com/blog/AI/LangChain</link>
-    <description>The rise of AI in software development is undeniable. Dive into how LangChain can be your secret weapon in not just creating AI software apps but also seamlessly integrating them into your existing software suite.</description>
-    <pubDate>Sun, 13 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>AI</category><category>Software</category><category>LangChain</category><category>devops</category>
-  </item>
-
-  <item>
-    <guid>https://www.www.contechnews.com/blog/Matlab/Matlab</guid>
-    <title>Matlab</title>
-    <link>https://www.www.contechnews.com/blog/Matlab/Matlab</link>
-    <description>MATLAB short for Matrix Laboratory is a programming language developed by MathWorks. It is used for technical computing and is widely used in engineering, science, and mathematics.</description>
-    <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Matlab</category><category>programming</category><category>Software</category><category>Development</category>
+    <category>Construction</category><category>Project Management</category><category>Software</category>
   </item>
 
     </channel>

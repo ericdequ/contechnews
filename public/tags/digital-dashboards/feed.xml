@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Construction NoteBook</title>
+      <link>https://www.www.contechnews.com/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Sat, 07 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.www.contechnews.com/tags/digital-dashboards/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.www.contechnews.com/blog/the_role_of_digital_dashboards_in_construction_project_management</guid>
+    <title>The Role of Digital Dashboards in Construction Project Management</title>
+    <link>https://www.www.contechnews.com/blog/the_role_of_digital_dashboards_in_construction_project_management</link>
+    <description>Discover how digital dashboards enhance efficiency, transparency, and decision-making in construction project management.</description>
+    <pubDate>Sat, 07 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Construction</category><category>Project Management</category><category>Digital Dashboards</category><category>Technology</category>
+  </item>
+
+    </channel>
+  </rss>

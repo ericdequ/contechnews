@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Construction NoteBook</title>
+      <link>https://www.www.contechnews.com/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Sat, 07 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.www.contechnews.com/tags/building/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.www.contechnews.com/blog/how_to_implement_sustainable_building_practices_with_technology</guid>
+    <title>How to Implement Sustainable Building Practices with Technology</title>
+    <link>https://www.www.contechnews.com/blog/how_to_implement_sustainable_building_practices_with_technology</link>
+    <description>Explore how technology is revolutionizing sustainable building practices, making our world greener and smarter.</description>
+    <pubDate>Sat, 07 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Sustainability</category><category>Technology</category><category>Building</category>
+  </item>
+
+    </channel>
+  </rss>
