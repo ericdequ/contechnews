@@ -1,8 +1,8 @@
 ---
 name: Con Tech News
 avatar: https://www.contechnews.com/logoo-removebg.png
-occupation: Founder & Quantum Solutions Architect 💻
-email: conyact@quantumcybersolutions.com 📧
+occupation: Helping Contractors Navigate Construction Technology
+email: contact@quantumcybersolutions.com 📧
 ---
 
 Welcome to **ConTechNews**,  a blog dedicated to helping Construction Businesses stay up to date with the newest Technology!
