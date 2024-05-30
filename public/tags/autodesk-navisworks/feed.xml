@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.www.contechnews.com/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (ConTechNews)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (ConTechNews)</webMaster>
+      <lastBuildDate>Fri, 06 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.www.contechnews.com/tags/autodesk-navisworks/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.www.contechnews.com/blog/tutorials/leveraging_autodesk_navisworks_for_clash_detection_in_construction</guid>
+    <title>Leveraging Autodesk Navisworks for Clash Detection in Construction</title>
+    <link>https://www.www.contechnews.com/blog/tutorials/leveraging_autodesk_navisworks_for_clash_detection_in_construction</link>
+    <description>Explore how Autodesk Navisworks revolutionizes clash detection in construction with detailed tutorials, best practices, and expert tips.</description>
+    <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
+    <category>Autodesk Navisworks</category><category>Construction</category><category>Clash Detection</category>
+  </item>
+
+    </channel>
+  </rss>

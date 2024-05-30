@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.www.contechnews.com/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (ConTechNews)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (ConTechNews)</webMaster>
+      <lastBuildDate>Mon, 27 May 2024 04:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.www.contechnews.com/tags/trimble-connect/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.www.contechnews.com/blog/tutorials/using_trimble_connect_for_collaboration_in_construction_projects</guid>
+    <title>Using Trimble Connect for Collaboration in Construction Projects</title>
+    <link>https://www.www.contechnews.com/blog/tutorials/using_trimble_connect_for_collaboration_in_construction_projects</link>
+    <description>Discover how Trimble Connect enhances collaboration in construction projects through streamlined workflows, cloud-based solutions, and integration with BIM.</description>
+    <pubDate>Mon, 27 May 2024 04:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
+    <category>Trimble Connect</category><category>Construction</category><category>Collaboration</category><category>BIM</category>
+  </item>
+
+    </channel>
+  </rss>

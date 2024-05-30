@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.www.contechnews.com/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (ConTechNews)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (ConTechNews)</webMaster>
+      <lastBuildDate>Sun, 08 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.www.contechnews.com/tags/software-integration/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.www.contechnews.com/blog/tutorials/mastering_integrated_construction_management_with_dexter_chaney</guid>
+    <title>Mastering Integrated Construction Management with Dexter + Chaney</title>
+    <link>https://www.www.contechnews.com/blog/tutorials/mastering_integrated_construction_management_with_dexter_chaney</link>
+    <description>Dive into the essentials of using Dexter + Chaney for a comprehensive and efficient approach to integrated construction management. From setup to best practices, weve got you covered!</description>
+    <pubDate>Sun, 08 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
+    <category>Construction Management</category><category>Software Integration</category><category>Dexter + Chaney</category>
+  </item>
+
+    </channel>
+  </rss>

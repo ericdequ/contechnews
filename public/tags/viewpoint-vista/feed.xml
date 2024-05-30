@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.www.contechnews.com/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (ConTechNews)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (ConTechNews)</webMaster>
+      <lastBuildDate>Thu, 05 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.www.contechnews.com/tags/viewpoint-vista/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.www.contechnews.com/blog/tutorials/mastering_viewpoint_vista_a_guide_to_construction_erp_excellence</guid>
+    <title>Mastering Viewpoint Vista: A Guide to Construction ERP Excellence</title>
+    <link>https://www.www.contechnews.com/blog/tutorials/mastering_viewpoint_vista_a_guide_to_construction_erp_excellence</link>
+    <description>Dive into the world of construction ERP with our in-depth tutorial on setting up and utilizing Viewpoint Vista. Learn best practices, from installation to optimization, for a seamless project management experience.</description>
+    <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
+    <category>ERP</category><category>Construction</category><category>Viewpoint Vista</category><category>Software Setup</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.www.contechnews.com/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (ConTechNews)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (ConTechNews)</webMaster>
+      <lastBuildDate>Tue, 10 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.www.contechnews.com/tags/quantity-surveying/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.www.contechnews.com/blog/tutorials/mastering_on_screen_takeoff_for_construction_quantity_surveying</guid>
+    <title>Mastering On-Screen Takeoff for Construction Quantity Surveying</title>
+    <link>https://www.www.contechnews.com/blog/tutorials/mastering_on_screen_takeoff_for_construction_quantity_surveying</link>
+    <description>Unlock the full potential of On-Screen Takeoff software with this comprehensive guide. From initial setup to advanced techniques, we cover everything you need to streamline your construction quantity surveying process.</description>
+    <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
+    <category>Construction</category><category>Software</category><category>Quantity Surveying</category>
+  </item>
+
+    </channel>
+  </rss>

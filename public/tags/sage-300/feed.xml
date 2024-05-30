@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.www.contechnews.com/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (ConTechNews)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (ConTechNews)</webMaster>
+      <lastBuildDate>Sat, 07 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.www.contechnews.com/tags/sage-300/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.www.contechnews.com/blog/tutorials/implementing_sage_300_construction_and_real_estate_for_financial_management</guid>
+    <title>Implementing Sage 300 Construction and Real Estate for Financial Management</title>
+    <link>https://www.www.contechnews.com/blog/tutorials/implementing_sage_300_construction_and_real_estate_for_financial_management</link>
+    <description>A comprehensive guide to implementing Sage 300 CRE for financial management in construction and real estate projects.</description>
+    <pubDate>Sat, 07 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
+    <category>Sage 300</category><category>Construction</category><category>Real Estate</category><category>Financial Management</category>
+  </item>
+
+    </channel>
+  </rss>
