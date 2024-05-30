@@ -1,6 +1,6 @@
 const siteMetadata = {
-  title: 'Construction NoteBook',
-  author: 'Eric deQuevedo',
+  title: 'ConTechNews',
+  author: 'ConTechNews',
   headerTitle: `Your Construction Tech News`,
   description: `Learn about the latest in Construction Technology!`,
   language: 'en-us',

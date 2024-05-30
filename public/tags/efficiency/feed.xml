@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Construction NoteBook</title>
+      <title>ConTechNews</title>
       <link>https://www.www.contechnews.com/blog</link>
       <description>Learn about the latest in Construction Technology!</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (ConTechNews)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (ConTechNews)</webMaster>
       <lastBuildDate>Tue, 03 Oct 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.www.contechnews.com/tags/efficiency/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://www.www.contechnews.com/blog/how_iot_is_transforming_construction_site_safety_and_efficiency</link>
     <description>Discover the groundbreaking ways IoT is revolutionizing construction site safety and operational efficiency. From wearable tech to smart machinery, explore the future of building with interconnected devices.</description>
     <pubDate>Tue, 03 Oct 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
     <category>IoT</category><category>Construction</category><category>Safety</category><category>Efficiency</category>
   </item>
 

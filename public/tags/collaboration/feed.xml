@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Construction NoteBook</title>
+      <title>ConTechNews</title>
       <link>https://www.www.contechnews.com/blog</link>
       <description>Learn about the latest in Construction Technology!</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (ConTechNews)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (ConTechNews)</webMaster>
       <lastBuildDate>Thu, 12 Oct 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.www.contechnews.com/tags/collaboration/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://www.www.contechnews.com/blog/how_construction_technology_is_enhancing_collaboration_among_teams</link>
     <description>Explore how cutting-edge construction technologies are revolutionizing team collaboration, optimizing workflows, and driving the industry forward.</description>
     <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
     <category>Construction Technology</category><category>Collaboration</category><category>Innovation</category>
   </item>
 
@@ -26,7 +26,7 @@
     <link>https://www.www.contechnews.com/blog/the_impact_of_cloud_computing_on_construction_collaboration_and_data_management</link>
     <description>Explore how cloud computing is revolutionizing construction collaboration and data management, bringing a wave of innovation and efficiency to the industry.</description>
     <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
     <category>Cloud Computing</category><category>Construction</category><category>Collaboration</category><category>Data Management</category>
   </item>
 
@@ -36,7 +36,7 @@
     <link>https://www.www.contechnews.com/blog/Construction/ProCore</link>
     <description>Discover how Procore, a leading construction management software company, is transforming the construction industry with its comprehensive suite of tools and cloud-based platform. From project management to financial tracking, Procore streamlines processes, enhances collaboration, and boosts productivity for construction professionals worldwide.</description>
     <pubDate>Wed, 24 May 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
     <category>Construction Technology</category><category>Project Management</category><category>Collaboration</category><category>Procore</category><category>Cloud-Based Platform</category><category>Productivity</category>
   </item>
 

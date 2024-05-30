@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Construction NoteBook</title>
+      <title>ConTechNews</title>
       <link>https://www.www.contechnews.com/blog</link>
       <description>Learn about the latest in Construction Technology!</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (ConTechNews)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (ConTechNews)</webMaster>
       <lastBuildDate>Mon, 09 Oct 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.www.contechnews.com/tags/surveying/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://www.www.contechnews.com/blog/how_to_utilize_advanced_surveying_tools_for_precision_engineering</link>
     <description>Discover the latest advancements in surveying tools that are revolutionizing the field of precision engineering. Learn about the technologies, techniques, and best practices that ensure pinpoint accuracy in your engineering projects.</description>
     <pubDate>Mon, 09 Oct 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
     <category>Surveying</category><category>Precision Engineering</category><category>Technology</category>
   </item>
 
@@ -26,7 +26,7 @@
     <link>https://www.www.contechnews.com/blog/the_impact_of_advanced_surveying_technology_on_construction_accuracy</link>
     <description>Discover how cutting-edge surveying technologies are revolutionizing construction accuracy, reducing errors, and optimizing workflows in the industry.</description>
     <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
     <category>Construction</category><category>Technology</category><category>Surveying</category>
   </item>
 

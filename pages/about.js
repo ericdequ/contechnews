@@ -26,7 +26,7 @@ export default function About({ authorDetails }) {
   return (
     <>
     <PageSEO
-    title={`About - Eric deQuevedo`}
+    title={`About - ConTechNews`}
     description={`Founder & Quantum Cyber Solutions`}
   />
     <motion.div

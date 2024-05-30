@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Construction NoteBook</title>
+      <title>ConTechNews</title>
       <link>https://www.www.contechnews.com/blog</link>
       <description>Learn about the latest in Construction Technology!</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (ConTechNews)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (ConTechNews)</webMaster>
       <lastBuildDate>Tue, 03 Oct 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.www.contechnews.com/tags/5g/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://www.www.contechnews.com/blog/how_5g_connectivity_is_enhancing_construction_site_communication</link>
     <description>Exploring how next-generation 5G technology is revolutionizing communication and operational efficiency on construction sites.</description>
     <pubDate>Tue, 03 Oct 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
     <category>5G</category><category>Construction</category><category>Innovation</category>
   </item>
 

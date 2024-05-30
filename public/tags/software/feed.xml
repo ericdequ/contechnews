@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Construction NoteBook</title>
+      <title>ConTechNews</title>
       <link>https://www.www.contechnews.com/blog</link>
       <description>Learn about the latest in Construction Technology!</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (ConTechNews)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (ConTechNews)</webMaster>
       <lastBuildDate>Sun, 15 Oct 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.www.contechnews.com/tags/software/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://www.www.contechnews.com/blog/the_role_of_advanced_project_scheduling_software_in_construction</link>
     <description>Discover how advanced project scheduling software is revolutionizing the construction industry by optimizing project timelines, enhancing collaboration, and ensuring efficient resource allocation.</description>
     <pubDate>Sun, 15 Oct 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
     <category>Construction</category><category>Project Management</category><category>Software</category>
   </item>
 

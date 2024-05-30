@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Construction NoteBook</title>
+      <title>ConTechNews</title>
       <link>https://www.www.contechnews.com/blog</link>
       <description>Learn about the latest in Construction Technology!</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (ConTechNews)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (ConTechNews)</webMaster>
       <lastBuildDate>Wed, 11 Oct 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.www.contechnews.com/tags/automation/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://www.www.contechnews.com/blog/bridging_the_gap_how_construction_tech_is_helping_to_address_labor_shortages</link>
     <description>Discover how cutting-edge technologies are transforming the construction industry and tackling labor shortages head-on. From robotics to AI, explore the innovations that are building the future.</description>
     <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
     <category>Construction Tech</category><category>Innovation</category><category>Labor Shortages</category><category>Automation</category>
   </item>
 
@@ -26,7 +26,7 @@
     <link>https://www.www.contechnews.com/blog/the_future_of_construction_labor_embracing_automation_and_ai</link>
     <description>Explore how automation and AI are revolutionizing the construction industry, bringing enhanced efficiency, safety, and sustainability to the forefront.</description>
     <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
     <category>Construction</category><category>Automation</category><category>AI</category>
   </item>
 
@@ -36,7 +36,7 @@
     <link>https://www.www.contechnews.com/blog/the_future_of_construction_workforce_embracing_automation_and_technology</link>
     <description>Dive into how automation and advanced technologies are reshaping the construction industry, offering insights into the future workforce, increased efficiency, and innovative solutions.</description>
     <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
     <category>Construction</category><category>Automation</category><category>Technology</category>
   </item>
 
@@ -46,7 +46,7 @@
     <link>https://www.www.contechnews.com/blog/the_role_of_advanced_robotics_in_construction_automation</link>
     <description>Dive into the transformative impact of advanced robotics in automating the construction industry. Discover how robots are making building sites smarter, safer, and more efficient.</description>
     <pubDate>Mon, 09 Oct 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
     <category>Robotics</category><category>Construction</category><category>Automation</category><category>Innovation</category>
   </item>
 
@@ -56,7 +56,7 @@
     <link>https://www.www.contechnews.com/blog/the_future_of_construction_equipment_trends_in_automation_and_efficiency</link>
     <description>Dive into the remarkable trends shaping the future of construction equipment through automation and efficiency, revolutionizing the industry as we know it.</description>
     <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
     <category>Construction</category><category>Automation</category><category>Innovation</category>
   </item>
 

@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Construction NoteBook</title>
+      <title>ConTechNews</title>
       <link>https://www.www.contechnews.com/blog</link>
       <description>Learn about the latest in Construction Technology!</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (ConTechNews)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (ConTechNews)</webMaster>
       <lastBuildDate>Wed, 04 Oct 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.www.contechnews.com/tags/cybersecurity/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://www.www.contechnews.com/blog/the_role_of_cybersecurity_in_protecting_construction_data_and_systems</link>
     <description>Discover how cybersecurity is becoming a cornerstone in safeguarding construction data and systems and why it matters more than ever.</description>
     <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
     <category>Cybersecurity</category><category>Construction</category><category>Data Protection</category>
   </item>
 
@@ -26,7 +26,7 @@
     <link>https://www.www.contechnews.com/blog/the_impact_of_cybersecurity_on_protecting_construction_data</link>
     <description>Discover the critical role of cybersecurity in safeguarding sensitive construction data, and how cutting-edge technologies are driving the future of secure construction practices.</description>
     <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
     <category>Cybersecurity</category><category>Construction Technology</category>
   </item>
 
@@ -36,7 +36,7 @@
     <link>https://www.www.contechnews.com/blog/Construction/SmartCity</link>
     <description>Discover the key principles and strategies for building smart cities that are both secure and sustainable. From robust cybersecurity measures to green infrastructure and community engagement, learn how to create urban environments that thrive in the face of 21st-century challenges.</description>
     <pubDate>Tue, 16 May 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (ConTechNews)</author>
     <category>Smart Cities</category><category>Sustainable Development</category><category>Cybersecurity</category><category>Urban Planning</category><category>Green Infrastructure</category>
   </item>
 
