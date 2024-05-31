@@ -8,14 +8,14 @@ const siteMetadata = {
   siteUrl: 'https://www.www.contechnews.com',
   siteRepo: 'https://https://github.com/ericdequ/contechnews',
   siteLogo: 'logoo-removebg.webp',
-  image: '/static/profile.webp',
-  socialBanner: '/static/images/twitter-card.webp',
-  email: 'ericdequevedo@gmailcom',
+  image: 'https://www.www.contechnews.com/logoo.webp',
+  socialBanner: 'https://www.www.contechnews.com/logoo.webp',
+  email: 'contact@quantumcybersolutions.com',
   github: 'https://https://github.com/ericdequ',
-  twitter: 'https://twitter.com/ricdequantum',
-  facebook: 'https://www.ericdequevedo.com/',
-  youtube: 'https://www.youtube.com/channel/UCJ0amRiNhAUZhE6S8gwzS-A',
-  linkedin: 'https://www.linkedin.com/in/eric-garcia-dequevedo-a6a401b7/',
+  twitter: '',
+  facebook: '',
+  youtube: '',
+  linkedin: '',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
@@ -24,7 +24,7 @@ const siteMetadata = {
     plausibleDataDomain: 'https://www.www.contechnews.com/', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: true, // true or false
     umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
-    googleAnalyticsId: 'G-ERCKXSBZLY', // e.g. UA-000000-2 or G-XXXXXXX
+    googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX
     posthogAnalyticsId: '', // posthog.init e.g. phc_5yXvArzvRdqtZIsHkEm3Fkkhm3d0bEYUXCaFISzqPSQ
   },
   newsletter: {
@@ -57,7 +57,7 @@ const siteMetadata = {
       // Choose the language giscus will be displayed in. options: en, es, zh-CN, zh-TW, ko, ja etc
       lang: 'en',
       // theme when dark mode
-      darkTheme: 'transparent_dark',
+      darkTheme: 'github-dark-orange',
       // If the theme option above is set to 'custom`
       // please provide a link below to your custom theme css file.
       // example: https://giscus.app/themes/custom_example.css
@@ -71,9 +71,9 @@ const siteMetadata = {
       label: '', // label (optional): Comment 💬
       // theme example: github-light, github-dark, preferred-color-scheme
       // github-dark-orange, icy-dark, dark-blue, photon-dark, boxy-light
-      theme: '',
+      theme: 'github-dark-orange',
       // theme when dark mode
-      darkTheme: '',
+      darkTheme: 'photon-dark',
     },
     disqusConfig: {
       // https://help.disqus.com/en/articles/1717111-what-s-a-shortname
