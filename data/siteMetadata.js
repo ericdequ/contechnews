@@ -5,11 +5,11 @@ const siteMetadata = {
   description: `Learn about the latest in Construction Technology!`,
   language: 'en-us',
   theme: 'dark', // system, dark or light
-  siteUrl: 'https://www.www.contechnews.com',
+  siteUrl: 'https://www.contechnews.com',
   siteRepo: 'https://https://github.com/ericdequ/contechnews',
   siteLogo: 'logoo-removebg.webp',
-  image: 'https://www.www.contechnews.com/logoo.webp',
-  socialBanner: 'https://www.www.contechnews.com/logoo.webp',
+  image: 'https://www.contechnews.com/logoo.webp',
+  socialBanner: 'https://www.contechnews.com/logoo.webp',
   email: 'contact@quantumcybersolutions.com',
   github: 'https://https://github.com/ericdequ',
   twitter: '',
@@ -21,7 +21,7 @@ const siteMetadata = {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
     // supports plausible, simpleAnalytics, umami or googleAnalytics
-    plausibleDataDomain: 'https://www.www.contechnews.com/', // e.g. tailwind-nextjs-starter-blog.vercel.app
+    plausibleDataDomain: 'https://www.contechnews.com/', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: true, // true or false
     umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
     googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX

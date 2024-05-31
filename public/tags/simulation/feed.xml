@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>ConTechNews</title>
-      <link>https://www.www.contechnews.com/blog</link>
+      <link>https://www.contechnews.com/blog</link>
       <description>Learn about the latest in Construction Technology!</description>
       <language>en-us</language>
       <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
       <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
       <lastBuildDate>Sun, 15 Oct 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.www.contechnews.com/tags/simulation/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.contechnews.com/tags/simulation/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.www.contechnews.com/blog/the_role_of_virtual_reality_in_construction_training_and_simulation</guid>
+    <guid>https://www.contechnews.com/blog/the_role_of_virtual_reality_in_construction_training_and_simulation</guid>
     <title>The Role of Virtual Reality in Construction Training and Simulation</title>
-    <link>https://www.www.contechnews.com/blog/the_role_of_virtual_reality_in_construction_training_and_simulation</link>
+    <link>https://www.contechnews.com/blog/the_role_of_virtual_reality_in_construction_training_and_simulation</link>
     <description>Discover how Virtual Reality (VR) is transforming construction training and simulation, enhancing safety, efficiency, and skills acquisition.</description>
     <pubDate>Sun, 15 Oct 2023 00:00:00 GMT</pubDate>
     <author>contact@quantumcybersolutions.com (ConTechNews)</author>
@@ -21,9 +21,9 @@
   </item>
 
   <item>
-    <guid>https://www.www.contechnews.com/blog/the_role_of_advanced_simulation_software_in_construction_planning</guid>
+    <guid>https://www.contechnews.com/blog/the_role_of_advanced_simulation_software_in_construction_planning</guid>
     <title>The Role of Advanced Simulation Software in Construction Planning</title>
-    <link>https://www.www.contechnews.com/blog/the_role_of_advanced_simulation_software_in_construction_planning</link>
+    <link>https://www.contechnews.com/blog/the_role_of_advanced_simulation_software_in_construction_planning</link>
     <description>Dive into the transformative power of advanced simulation software in revolutionizing construction planning and execution. Discover how tech is reshaping the foundations of how we build.</description>
     <pubDate>Fri, 13 Oct 2023 00:00:00 GMT</pubDate>
     <author>contact@quantumcybersolutions.com (ConTechNews)</author>
@@ -31,9 +31,9 @@
   </item>
 
   <item>
-    <guid>https://www.www.contechnews.com/blog/tutorials/leveraging_fuzor_for_construction_visualization_and_simulation</guid>
+    <guid>https://www.contechnews.com/blog/tutorials/leveraging_fuzor_for_construction_visualization_and_simulation</guid>
     <title>Leveraging Fuzor for Construction Visualization and Simulation</title>
-    <link>https://www.www.contechnews.com/blog/tutorials/leveraging_fuzor_for_construction_visualization_and_simulation</link>
+    <link>https://www.contechnews.com/blog/tutorials/leveraging_fuzor_for_construction_visualization_and_simulation</link>
     <description>Unlock the power of Fuzor to transform your construction project management through advanced visualization and simulation techniques.</description>
     <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
     <author>contact@quantumcybersolutions.com (ConTechNews)</author>

@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Construction NoteBook</title>
-      <link>https://www.www.contechnews.com/blog</link>
+      <link>https://www.contechnews.com/blog</link>
       <description>Ric&#39;s Guide to the Galaxy</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (ConTechNews)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (ConTechNews)</webMaster>
       <lastBuildDate>Mon, 16 May 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.www.contechnews.com/tags/data-visualization/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.contechnews.com/tags/data-visualization/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.www.contechnews.com/blog/Setup/Manim</guid>
+    <guid>https://www.contechnews.com/blog/Setup/Manim</guid>
     <title>Getting Started with Manim: A Step-by-Step Guide</title>
-    <link>https://www.www.contechnews.com/blog/Setup/Manim</link>
+    <link>https://www.contechnews.com/blog/Setup/Manim</link>
     <description>Learn how to create stunning mathematical animations using Manim, a powerful Python library. This step-by-step guide will walk you through the process of setting up Manim and creating your first animation, providing code examples and practical tips along the way.</description>
     <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (ConTechNews)</author>

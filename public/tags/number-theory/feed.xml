@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Construction NoteBook</title>
-      <link>https://www.www.contechnews.com/blog</link>
+      <link>https://www.contechnews.com/blog</link>
       <description>Ric&#39;s Guide to the Galaxy</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (ConTechNews)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (ConTechNews)</webMaster>
       <lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.www.contechnews.com/tags/number-theory/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.contechnews.com/tags/number-theory/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.www.contechnews.com/blog/cyber/QuadraticSieve</guid>
+    <guid>https://www.contechnews.com/blog/cyber/QuadraticSieve</guid>
     <title>The Quadratic Sieve: A Detailed Technical Overview of an Efficient Factoring Algorithm 🔍✨</title>
-    <link>https://www.www.contechnews.com/blog/cyber/QuadraticSieve</link>
+    <link>https://www.contechnews.com/blog/cyber/QuadraticSieve</link>
     <description>Delve into the intricacies of the Quadratic Sieve, one of the most efficient algorithms for factoring large integers. This blog post provides a comprehensive technical overview, exploring its mathematical foundations, algorithmic steps, and practical applications. 🔍🔢💻</description>
     <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (ConTechNews)</author>

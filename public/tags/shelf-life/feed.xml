@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Construction NoteBook</title>
-      <link>https://www.www.contechnews.com/blog</link>
+      <link>https://www.contechnews.com/blog</link>
       <description>Ric&#39;s Guide to the Galaxy</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (ConTechNews)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (ConTechNews)</webMaster>
       <lastBuildDate>Mon, 13 May 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.www.contechnews.com/tags/shelf-life/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.contechnews.com/tags/shelf-life/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.www.contechnews.com/blog/Quantum/QuantumFood</guid>
+    <guid>https://www.contechnews.com/blog/Quantum/QuantumFood</guid>
     <title>Quantum Computing: A Game-Changer in Solving Global Hunger</title>
-    <link>https://www.www.contechnews.com/blog/Quantum/QuantumFood</link>
+    <link>https://www.contechnews.com/blog/Quantum/QuantumFood</link>
     <description>Explore how quantum computing can revolutionize food transportation and distribution, tackling the global hunger epidemic and unlocking unprecedented advancements for humanity. Discover the potential of quantum algorithms in optimizing logistics, considering variables such as food shelf life, to ensure efficient and equitable food distribution worldwide.</description>
     <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (ConTechNews)</author>

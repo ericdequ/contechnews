@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>ConTechNews</title>
-      <link>https://www.www.contechnews.com/blog</link>
+      <link>https://www.contechnews.com/blog</link>
       <description>Learn about the latest in Construction Technology!</description>
       <language>en-us</language>
       <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
       <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
       <lastBuildDate>Sun, 15 Oct 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.www.contechnews.com/tags/estimating/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.contechnews.com/tags/estimating/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.www.contechnews.com/blog/tutorials/mastering_construction_estimating_with_proest</guid>
+    <guid>https://www.contechnews.com/blog/tutorials/mastering_construction_estimating_with_proest</guid>
     <title>Mastering Construction Estimating with ProEst</title>
-    <link>https://www.www.contechnews.com/blog/tutorials/mastering_construction_estimating_with_proest</link>
+    <link>https://www.contechnews.com/blog/tutorials/mastering_construction_estimating_with_proest</link>
     <description>Unlock the full potential of ProEst for your construction projects with our comprehensive guide. Learn best practices, tips, and tricks for accurate and efficient estimating.</description>
     <pubDate>Sun, 15 Oct 2023 00:00:00 GMT</pubDate>
     <author>contact@quantumcybersolutions.com (ConTechNews)</author>
@@ -21,9 +21,9 @@
   </item>
 
   <item>
-    <guid>https://www.www.contechnews.com/blog/tutorials/mastering_stack_takeoff_for_construction_estimating</guid>
+    <guid>https://www.contechnews.com/blog/tutorials/mastering_stack_takeoff_for_construction_estimating</guid>
     <title>Mastering STACK Takeoff for Construction Estimating</title>
-    <link>https://www.www.contechnews.com/blog/tutorials/mastering_stack_takeoff_for_construction_estimating</link>
+    <link>https://www.contechnews.com/blog/tutorials/mastering_stack_takeoff_for_construction_estimating</link>
     <description>Unlock the full potential of STACK Takeoff for precise and efficient construction estimating with this comprehensive guide.</description>
     <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
     <author>contact@quantumcybersolutions.com (ConTechNews)</author>

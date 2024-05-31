@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Construction NoteBook</title>
-      <link>https://www.www.contechnews.com/blog</link>
+      <link>https://www.contechnews.com/blog</link>
       <description>Ric&#39;s Guide to the Galaxy</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (ConTechNews)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (ConTechNews)</webMaster>
       <lastBuildDate>Fri, 13 May 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.www.contechnews.com/tags/road-safety/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.contechnews.com/tags/road-safety/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.www.contechnews.com/blog/EV/AutoDrive</guid>
+    <guid>https://www.contechnews.com/blog/EV/AutoDrive</guid>
     <title>Autonomous Vehicles and Quantum Computing: Paving the Way for Safer and Smarter Transportation</title>
-    <link>https://www.www.contechnews.com/blog/EV/AutoDrive</link>
+    <link>https://www.contechnews.com/blog/EV/AutoDrive</link>
     <description>Explore the safety benefits of autonomous vehicles compared to human drivers and discover how widespread adoption of auto-drive features can revolutionize transportation. Learn about the crucial role of quantum computers in optimizing complex traffic systems and enabling smarter logistics for faster and more efficient travel.</description>
     <pubDate>Fri, 13 May 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (ConTechNews)</author>

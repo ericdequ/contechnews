@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>ConTechNews</title>
-      <link>https://www.www.contechnews.com/blog</link>
+      <link>https://www.contechnews.com/blog</link>
       <description>Learn about the latest in Construction Technology!</description>
       <language>en-us</language>
       <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
       <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
       <lastBuildDate>Tue, 27 Feb 2024 05:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.www.contechnews.com/tags/tool-tracking/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.contechnews.com/tags/tool-tracking/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.www.contechnews.com/blog/tutorials/mastering_tool_tracking_with_hilti_ontrack</guid>
+    <guid>https://www.contechnews.com/blog/tutorials/mastering_tool_tracking_with_hilti_ontrack</guid>
     <title>Mastering Tool Tracking with Hilti ON!Track</title>
-    <link>https://www.www.contechnews.com/blog/tutorials/mastering_tool_tracking_with_hilti_ontrack</link>
+    <link>https://www.contechnews.com/blog/tutorials/mastering_tool_tracking_with_hilti_ontrack</link>
     <description>Dive into the world of efficient tool tracking with Hilti ON!Track. Learn best practices, advanced tutorials, and tips to streamline construction site management.</description>
     <pubDate>Tue, 27 Feb 2024 05:00:00 GMT</pubDate>
     <author>contact@quantumcybersolutions.com (ConTechNews)</author>

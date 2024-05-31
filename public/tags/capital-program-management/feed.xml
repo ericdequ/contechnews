@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>ConTechNews</title>
-      <link>https://www.www.contechnews.com/blog</link>
+      <link>https://www.contechnews.com/blog</link>
       <description>Learn about the latest in Construction Technology!</description>
       <language>en-us</language>
       <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
       <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
       <lastBuildDate>Sun, 01 Oct 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.www.contechnews.com/tags/capital-program-management/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.contechnews.com/tags/capital-program-management/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.www.contechnews.com/blog/tutorials/mastering_ebuilder_setting_up_and_using_for_capital_program_management</guid>
+    <guid>https://www.contechnews.com/blog/tutorials/mastering_ebuilder_setting_up_and_using_for_capital_program_management</guid>
     <title>Mastering eBuilder: Setting Up and Using for Capital Program Management</title>
-    <link>https://www.www.contechnews.com/blog/tutorials/mastering_ebuilder_setting_up_and_using_for_capital_program_management</link>
+    <link>https://www.contechnews.com/blog/tutorials/mastering_ebuilder_setting_up_and_using_for_capital_program_management</link>
     <description>Unlock the full potential of eBuilder with our step-by-step guide to setting up and managing your capital programs efficiently.</description>
     <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
     <author>contact@quantumcybersolutions.com (ConTechNews)</author>

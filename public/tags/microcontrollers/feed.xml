@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Construction NoteBook</title>
-      <link>https://www.www.contechnews.com/blog</link>
+      <link>https://www.contechnews.com/blog</link>
       <description>Ric&#39;s Guide to the Galaxy</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (ConTechNews)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (ConTechNews)</webMaster>
       <lastBuildDate>Sun, 20 Mar 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.www.contechnews.com/tags/microcontrollers/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.contechnews.com/tags/microcontrollers/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.www.contechnews.com/blog/Health/AGMB</guid>
+    <guid>https://www.contechnews.com/blog/Health/AGMB</guid>
     <title>Building an Auto Grow Mushroom Box: A Comprehensive Guide 🍄</title>
-    <link>https://www.www.contechnews.com/blog/Health/AGMB</link>
+    <link>https://www.contechnews.com/blog/Health/AGMB</link>
     <description>Interested in growing your own mushrooms effortlessly? Learn how to build an Auto Grow Mushroom Box with this detailed guide. From microcontrollers to sensors, we cover everything you need to get started. 🌱</description>
     <pubDate>Sun, 20 Mar 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (ConTechNews)</author>

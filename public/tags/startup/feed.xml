@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Construction NoteBook</title>
-      <link>https://www.www.contechnews.com/blog</link>
+      <link>https://www.contechnews.com/blog</link>
       <description>Ric&#39;s Guide to the Galaxy</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (ConTechNews)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (ConTechNews)</webMaster>
       <lastBuildDate>Mon, 18 Sep 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.www.contechnews.com/tags/startup/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.contechnews.com/tags/startup/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.www.contechnews.com/blog/Quantum/QuantumAndCybersecurity</guid>
+    <guid>https://www.contechnews.com/blog/Quantum/QuantumAndCybersecurity</guid>
     <title>Quantum Technologies &amp; Cybersecurity: The Urgent Call to Safeguard Our Digital Realm 🛡️</title>
-    <link>https://www.www.contechnews.com/blog/Quantum/QuantumAndCybersecurity</link>
+    <link>https://www.contechnews.com/blog/Quantum/QuantumAndCybersecurity</link>
     <description>A deep dive into the looming cybersecurity threats posed by quantum technologies and the personal journey behind Quantum Cyber Solutions.</description>
     <pubDate>Mon, 18 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (ConTechNews)</author>

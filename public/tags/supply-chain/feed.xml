@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>ConTechNews</title>
-      <link>https://www.www.contechnews.com/blog</link>
+      <link>https://www.contechnews.com/blog</link>
       <description>Learn about the latest in Construction Technology!</description>
       <language>en-us</language>
       <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
       <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
       <lastBuildDate>Tue, 23 Jan 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.www.contechnews.com/tags/supply-chain/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.contechnews.com/tags/supply-chain/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.www.contechnews.com/blog/Logistics/QuantumLogistics</guid>
+    <guid>https://www.contechnews.com/blog/Logistics/QuantumLogistics</guid>
     <title>Quantum Computing: Revolutionizing Logistics, Saving Money, and Conserving Energy</title>
-    <link>https://www.www.contechnews.com/blog/Logistics/QuantumLogistics</link>
+    <link>https://www.contechnews.com/blog/Logistics/QuantumLogistics</link>
     <description>Discover how quantum computers are set to transform the logistics industry, enabling unprecedented optimization, cost savings, and energy efficiency. Explore the potential of this groundbreaking technology and its impact on supply chain management.</description>
     <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
     <author>contact@quantumcybersolutions.com (ConTechNews)</author>
@@ -21,9 +21,9 @@
   </item>
 
   <item>
-    <guid>https://www.www.contechnews.com/blog/how_to_leverage_blockchain_for_supply_chain_transparency_in_construction</guid>
+    <guid>https://www.contechnews.com/blog/how_to_leverage_blockchain_for_supply_chain_transparency_in_construction</guid>
     <title>How to Leverage Blockchain for Supply Chain Transparency in Construction</title>
-    <link>https://www.www.contechnews.com/blog/how_to_leverage_blockchain_for_supply_chain_transparency_in_construction</link>
+    <link>https://www.contechnews.com/blog/how_to_leverage_blockchain_for_supply_chain_transparency_in_construction</link>
     <description>Discover how blockchain technology can revolutionize supply chain transparency in the construction industry, highlighting its potential for enhanced efficiency, trust, and accountability.</description>
     <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
     <author>contact@quantumcybersolutions.com (ConTechNews)</author>
