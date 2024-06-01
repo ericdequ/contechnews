@@ -10,7 +10,7 @@ summary: 'A detailed review of BMW Services and their exceptional brick paving c
 
 Recently, I had the incredible opportunity to work with [BMW Services](https://www.bmwpaving.com/), and I am thrilled to share my experience with their outstanding craftsmanship and dedication.
 
-![Praver Pool Deck](https://www.quantumcybersolutions.com/bmw/img/portfolio/real_pooldeck.webp)
+![Praver Pool Deck](https://www.quantumcybersolutions.com/bmw/img/portfolio/real_pathway.webp)
 
 ### The Essence of BMW Services
 
