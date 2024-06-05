@@ -1,6 +1,6 @@
 ---
 title: 'The Role of Advanced Simulation Software in Construction Planning'
-date: '2023-10-13'
+date: '2023-02-06'
 tags: ['Construction', 'Simulation', 'Technology']
 draft: false
 summary: 'Dive into the transformative power of advanced simulation software in revolutionizing construction planning and execution. Discover how tech is reshaping the foundations of how we build.'

@@ -1,6 +1,6 @@
 ---
 title: 'Harnessing Technology for Effective Construction Stakeholder Management'
-date: '2023-10-01'
+date: '2023-05-11'
 tags: ['Construction', 'Technology', 'Stakeholder Management']
 draft: false
 summary: 'Dive into how technology transforms stakeholder management in the construction industry, ensuring seamless collaboration, transparency, and efficiency.'

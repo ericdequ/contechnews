@@ -1,6 +1,6 @@
 ---
 title: 'The Future of Construction Labor: Embracing Automation and AI'
-date: '2023-10-10'
+date: '2023-04-28'
 tags: ['Construction', 'Automation', 'AI']
 draft: false
 summary: 'Explore how automation and AI are revolutionizing the construction industry, bringing enhanced efficiency, safety, and sustainability to the forefront.'

@@ -1,6 +1,6 @@
 ---
 title: 'Workr: Revolutionizing the Construction Workforce with an Uber-Like Platform'
-date: '2021-05-07'
+date: '2024-03-31'
 tags: ['Gig Economy', 'Construction Technology', 'Workforce Management', 'Innovation']
 draft: false
 summary: 'Workr is a groundbreaking app designed to decentralize the construction workforce, enabling subcontractors and individuals to connect on-the-fly. This blog post explores how this platform empowers workers and transforms the construction industry in our technologically driven world.'

@@ -1,6 +1,6 @@
 ---
 title: 'The Impact of 3D Printing on Modern Construction Techniques'
-date: '2023-10-17'
+date: '2024-05-22'
 tags: ['3D Printing', 'Construction', 'Innovation']
 draft: false
 summary: 'Explore how 3D printing is revolutionizing the construction industry, from reducing costs and waste to enabling unprecedented architectural creativity and efficiency.'

@@ -1,6 +1,6 @@
 ---
 title: 'How to Optimize Construction Project Schedules with Technology'
-date: '2023-10-05'
+date: '2023-03-08'
 tags: ['Construction', 'Technology', 'Project Management']
 draft: false
 summary: 'Dive into the innovative tech tools transforming construction project scheduling, ensuring efficiency, reduced costs, and timely project completion.'

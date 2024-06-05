@@ -1,6 +1,6 @@
 ---
 title: 'Mastering NoteVault for Construction Daily Reporting'
-date: '2023-10-06'
+date: '2024-03-23'
 tags: ['Construction', 'Software', 'Reporting']
 draft: false
 summary: 'Learn the ins and outs of NoteVault, the leading software for construction daily reporting. This tutorial covers everything from setup to best practices.'

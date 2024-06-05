@@ -1,6 +1,6 @@
 ---
 title: 'The Benefits of Modular Construction in Modern Building Projects'
-date: '2023-10-05'
+date: '2023-02-01'
 tags: ['Construction', 'Innovation', 'Sustainability']
 draft: false
 summary: 'Explore how modular construction is revolutionizing the building industry with enhanced efficiency, sustainability, and cost-effectiveness.'

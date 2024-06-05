@@ -1,6 +1,6 @@
 ---
 title: "The Future of Construction Finance with Fintech Innovations"
-date: '2024-05-21'
+date: '2024-01-29'
 tags: ['construction', 'fintech', 'finance', 'technology', 'investment', 'payment processing', 'financial management']
 draft: true
 summary: "Explore how fintech solutions from companies like Briq and Rabbet are changing the landscape of construction finance, providing better investment tracking, payment processing, and financial management for projects."

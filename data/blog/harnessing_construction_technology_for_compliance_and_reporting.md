@@ -1,6 +1,6 @@
 ---
 title: 'Harnessing Construction Technology for Compliance and Reporting'
-date: '2023-10-09'
+date: '2023-01-25'
 tags: ['Construction', 'Technology', 'Compliance', 'Reporting']
 draft: false
 summary: 'Dive into the world of cutting-edge construction technology and discover how it can streamline compliance and reporting processes in the construction industry.'

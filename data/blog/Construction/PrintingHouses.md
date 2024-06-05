@@ -1,6 +1,6 @@
 ---
 title: 'The Revolution of 3D Printing in Construction: Lower Costs, Faster Builds'
-date: '2024-01-02'
+date: '2023-12-18'
 tags: ['3D Printing', 'Construction Innovation', 'Sustainable Development', 'Future of Building']
 draft: false
 summary: '3D printing technology is transforming the construction industry by reducing costs and construction time, while also exploring new materials for a sustainable future. This blog post delves into how 3D construction printing can shape the future of building development.'

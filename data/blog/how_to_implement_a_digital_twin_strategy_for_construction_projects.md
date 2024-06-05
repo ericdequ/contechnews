@@ -1,6 +1,6 @@
 ---
 title: 'How to Implement a Digital Twin Strategy for Construction Projects'
-date: '2023-10-05'
+date: '2023-05-16'
 tags: ['Digital Twin', 'Construction', 'Technology', 'Innovation']
 draft: false
 summary: 'Discover the transformative power of Digital Twin technology in construction and learn how to implement a winning strategy for your projects.'

@@ -1,6 +1,6 @@
 ---
 title: 'The Impact of Advanced Surveying Technology on Construction Accuracy'
-date: '2023-10-05'
+date: '2023-01-29'
 tags: ['Construction', 'Technology', 'Surveying']
 draft: false
 summary: 'Discover how cutting-edge surveying technologies are revolutionizing construction accuracy, reducing errors, and optimizing workflows in the industry.'

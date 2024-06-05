@@ -1,6 +1,6 @@
 ---
 title: 'The Future of Construction Workforce Training: Technology and Beyond'
-date: '2023-10-08'
+date: '2024-02-08'
 tags: ['Construction', 'Technology', 'Workforce Training']
 draft: false
 summary: 'Discover how innovative technologies are revolutionizing construction workforce training, making the industry safer, more efficient, and future-ready.'

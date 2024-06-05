@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Construction Data Management with Assemble Systems'
-date: '2023-10-06'
+date: '2023-11-05'
 tags: ['Construction', 'Data Management', 'Assemble Systems']
 draft: false
 summary: 'Unlock the power of Assemble Systems for efficient and effective construction data management with this in-depth tutorial and best practices guide.'

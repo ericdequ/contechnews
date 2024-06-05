@@ -1,6 +1,6 @@
 ---
 title: 'The Impact of Digital Platforms on Construction Stakeholder Engagement'
-date: '2023-10-09'
+date: '2024-05-13'
 tags: ['Construction', 'Digital Platforms', 'Stakeholder Engagement', 'Technology']
 draft: false
 summary: 'Explore how digital platforms are transforming the construction industry by enhancing stakeholder engagement, improving transparency, and boosting collaboration.'

@@ -1,6 +1,6 @@
 ---
 title: 'The Impact of Construction Technology on Infrastructure Projects'
-date: '2023-10-04'
+date: '2023-05-10'
 tags: ['Construction', 'Technology', 'Infrastructure']
 draft: false
 summary: 'Discover how cutting-edge construction technologies are revolutionizing infrastructure projects, increasing efficiency, and transforming the industry landscape.'

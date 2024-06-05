@@ -1,6 +1,6 @@
 ---
 title: 'The Role of Digital Fabrication in Custom Architectural Elements'
-date: '2023-10-09'
+date: '2023-11-06'
 tags: ['Digital Fabrication', 'Architecture', 'Innovation']
 draft: false
 summary: 'Discover how digital fabrication is revolutionizing custom architectural elements, enhancing creativity, precision, and sustainability in modern construction.'

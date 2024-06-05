@@ -1,6 +1,6 @@
 ---
 title: 'Mastering STACK Takeoff for Construction Estimating'
-date: '2023-10-05'
+date: '2023-08-16'
 tags: ['Construction', 'Estimating', 'Software']
 draft: false
 summary: 'Unlock the full potential of STACK Takeoff for precise and efficient construction estimating with this comprehensive guide.'

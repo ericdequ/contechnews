@@ -1,6 +1,6 @@
 ---
 title: 'How to Integrate Sustainable Practices into Construction Projects with Technology'
-date: '2023-10-08'
+date: '2023-02-11'
 tags: ['Sustainability', 'Construction', 'Technology']
 draft: false
 summary: 'Discover how technology is transforming sustainability in construction, revolutionizing project efficiency and reducing environmental impact.'

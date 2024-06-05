@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Tekla Structures for Detailed Construction Modeling'
-date: '2023-10-04'
+date: '2024-05-13'
 tags: ['Construction', 'Tekla Structures', 'Modeling']
 draft: false
 summary: 'Unlock the full potential of Tekla Structures for precision construction modeling with this comprehensive guide.'

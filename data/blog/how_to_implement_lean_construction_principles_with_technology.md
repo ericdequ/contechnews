@@ -1,6 +1,6 @@
 ---
 title: 'How to Implement Lean Construction Principles with Technology'
-date: '2023-10-04'
+date: '2024-03-01'
 tags: ['Construction', 'Technology', 'Lean Principles']
 draft: false
 summary: 'Explore how cutting-edge technology can revolutionize lean construction practices, enhance efficiency, and reduce waste in the construction industry.'

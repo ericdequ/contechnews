@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Buildertrend: Your Ultimate Guide for Remodeling Projects'
-date: '2023-10-10'
+date: '2024-03-30'
 tags: ['Project Management', 'Buildertrend', 'Remodeling']
 draft: false
 summary: 'Unlock the full potential of Buildertrend for managing your remodeling projects efficiently and effectively with our comprehensive tutorial.'

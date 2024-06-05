@@ -1,6 +1,6 @@
 ---
 title: 'The Impact of Machine Learning on Construction Project Forecasting'
-date: '2023-10-16'
+date: '2024-04-02'
 tags: ['Machine Learning', 'Construction', 'Project Management']
 draft: false
 summary: 'Discover how machine learning is revolutionizing construction project forecasting by improving accuracy, reducing costs, and enhancing decision-making.'

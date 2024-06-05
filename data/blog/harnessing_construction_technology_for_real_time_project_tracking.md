@@ -1,6 +1,6 @@
 ---
 title: 'Harnessing Construction Technology for Real-Time Project Tracking'
-date: '2023-10-06'
+date: '2023-11-13'
 tags: ['Construction Tech', 'Real-Time Tracking', 'Project Management']
 draft: false
 summary: 'Explore how cutting-edge construction technology is revolutionizing project tracking, enabling real-time updates, seamless communication, and enhanced efficiency.'

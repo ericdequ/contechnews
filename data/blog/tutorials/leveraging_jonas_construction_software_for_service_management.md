@@ -1,6 +1,6 @@
 ---
 title: 'Leveraging Jonas Construction Software for Service Management'
-date: '2023-10-09'
+date: '2023-07-26'
 tags: ['Construction', 'Service Management', 'Software']
 draft: false
 summary: 'Explore how to effectively utilize Jonas Construction Software to optimize service management for your construction business with this comprehensive guide.'

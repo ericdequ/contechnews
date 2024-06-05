@@ -1,6 +1,6 @@
 ---
 title: 'How to Use BIM 360 for Coordinated Project Delivery'
-date: '2023-10-10'
+date: '2023-09-03'
 tags: ['BIM360', 'Project Management', 'Construction']
 draft: false
 summary: 'A comprehensive guide to leveraging BIM 360 for streamlined, efficient, and harmonized project delivery across all disciplines in construction.'

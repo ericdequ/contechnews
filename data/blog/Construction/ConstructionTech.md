@@ -1,6 +1,6 @@
 ---
 title: 'The Technological Transformation of Construction: Key Advancements'
-date: '2024-02-07'
+date: '2023-05-08'
 tags:
   [
     'Construction Technology',

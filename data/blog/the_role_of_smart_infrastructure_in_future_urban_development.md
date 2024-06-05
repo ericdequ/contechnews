@@ -1,6 +1,6 @@
 ---
 title: 'The Role of Smart Infrastructure in Future Urban Development'
-date: '2023-10-10'
+date: '2023-06-17'
 tags: ['Smart Infrastructure', 'Urban Development', 'Technology']
 draft: false
 summary: 'Explore how smart infrastructure is revolutionizing urban environments, improving efficiency, sustainability, and enhancing the quality of life in our cities.'

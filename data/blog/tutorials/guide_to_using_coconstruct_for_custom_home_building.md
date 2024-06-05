@@ -1,6 +1,6 @@
 ---
 title: 'Guide to Using CoConstruct for Custom Home Building'
-date: '2023-12-09'
+date: '2023-04-13'
 tags: ['Construction', 'Project Management', 'Software']
 draft: false
 summary: 'Master the tools and techniques for using CoConstruct efficiently in your custom home building projects.'

@@ -1,6 +1,6 @@
 ---
 title: 'The Role of Construction Technology in Enhancing Building Lifespan'
-date: '2023-10-04'
+date: '2024-05-01'
 tags: ['Construction Technology', 'Innovation', 'Building Lifespan']
 draft: false
 summary: 'Explore how innovative construction technologies are redefining the longevity and durability of modern structures.'

@@ -1,6 +1,6 @@
 ---
 title: 'How Smart Sensors are Enhancing Construction Site Monitoring'
-date: '2023-10-05'
+date: '2023-10-02'
 tags: ['Smart Sensors', 'Construction Technology', 'IoT']
 draft: false
 summary: 'Discover how smart sensors are revolutionizing construction site monitoring, ensuring safety, efficiency, and cost-effectiveness.'

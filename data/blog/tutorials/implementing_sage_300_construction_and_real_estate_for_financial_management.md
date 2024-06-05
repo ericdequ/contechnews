@@ -1,6 +1,6 @@
 ---
 title: 'Implementing Sage 300 Construction and Real Estate for Financial Management'
-date: '2023-10-07'
+date: '2024-02-17'
 tags: ['Sage 300', 'Construction', 'Real Estate', 'Financial Management']
 draft: false
 summary: 'A comprehensive guide to implementing Sage 300 CRE for financial management in construction and real estate projects.'

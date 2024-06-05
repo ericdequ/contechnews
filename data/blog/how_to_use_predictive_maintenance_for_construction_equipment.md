@@ -1,6 +1,6 @@
 ---
 title: 'How to Use Predictive Maintenance for Construction Equipment'
-date: '2023-10-09'
+date: '2023-11-10'
 tags: ['Predictive Maintenance', 'Construction Technology', 'Innovation']
 draft: false
 summary: 'Explore the transformative potential of predictive maintenance in construction, ensuring equipment efficiency and minimizing downtime.'

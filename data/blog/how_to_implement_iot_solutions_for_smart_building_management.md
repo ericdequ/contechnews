@@ -1,6 +1,6 @@
 ---
 title: 'How to Implement IoT Solutions for Smart Building Management'
-date: '2023-10-01'
+date: '2023-06-23'
 tags: ['IoT', 'Smart Building', 'Technology', 'Innovation']
 draft: false
 summary: 'Explore the transformative power of IoT in smart building management. Learn how these advanced solutions can optimize energy use, enhance security, and improve the overall quality of urban living spaces.'

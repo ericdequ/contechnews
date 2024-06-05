@@ -1,6 +1,6 @@
 ---
 title: 'How to Leverage Blockchain for Supply Chain Transparency in Construction'
-date: '2023-10-05'
+date: '2023-07-17'
 tags: ['Blockchain', 'Supply Chain', 'Construction', 'Technology']
 draft: false
 summary: 'Discover how blockchain technology can revolutionize supply chain transparency in the construction industry, highlighting its potential for enhanced efficiency, trust, and accountability.'

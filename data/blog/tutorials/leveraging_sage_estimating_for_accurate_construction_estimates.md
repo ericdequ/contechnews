@@ -1,6 +1,6 @@
 ---
 title: 'Leveraging Sage Estimating for Accurate Construction Estimates'
-date: '2023-10-13'
+date: '2023-06-22'
 tags: ['Construction', 'Software', 'Sage Estimating']
 draft: false
 summary: 'Learn how to harness the power of Sage Estimating to produce precise, efficient, and reliable construction estimates that can elevate your project planning and execution.'

@@ -1,6 +1,6 @@
 ---
 title: 'How to Leverage Construction Technology for Effective Team Collaboration'
-date: '2023-10-02'
+date: '2023-05-25'
 tags: ['Construction Technology', 'Team Collaboration', 'Innovation']
 draft: false
 summary: 'Discover the power of construction technology to boost team collaboration, streamline operations, and drive project success.'

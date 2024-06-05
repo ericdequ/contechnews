@@ -1,6 +1,6 @@
 ---
 title: 'Mastering HeavyBid: A Comprehensive Tutorial for Construction Bidding'
-date: '2023-10-06'
+date: '2024-01-21'
 tags: ['Construction', 'Software', 'Tutorial']
 draft: false
 summary: 'Unlock the full potential of HeavyBid with our in-depth tutorial that covers everything from installation to advanced bidding strategies for construction projects.'

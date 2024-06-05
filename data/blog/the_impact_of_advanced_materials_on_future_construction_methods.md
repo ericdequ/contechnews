@@ -1,6 +1,6 @@
 ---
 title: 'The Impact of Advanced Materials on Future Construction Methods'
-date: '2023-10-12'
+date: '2023-09-19'
 tags: ['Construction', 'Advanced Materials', 'Innovation']
 draft: false
 summary: 'Explore how advanced materials are revolutionizing the construction industry and shaping the future of building methods.'

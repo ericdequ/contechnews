@@ -1,6 +1,6 @@
 ---
 title: 'The Role of Digital Dashboards in Construction Project Management'
-date: '2023-10-07'
+date: '2023-11-24'
 tags: ['Construction', 'Project Management', 'Digital Dashboards', 'Technology']
 draft: false
 summary: 'Discover how digital dashboards enhance efficiency, transparency, and decision-making in construction project management.'

@@ -1,6 +1,6 @@
 ---
 title: 'The Role of AI and Machine Learning in Construction Site Safety'
-date: '2023-10-05'
+date: '2024-04-14'
 tags: ['AI', 'Machine Learning', 'Construction', 'Safety']
 draft: false
 summary: 'Discover how AI and machine learning are revolutionizing safety protocols on construction sites, ensuring a safer work environment through predictive analytics, real-time monitoring, and advanced robotics.'

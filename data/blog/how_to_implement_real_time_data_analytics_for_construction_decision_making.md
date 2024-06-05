@@ -1,6 +1,6 @@
 ---
 title: 'How to Implement Real-Time Data Analytics for Construction Decision-Making'
-date: '2023-10-01'
+date: '2023-08-27'
 tags: ['Construction', 'Data Analytics', 'Real-time']
 draft: false
 summary: 'Discover how real-time data analytics can revolutionize decision-making in the construction industry. Learn about the tools, techniques, and benefits of integrating real-time data analytics into your construction projects.'

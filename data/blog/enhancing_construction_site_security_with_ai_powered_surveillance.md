@@ -1,6 +1,6 @@
 ---
 title: 'Enhancing Construction Site Security with AI-Powered Surveillance'
-date: '2024-05-21'
+date: '2023-10-24'
 tags: ['Construction', 'Technology', 'AI', 'Surveillance', 'Security', 'Innovations', 'Avigilon', 'Deep Sentinel']
 draft: true
 summary: 'Explore how AI-powered surveillance systems by companies like Avigilon and Deep Sentinel are transforming security measures on construction sites with real-time threat detection and response capabilities.'

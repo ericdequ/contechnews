@@ -1,6 +1,6 @@
 ---
 title: 'The Role of Blockchain in Construction: Enhancing Transparency and Efficiency'
-date: '2023-10-13'
+date: '2023-06-21'
 tags: ['Blockchain', 'Construction', 'Technology']
 draft: false
 summary: 'Explore how blockchain technology is revolutionizing the construction industry by increasing transparency and improving operational efficiency.'

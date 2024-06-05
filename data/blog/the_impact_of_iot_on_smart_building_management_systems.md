@@ -1,6 +1,6 @@
 ---
 title: 'The Impact of IoT on Smart Building Management Systems'
-date: '2023-10-20'
+date: '2024-03-25'
 tags: ['IoT', 'Smart Buildings', 'Technology', 'Innovation']
 draft: false
 summary: 'Explore how the Internet of Things is revolutionizing the management of smart buildings, making them more efficient, sustainable, and user-friendly.'

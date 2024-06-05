@@ -1,6 +1,6 @@
 ---
 title: 'The Impact of Digital Twins on Urban Planning and Development'
-date: '2023-10-20'
+date: '2024-01-25'
 tags: ['Urban Planning', 'Digital Twin', 'Smart Cities']
 draft: false
 summary: 'Explore how digital twins are revolutionizing urban planning, offering a new level of precision, efficiency, and sustainable development.'

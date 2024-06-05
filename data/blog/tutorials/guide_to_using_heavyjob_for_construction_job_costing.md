@@ -1,6 +1,6 @@
 ---
 title: 'Guide to Using HeavyJob for Construction Job Costing'
-date: '2023-10-02'
+date: '2024-05-20'
 tags: ['Construction', 'Software', 'HeavyJob', 'Costing']
 draft: false
 summary: 'Learn how to efficiently use HeavyJob for construction job costing. This comprehensive guide covers everything from initial setup to advanced features, ensuring your projects stay on budget and on track.'

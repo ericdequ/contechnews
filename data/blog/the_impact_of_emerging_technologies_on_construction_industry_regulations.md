@@ -1,6 +1,6 @@
 ---
 title: 'The Impact of Emerging Technologies on Construction Industry Regulations'
-date: '2023-10-17'
+date: '2023-10-04'
 tags: ['Construction', 'Emerging Technologies', 'Regulations']
 draft: false
 summary: 'Exploring how breakthrough technologies are reshaping regulatory landscapes in the construction industry, paving the way for safer, more efficient, and innovative building practices.'

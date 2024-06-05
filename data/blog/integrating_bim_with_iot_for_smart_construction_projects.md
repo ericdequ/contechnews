@@ -1,6 +1,6 @@
 ---
 title: 'Integrating BIM with IoT for Smart Construction Projects'
-date: '2023-10-01'
+date: '2023-09-20'
 tags: ['BIM', 'IoT', 'Smart Construction', 'Technology']
 draft: false
 summary: 'Discover how integrating Building Information Modeling (BIM) with the Internet of Things (IoT) can revolutionize smart construction projects, enhancing efficiency, safety, and overall project outcomes.'

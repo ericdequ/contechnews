@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Construction Estimating with ProEst'
-date: '2023-10-15'
+date: '2023-04-04'
 tags: ['Construction', 'Software', 'Estimating']
 draft: false
 summary: 'Unlock the full potential of ProEst for your construction projects with our comprehensive guide. Learn best practices, tips, and tricks for accurate and efficient estimating.'

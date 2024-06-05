@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Aconex for Construction Project Controls'
-date: '2023-10-07'
+date: '2023-03-16'
 tags: ['Construction', 'Project Management', 'Software']
 draft: false
 summary: 'Dive deep into Aconex and learn how to streamline your construction project controls with our comprehensive guide.'

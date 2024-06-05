@@ -1,6 +1,6 @@
 ---
 title: 'How to Use Geofencing for Enhanced Construction Site Security'
-date: '2023-10-10'
+date: '2023-11-17'
 tags: ['Geofencing', 'Construction', 'Security', 'Technology']
 draft: false
 summary: 'Discover how geofencing technology can revolutionize security measures on construction sites by offering real-time alerts, precise monitoring, and robust protection.'

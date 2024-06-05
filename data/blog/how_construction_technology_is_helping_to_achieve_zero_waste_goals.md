@@ -1,6 +1,6 @@
 ---
 title: 'How Construction Technology is Helping to Achieve Zero Waste Goals'
-date: '2023-10-06'
+date: '2024-05-16'
 tags: ['Construction', 'Technology', 'Sustainability']
 draft: false
 summary: 'Explore how cutting-edge construction technology is paving the way towards achieving zero waste goals and revolutionizing the industry.'

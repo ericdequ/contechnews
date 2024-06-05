@@ -1,6 +1,6 @@
 ---
 title: 'Trimble: A Comprehensive Overview of the Construction Technology Powerhouse'
-date: '2023-05-28'
+date: '2024-05-09'
 tags:
   [
     'Construction Technology',

@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Corecon: A Comprehensive Guide to Construction Project Management'
-date: '2023-10-05'
+date: '2023-05-05'
 tags: ['Construction', 'Project Management', 'Corecon']
 draft: false
 summary: 'Dive into the ultimate tutorial on using Corecon for effective construction project management, with detailed steps and best practices.'

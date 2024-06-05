@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Buildertrend for Scheduling and Client Communication'
-date: '2023-10-04'
+date: '2023-04-29'
 tags: ['Buildertrend', 'Project Management', 'Client Communication']
 draft: false
 summary: 'Unlock the full potential of Buildertrend for efficient scheduling and seamless client communication. Dive into advanced tutorials and best practices to optimize your project management workflow.'

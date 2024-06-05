@@ -1,6 +1,6 @@
 ---
 title: 'How Wearable Technology is Improving Safety on Construction Sites'
-date: '2023-10-05'
+date: '2024-04-03'
 tags: ['Wearable Technology', 'Construction', 'Safety']
 draft: false
 summary: 'Discover how wearable technology is revolutionizing safety standards on construction sites, reducing accidents, and improving workers well-being.'

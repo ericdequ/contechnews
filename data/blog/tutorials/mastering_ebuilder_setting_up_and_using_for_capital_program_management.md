@@ -1,6 +1,6 @@
 ---
 title: 'Mastering eBuilder: Setting Up and Using for Capital Program Management'
-date: '2023-10-01'
+date: '2023-07-10'
 tags: ['eBuilder', 'Capital Program Management', 'Tutorial']
 draft: false
 summary: 'Unlock the full potential of eBuilder with our step-by-step guide to setting up and managing your capital programs efficiently.'

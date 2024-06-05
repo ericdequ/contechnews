@@ -1,6 +1,6 @@
 ---
 title: 'Harnessing Predictive Analytics for Proactive Construction Risk Management'
-date: '2023-10-05'
+date: '2023-07-30'
 tags: ['Predictive Analytics', 'Construction', 'Risk Management']
 draft: false
 summary: 'Discover the transformative power of predictive analytics in managing risks within the construction industry. Learn practical applications, benefits, and how this technology is revolutionizing the way construction projects are delivered.'

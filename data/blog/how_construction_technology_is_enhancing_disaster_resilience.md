@@ -1,6 +1,6 @@
 ---
 title: 'How Construction Technology is Enhancing Disaster Resilience'
-date: '2023-10-13'
+date: '2023-10-02'
 tags: ['Construction Technology', 'Disaster Resilience', 'Innovation']
 draft: false
 summary: 'Discover how cutting-edge construction technologies are transforming the way we build to withstand natural disasters and protect communities.'

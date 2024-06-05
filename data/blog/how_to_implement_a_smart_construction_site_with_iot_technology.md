@@ -1,6 +1,6 @@
 ---
 title: 'How to Implement a Smart Construction Site with IoT Technology'
-date: '2023-10-01'
+date: '2024-02-07'
 tags: ['IoT', 'Construction', 'Smart Technology']
 draft: false
 summary: 'Discover the potential of IoT technology in transforming construction sites into smart hubs of innovation, safety, and efficiency.'

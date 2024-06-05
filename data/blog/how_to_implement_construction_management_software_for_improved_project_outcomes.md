@@ -1,6 +1,6 @@
 ---
 title: 'How to Implement Construction Management Software for Improved Project Outcomes'
-date: '2023-10-14'
+date: '2023-06-25'
 tags: ['Construction Management', 'Software Implementation', 'Project Management']
 draft: false
 summary: 'Discover how construction management software can transform your project outcomes and the essential steps to implement it effectively.'

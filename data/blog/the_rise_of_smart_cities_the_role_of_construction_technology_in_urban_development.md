@@ -1,6 +1,6 @@
 ---
 title: 'The Rise of Smart Cities: The Role of Construction Technology in Urban Development'
-date: '2023-10-03'
+date: '2023-10-22'
 tags: ['Smart Cities', 'Construction Technology', 'Urban Development']
 draft: false
 summary: 'Explore how construction technology is revolutionizing urban landscapes, making cities smarter, more efficient, and more sustainable.'

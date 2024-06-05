@@ -1,6 +1,6 @@
 ---
 title: 'Guide to Using Pype AutoSpecs for Automated Specification Management'
-date: '2023-10-10'
+date: '2023-11-30'
 tags: ['Pype', 'AutoSpecs', 'Automation', 'Construction']
 draft: false
 summary: 'Master the automation of specification management with Pype AutoSpecs. This comprehensive guide walks you through tutorials and best practices for leveraging its power in construction projects.'

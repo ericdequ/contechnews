@@ -1,6 +1,6 @@
 ---
 title: 'The Impact of Technology on Construction Quality Assurance'
-date: '2023-10-13'
+date: '2023-08-29'
 tags: ['Construction', 'Technology', 'Quality Assurance']
 draft: false
 summary: 'Explore how cutting-edge technology is revolutionizing construction quality assurance, leading to higher standards, increased efficiency, and safer building practices.'

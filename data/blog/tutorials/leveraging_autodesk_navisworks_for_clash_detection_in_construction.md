@@ -1,6 +1,6 @@
 ---
 title: 'Leveraging Autodesk Navisworks for Clash Detection in Construction'
-date: '2023-10-06'
+date: '2023-09-17'
 tags: ['Autodesk Navisworks', 'Construction', 'Clash Detection']
 draft: false
 summary: 'Explore how Autodesk Navisworks revolutionizes clash detection in construction with detailed tutorials, best practices, and expert tips.'

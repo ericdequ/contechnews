@@ -1,6 +1,6 @@
 ---
 title: 'Bridging the Gap: How Construction Tech is Helping to Address Labor Shortages'
-date: '2023-10-11'
+date: '2023-09-27'
 tags: ['Construction Tech', 'Innovation', 'Labor Shortages', 'Automation']
 draft: false
 summary: 'Discover how cutting-edge technologies are transforming the construction industry and tackling labor shortages head-on. From robotics to AI, explore the innovations that are building the future.'

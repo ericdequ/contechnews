@@ -1,6 +1,6 @@
 ---
 title: 'How Construction Technology is Transforming the Housing Market'
-date: '2023-10-10'
+date: '2023-07-02'
 tags: ['Construction', 'Technology', 'Innovation', 'Housing Market']
 draft: false
 summary: 'Discover how groundbreaking construction technology is revolutionizing the housing market, from 3D-printed homes to smart buildings and beyond.'

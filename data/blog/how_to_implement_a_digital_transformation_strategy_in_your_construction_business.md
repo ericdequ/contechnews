@@ -1,6 +1,6 @@
 ---
 title: 'How to Implement a Digital Transformation Strategy in Your Construction Business'
-date: '2023-10-01'
+date: '2023-03-05'
 tags: ['Digital Transformation', 'Construction', 'Technology']
 draft: false
 summary: 'Discover how to harness the power of digital transformation to elevate your construction business, streamline operations, and increase profitability.'

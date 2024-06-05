@@ -1,6 +1,6 @@
 ---
 title: 'Mastering B2W Software for Heavy Civil Construction'
-date: '2023-10-08'
+date: '2023-04-21'
 tags: ['B2W Software', 'Heavy Civil Construction', 'Technology', 'Tutorial']
 draft: false
 summary: 'Discover the comprehensive guide on setting up and effectively using B2W Software for heavy civil construction projects, optimizing workflows and enhancing productivity.'

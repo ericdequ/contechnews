@@ -1,6 +1,6 @@
 ---
 title: 'How to Implement Advanced Project Management Tools in Construction'
-date: '2023-10-04'
+date: '2023-08-03'
 tags: ['Construction', 'Project Management', 'Technology']
 draft: false
 summary: 'Explore how advanced project management tools can revolutionize the construction industry by improving efficiency, collaboration, and project outcomes.'

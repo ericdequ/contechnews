@@ -1,6 +1,6 @@
 ---
 title: 'How Big Data is Driving Decision-Making in Construction Projects'
-date: '2023-10-07'
+date: '2023-04-08'
 tags: ['Big Data', 'Construction', 'Innovation']
 draft: false
 summary: 'Discover how the revolutionary power of Big Data is transforming decision-making processes in the construction industry, leading to smarter, more efficient, and safer projects.'

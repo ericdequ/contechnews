@@ -1,6 +1,6 @@
 ---
 title: 'How to Use Advanced Robotics for Precision Construction Tasks'
-date: '2023-10-01'
+date: '2024-02-23'
 tags: ['Robotics', 'Construction', 'Innovation', 'Technology']
 draft: false
 summary: 'Dive into the transformative world of advanced robotics in construction, exploring how innovative technologies are revolutionizing precision tasks for efficiency and accuracy.'

@@ -1,6 +1,6 @@
 ---
 title: 'The Role of Construction Tech in Reducing Environmental Impact'
-date: '2023-10-09'
+date: '2023-05-22'
 tags: ['Construction Tech', 'Environmental Impact', 'Sustainable Technology']
 draft: false
 summary: 'Discover how cutting-edge construction technologies are revolutionizing the industry by significantly reducing environmental impact. From smart materials to eco-friendly building practices, join us as we explore the tech driving sustainability in construction.'

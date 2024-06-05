@@ -1,6 +1,6 @@
 ---
 title: 'Revolutionizing Safety: How Robotics are Transforming Demolition and Hazardous Material Handling'
-date: '2023-10-05'
+date: '2023-10-21'
 tags: ['Robotics', 'Innovation', 'Safety']
 draft: false
 summary: 'Explore the cutting-edge applications of robotics in the demolition and hazardous material handling sectors, and how these advancements are enhancing safety and efficiency.'

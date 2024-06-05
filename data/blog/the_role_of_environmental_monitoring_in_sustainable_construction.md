@@ -1,6 +1,6 @@
 ---
 title: 'The Role of Environmental Monitoring in Sustainable Construction'
-date: '2023-10-04'
+date: '2023-09-07'
 tags: ['Sustainable Construction', 'Environmental Monitoring', 'Green Technology', 'Innovation']
 draft: false
 summary: 'Explore how environmental monitoring is revolutionizing sustainable construction, making projects greener, smarter, and more efficient.'

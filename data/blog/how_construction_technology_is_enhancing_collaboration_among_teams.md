@@ -1,6 +1,6 @@
 ---
 title: 'How Construction Technology is Enhancing Collaboration Among Teams'
-date: '2023-10-12'
+date: '2024-06-04'
 tags: ['Construction Technology', 'Collaboration', 'Innovation']
 draft: false
 summary: 'Explore how cutting-edge construction technologies are revolutionizing team collaboration, optimizing workflows, and driving the industry forward.'

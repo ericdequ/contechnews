@@ -1,6 +1,6 @@
 ---
 title: 'How 3D Scanning is Enhancing Construction Project Documentation'
-date: '2023-10-09'
+date: '2023-04-11'
 tags: ['Construction', '3D Scanning', 'Technology', 'Innovation']
 draft: false
 summary: 'Explore how cutting-edge 3D scanning technology is revolutionizing the way construction projects are documented, making the building process more accurate, efficient, and safe.'

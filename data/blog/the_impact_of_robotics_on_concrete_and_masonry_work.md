@@ -1,6 +1,6 @@
 ---
 title: 'The Impact of Robotics on Concrete and Masonry Work'
-date: '2023-10-05'
+date: '2024-06-04'
 tags: ['Robotics', 'Construction', 'Innovation']
 draft: false
 summary: 'Explore the transformative role of robotics in the construction industry, specifically focusing on concrete and masonry work. Uncover the exciting advancements, challenges, and future potential of this technological revolution.'

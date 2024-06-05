@@ -1,6 +1,6 @@
 ---
 title: 'How Construction Tech is Revolutionizing the Renovation and Remodeling Industry'
-date: '2023-10-27'
+date: '2023-10-24'
 tags: ['Construction Tech', 'Innovation', 'Renovation']
 draft: false
 summary: 'Explore the groundbreaking technologies that are transforming the renovation and remodeling landscape, making projects faster, more efficient, and highly innovative.'

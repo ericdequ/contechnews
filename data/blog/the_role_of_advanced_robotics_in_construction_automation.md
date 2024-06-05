@@ -1,6 +1,6 @@
 ---
 title: 'The Role of Advanced Robotics in Construction Automation'
-date: '2023-10-09'
+date: '2023-12-05'
 tags: ['Robotics', 'Construction', 'Automation', 'Innovation']
 draft: false
 summary: 'Dive into the transformative impact of advanced robotics in automating the construction industry. Discover how robots are making building sites smarter, safer, and more efficient.'

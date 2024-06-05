@@ -1,6 +1,6 @@
 ---
 title: 'Harnessing Technology for Effective Construction Waste Management'
-date: '2023-10-20'
+date: '2023-07-28'
 tags: ['Technology', 'Construction', 'Waste Management']
 draft: false
 summary: 'Discover how innovative technologies are transforming construction waste management, making it more efficient, sustainable, and cost-effective.'

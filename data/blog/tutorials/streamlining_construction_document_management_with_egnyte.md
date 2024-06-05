@@ -1,6 +1,6 @@
 ---
 title: 'Streamlining Construction Document Management with Egnyte'
-date: '2023-10-24'
+date: '2023-04-22'
 tags: ['Construction', 'Document Management', 'Egnyte']
 draft: false
 summary: 'Master the art of construction document management with Egnyte through this comprehensive tutorial. Learn best practices and advanced techniques to optimize your workflow.'

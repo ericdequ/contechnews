@@ -1,6 +1,6 @@
 ---
 title: 'The Impact of Digital Transformation on Construction Business Models'
-date: '2023-10-08'
+date: '2024-05-01'
 tags: ['Digital Transformation', 'Construction', 'Innovation']
 draft: false
 summary: 'Explore how digital transformation is reshaping the construction industry, driving efficiency, and sparking innovation.'

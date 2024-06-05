@@ -1,6 +1,6 @@
 ---
 title: 'The Role of Virtual Reality in Construction Training and Simulation'
-date: '2023-10-15'
+date: '2023-11-28'
 tags: ['Virtual Reality', 'Construction', 'Training', 'Simulation']
 draft: false
 summary: 'Discover how Virtual Reality (VR) is transforming construction training and simulation, enhancing safety, efficiency, and skills acquisition.'

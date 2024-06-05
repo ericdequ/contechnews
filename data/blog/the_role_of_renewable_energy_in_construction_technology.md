@@ -1,6 +1,6 @@
 ---
 title: 'The Role of Renewable Energy in Construction Technology'
-date: '2023-10-20'
+date: '2023-03-14'
 tags: ['Renewable Energy', 'Construction Technology', 'Innovation']
 draft: false
 summary: 'Explore how renewable energy is revolutionizing the construction industry, from green buildings to sustainable infrastructure. Learn about innovative technologies and future-forward practices shaping the industry today.'

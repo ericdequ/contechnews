@@ -1,6 +1,6 @@
 ---
 title: 'The Impact of Smart Contracts on Streamlining Construction Payments'
-date: '2023-10-04'
+date: '2023-08-03'
 tags: ['Blockchain', 'Construction', 'Smart Contracts']
 draft: false
 summary: 'Discover how smart contracts are revolutionizing the construction industry by streamlining payment processes, ensuring transparency, and reducing disputes.'

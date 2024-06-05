@@ -1,6 +1,6 @@
 ---
 title: 'The Role of Advanced Manufacturing in Modern Construction'
-date: '2023-10-05'
+date: '2023-12-24'
 tags: ['Construction', 'Technology', 'Advanced Manufacturing']
 draft: false
 summary: 'Explore how advanced manufacturing technologies are revolutionizing the construction industry, making it more efficient, sustainable, and innovative.'

@@ -1,6 +1,6 @@
 ---
 title: 'How to Use Advanced Analytics for Construction Resource Optimization'
-date: '2023-10-12'
+date: '2023-02-18'
 tags: ['Construction', 'Analytics', 'Optimization']
 draft: false
 summary: 'Discover how advanced analytics can revolutionize resource optimization in the construction industry, driving efficiency and cost savings like never before.'

@@ -1,6 +1,6 @@
 ---
 title: 'Sustainable Construction: How Technology is Helping to Build Greener Structures'
-date: '2023-10-05'
+date: '2024-03-30'
 tags: ['Sustainable Construction', 'Green Technology', 'Innovation']
 draft: false
 summary: 'Explore how cutting-edge technologies are revolutionizing sustainable construction and paving the way for greener, eco-friendly buildings.'

@@ -1,6 +1,6 @@
 ---
 title: 'How to Utilize Smart Building Materials for Innovative Construction Projects'
-date: '2023-10-01'
+date: '2023-09-11'
 tags: ['Construction', 'Smart Technology', 'Innovation']
 draft: false
 summary: 'Unleashing the power of smart building materials to revolutionize the construction industry and create more efficient, sustainable, and intelligent structures.'

@@ -1,6 +1,6 @@
 ---
 title: 'The Role of AI in Enhancing Construction Design and Architecture'
-date: '2023-10-01'
+date: '2023-03-30'
 tags: ['AI', 'Construction', 'Architecture', 'Innovation']
 draft: false
 summary: 'Discover how Artificial Intelligence is revolutionizing the construction and architecture industry, enhancing design precision, efficiency, and sustainability.'

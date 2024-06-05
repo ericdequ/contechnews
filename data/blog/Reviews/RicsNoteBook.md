@@ -1,6 +1,6 @@
 ---
 title: 'Rics Notebook Blog Review'
-date: '2021-02-30'
+date: '2023-06-24'
 tags: ['Quantum Technology', 'Cybersecurity', 'AI', 'Sustainability', 'Blog Review']
 draft: false
 summary: 'A review of Rics Notebook blog, highlighting its inspiring and insightful content that motivated the creation of this blog.'

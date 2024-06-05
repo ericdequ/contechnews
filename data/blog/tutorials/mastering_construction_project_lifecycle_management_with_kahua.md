@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Construction Project Lifecycle Management with Kahua'
-date: '2023-10-05'
+date: '2023-08-21'
 tags: ['Construction', 'Project Management', 'Kahua']
 draft: false
 summary: 'Discover how to leverage Kahua for streamlined and efficient management of construction projects from inception to completion.'

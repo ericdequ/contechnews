@@ -1,6 +1,6 @@
 ---
 title: 'Mastering CAT Phones: Ultimate Guide for Rugged Construction Work'
-date: '2023-10-07'
+date: '2023-05-29'
 tags: ['CAT Phones', 'Construction Technology', 'Rugged Devices']
 draft: false
 summary: 'Discover the power of CAT phones for rugged construction work. Learn best practices, tips, and in-depth tutorials to maximize their utility on site.'

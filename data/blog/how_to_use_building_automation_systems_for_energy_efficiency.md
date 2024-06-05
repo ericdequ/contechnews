@@ -1,6 +1,6 @@
 ---
 title: 'How to Use Building Automation Systems for Energy Efficiency'
-date: '2023-10-04'
+date: '2024-02-28'
 tags: ['Building Automation', 'Energy Efficiency', 'Smart Technology']
 draft: false
 summary: 'Explore how building automation systems can revolutionize energy management and lead to substantial savings in commercial and residential properties.'

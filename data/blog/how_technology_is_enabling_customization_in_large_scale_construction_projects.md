@@ -1,6 +1,6 @@
 ---
 title: 'How Technology is Enabling Customization in Large-Scale Construction Projects'
-date: '2023-10-04'
+date: '2024-03-21'
 tags: ['Construction', 'Technology', 'Customization']
 draft: false
 summary: 'Explore how cutting-edge technology is revolutionizing the construction industry by enabling unprecedented levels of customization, from 3D printing to AI-powered design.'

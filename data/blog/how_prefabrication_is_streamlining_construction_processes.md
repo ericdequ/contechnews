@@ -1,6 +1,6 @@
 ---
 title: 'How Prefabrication is Streamlining Construction Processes'
-date: '2023-10-07'
+date: '2024-04-22'
 tags: ['Construction', 'Innovation', 'Technology']
 draft: false
 summary: 'Discover how prefabrication is revolutionizing the construction industry by reducing costs, improving quality, and expediting project timelines.'

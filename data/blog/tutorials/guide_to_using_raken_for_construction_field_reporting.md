@@ -1,6 +1,6 @@
 ---
 title: 'Guide to Using Raken for Construction Field Reporting'
-date: '2023-10-01'
+date: '2023-03-28'
 tags: ['Construction', 'Field Reporting', 'Software']
 draft: false
 summary: 'Elevate your construction field reporting with Raken! This guide provides comprehensive tutorials and best practices for leveraging this powerful tool to streamline your construction projects.'

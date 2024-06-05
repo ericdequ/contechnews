@@ -1,6 +1,6 @@
 ---
 title: 'How to Utilize Advanced Surveying Tools for Precision Engineering'
-date: '2023-10-09'
+date: '2023-08-27'
 tags: ['Surveying', 'Precision Engineering', 'Technology']
 draft: false
 summary: 'Discover the latest advancements in surveying tools that are revolutionizing the field of precision engineering. Learn about the technologies, techniques, and best practices that ensure pinpoint accuracy in your engineering projects.'

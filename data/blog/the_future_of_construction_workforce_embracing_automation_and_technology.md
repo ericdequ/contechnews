@@ -1,6 +1,6 @@
 ---
 title: 'The Future of Construction Workforce: Embracing Automation and Technology'
-date: '2023-10-10'
+date: '2024-05-24'
 tags: ['Construction', 'Automation', 'Technology']
 draft: false
 summary: 'Dive into how automation and advanced technologies are reshaping the construction industry, offering insights into the future workforce, increased efficiency, and innovative solutions.'

@@ -1,6 +1,6 @@
 ---
 title: 'How to Use Laser Scanning Technology for Precise Construction Measurements'
-date: '2023-10-05'
+date: '2023-08-01'
 tags: ['Construction', 'Laser Scanning', 'Technology']
 draft: false
 summary: 'Unlock the potential of laser scanning technology in construction for accurate and efficient measurements, saving time, reducing errors, and enhancing project outcomes.'

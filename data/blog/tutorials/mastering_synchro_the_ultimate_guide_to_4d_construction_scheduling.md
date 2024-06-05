@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Synchro: The Ultimate Guide to 4D Construction Scheduling'
-date: '2023-10-27'
+date: '2023-09-05'
 tags: ['Synchro', '4D Scheduling', 'Construction Technology']
 draft: false
 summary: 'Dive into the advanced world of Synchro for 4D construction scheduling. Learn best practices, features, and step-by-step tutorials to supercharge your project planning.'

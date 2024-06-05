@@ -1,6 +1,6 @@
 ---
 title: 'The Future of Construction Contracts: Smart Contracts and Blockchain'
-date: '2023-11-04'
+date: '2023-08-09'
 tags: ['Construction', 'Blockchain', 'Smart Contracts']
 draft: false
 summary: 'Discover how smart contracts and blockchain are revolutionizing the construction industry, offering greater transparency, efficiency, and security.'

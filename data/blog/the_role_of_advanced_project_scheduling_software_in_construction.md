@@ -1,6 +1,6 @@
 ---
 title: 'The Role of Advanced Project Scheduling Software in Construction'
-date: '2023-10-15'
+date: '2024-01-16'
 tags: ['Construction', 'Project Management', 'Software']
 draft: false
 summary: 'Discover how advanced project scheduling software is revolutionizing the construction industry by optimizing project timelines, enhancing collaboration, and ensuring efficient resource allocation.'

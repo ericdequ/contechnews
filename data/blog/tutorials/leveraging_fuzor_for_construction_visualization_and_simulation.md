@@ -1,6 +1,6 @@
 ---
 title: 'Leveraging Fuzor for Construction Visualization and Simulation'
-date: '2023-10-05'
+date: '2024-01-09'
 tags: ['Construction', 'Simulation', 'Visualization', 'Software']
 draft: false
 summary: 'Unlock the power of Fuzor to transform your construction project management through advanced visualization and simulation techniques.'

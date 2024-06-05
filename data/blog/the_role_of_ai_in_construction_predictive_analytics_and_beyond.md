@@ -1,6 +1,6 @@
 ---
 title: 'The Role of AI in Construction: Predictive Analytics and Beyond'
-date: '2023-10-05'
+date: '2023-11-16'
 tags: ['AI', 'Construction', 'Technology', 'Innovation']
 draft: false
 summary: 'Exploring how AI, particularly predictive analytics, is transforming the construction industry, enhancing efficiency, safety, and project outcomes.'

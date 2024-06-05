@@ -1,6 +1,6 @@
 ---
 title: 'The Future of Construction Equipment: Trends in Automation and Efficiency'
-date: '2023-10-02'
+date: '2023-03-21'
 tags: ['Construction', 'Automation', 'Innovation']
 draft: false
 summary: 'Dive into the remarkable trends shaping the future of construction equipment through automation and efficiency, revolutionizing the industry as we know it.'

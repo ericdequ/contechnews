@@ -1,6 +1,6 @@
 ---
 title: 'How Technology is Enhancing Prefabrication and Modular Construction'
-date: '2023-10-05'
+date: '2023-10-29'
 tags: ['Technology', 'Construction', 'Innovation']
 draft: false
 summary: 'Explore how cutting-edge technologies are revolutionizing the prefabrication and modular construction industry, leading to faster, greener, and more efficient building processes.'

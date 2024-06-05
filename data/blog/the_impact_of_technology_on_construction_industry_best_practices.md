@@ -1,6 +1,6 @@
 ---
 title: 'The Impact of Technology on Construction Industry Best Practices'
-date: '2023-10-05'
+date: '2023-07-29'
 tags: ['Construction', 'Technology', 'Innovation']
 draft: false
 summary: 'Discover how technology is revolutionizing best practices in the construction industry, enhancing efficiency, safety, and sustainability.'

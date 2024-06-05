@@ -1,6 +1,6 @@
 ---
 title: 'The Future of Construction Collaboration: Virtual and Augmented Reality Tools'
-date: '2023-10-03'
+date: '2023-02-18'
 tags: ['Construction', 'AR', 'VR', 'Innovation', 'Technology']
 draft: false
 summary: 'Discover how virtual and augmented reality tools are revolutionizing the construction industry by enhancing collaboration, increasing efficiency, and reducing errors.'

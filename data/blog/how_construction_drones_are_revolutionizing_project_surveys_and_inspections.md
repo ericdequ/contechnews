@@ -1,6 +1,6 @@
 ---
 title: 'How Construction Drones are Revolutionizing Project Surveys and Inspections'
-date: '2023-10-12'
+date: '2023-12-06'
 tags: ['Construction', 'Drones', 'Technology']
 draft: false
 summary: 'Unveil the transformative potential of drones in construction, boosting efficiency, cost-effectiveness, and safety through innovative project surveys and inspections.'

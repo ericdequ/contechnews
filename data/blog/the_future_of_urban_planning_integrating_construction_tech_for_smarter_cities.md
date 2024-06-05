@@ -1,6 +1,6 @@
 ---
 title: 'The Future of Urban Planning: Integrating Construction Tech for Smarter Cities'
-date: '2023-10-23'
+date: '2023-08-16'
 tags: ['Urban Planning', 'Construction Technology', 'Smart Cities']
 draft: false
 summary: 'Discover how the latest construction technologies are revolutionizing urban planning and paving the way for smarter, more sustainable cities.'

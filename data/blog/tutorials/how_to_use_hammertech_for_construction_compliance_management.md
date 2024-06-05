@@ -1,6 +1,6 @@
 ---
 title: 'How to Use HammerTech for Construction Compliance Management'
-date: '2023-10-05'
+date: '2023-07-29'
 tags: ['Construction', 'Software', 'Compliance']
 draft: false
 summary: 'Learn how to harness HammerTech for robust construction compliance management with thorough tutorials and best practices.'

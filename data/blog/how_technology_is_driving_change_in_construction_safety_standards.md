@@ -1,6 +1,6 @@
 ---
 title: 'How Technology is Driving Change in Construction Safety Standards'
-date: '2023-10-12'
+date: '2024-05-25'
 tags: ['Construction', 'Technology', 'Safety']
 draft: false
 summary: 'Explore how cutting-edge technologies are transforming safety standards in the construction industry, making sites safer and more efficient.'

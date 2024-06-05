@@ -1,6 +1,6 @@
 ---
 title: 'The Role of Digital Fabrication in Custom Construction Projects'
-date: '2023-10-01'
+date: '2024-05-29'
 tags: ['Digital Fabrication', 'Custom Construction', 'Innovation']
 draft: false
 summary: 'Discover how digital fabrication is revolutionizing custom construction projects, bringing unprecedented precision and creativity to the building industry.'

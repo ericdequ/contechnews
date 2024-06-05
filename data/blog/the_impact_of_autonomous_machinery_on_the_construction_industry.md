@@ -1,6 +1,6 @@
 ---
 title: 'The Impact of Autonomous Machinery on the Construction Industry'
-date: '2023-10-07'
+date: '2023-10-30'
 tags: ['Construction', 'Autonomous Machinery', 'Innovation', 'Technology']
 draft: false
 summary: 'Explore how autonomous machinery is revolutionizing the construction industry, increasing efficiency, safety, and transforming the traditional jobsite.'

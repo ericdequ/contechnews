@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Construction Project Analytics with SmartPM'
-date: '2023-10-05'
+date: '2023-09-29'
 tags: ['Construction', 'Project Management', 'Analytics']
 draft: false
 summary: 'Unlock the full potential of construction project analytics using SmartPM. Learn best practices, advanced features, and expert tips to streamline your project management processes.'

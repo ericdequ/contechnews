@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Multivista for Construction Photo Documentation'
-date: '2023-10-07'
+date: '2023-06-13'
 tags: ['Construction', 'Photo Documentation', 'Software']
 draft: false
 summary: 'Discover the powerful tools and best practices for using Multivista to enhance construction projects through comprehensive photo documentation.'

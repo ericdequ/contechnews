@@ -1,6 +1,6 @@
 ---
 title: 'How to Leverage Digital Workflows for Construction Project Efficiency'
-date: '2023-10-05'
+date: '2024-01-22'
 tags: ['Construction', 'Digital Workflows', 'Project Management', 'Technology']
 draft: false
 summary: 'Discover how digital workflows are transforming construction project management and learn how to implement these technologies to boost efficiency and collaboration on your projects.'

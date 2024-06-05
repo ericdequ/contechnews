@@ -1,6 +1,6 @@
 ---
 title: 'The Role of Construction Tech in Improving Worker Productivity'
-date: '2023-10-05'
+date: '2024-05-17'
 tags: ['Construction Technology', 'Productivity', 'Innovation']
 draft: false
 summary: 'Explore how technological advancements are revolutionizing the construction industry, boosting worker productivity, and transforming project outcomes.'

@@ -1,6 +1,6 @@
 ---
 title: 'Mastering RedTeam for Construction Project Execution'
-date: '2023-10-03'
+date: '2023-12-17'
 tags: ['Construction', 'Project Management', 'Software']
 draft: false
 summary: 'Unlock the full potential of RedTeam software to streamline your construction project execution from planning to completion.'

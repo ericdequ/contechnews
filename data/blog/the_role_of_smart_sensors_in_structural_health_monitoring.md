@@ -1,6 +1,6 @@
 ---
 title: 'The Role of Smart Sensors in Structural Health Monitoring'
-date: '2023-10-05'
+date: '2023-05-31'
 tags: ['Smart Sensors', 'Structural Health Monitoring', 'Innovation', 'IoT']
 draft: false
 summary: 'Discover how smart sensors are transforming structural health monitoring, enhancing safety, and revolutionizing the construction industry with cutting-edge IoT technologies.'

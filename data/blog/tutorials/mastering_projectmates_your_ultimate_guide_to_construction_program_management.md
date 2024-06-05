@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Projectmates: Your Ultimate Guide to Construction Program Management'
-date: '2023-10-05'
+date: '2023-10-11'
 tags: ['Projectmates', 'Construction Management', 'Tutorial', 'Best Practices']
 draft: false
 summary: 'Unlock the full potential of Projectmates for seamless, efficient construction program management with our detailed guide and best practices.'

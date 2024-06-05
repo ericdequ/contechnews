@@ -1,6 +1,6 @@
 ---
 title: 'The Role of Geospatial Technology in Modern Construction'
-date: '2023-10-01'
+date: '2023-05-23'
 tags: ['Geospatial Technology', 'Construction', 'Technology Innovation']
 draft: false
 summary: 'Explore how cutting-edge geospatial technology is revolutionizing the construction industry by improving accuracy, efficiency, and decision-making.'

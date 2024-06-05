@@ -1,6 +1,6 @@
 ---
 title: 'Top 10 Construction Tech Trends to Watch in 2024'
-date: '2023-10-04'
+date: '2023-02-19'
 tags: ['Construction', 'Technology', 'Innovation']
 draft: false
 summary: 'Discover the top 10 groundbreaking technology trends that are set to revolutionize the construction industry in 2024 and beyond.'

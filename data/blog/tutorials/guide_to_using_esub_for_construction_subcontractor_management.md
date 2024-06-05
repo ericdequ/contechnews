@@ -1,6 +1,6 @@
 ---
 title: 'Guide to Using eSUB for Construction Subcontractor Management'
-date: '2023-11-01'
+date: '2023-10-20'
 tags: ['Construction', 'Software', 'Project Management']
 draft: false
 summary: 'A comprehensive guide on utilizing eSUB to enhance construction subcontractor management. Learn tips, tricks, and best practices for maximizing productivity with this powerful tool.'

@@ -1,6 +1,6 @@
 ---
 title: 'The Impact of Cybersecurity on Protecting Construction Data'
-date: '2023-10-02'
+date: '2023-08-21'
 tags: ['Cybersecurity', 'Construction Technology']
 draft: false
 summary: 'Discover the critical role of cybersecurity in safeguarding sensitive construction data, and how cutting-edge technologies are driving the future of secure construction practices.'

@@ -1,6 +1,6 @@
 ---
 title: 'How to Use Virtual Reality for Client Walkthroughs and Approvals'
-date: '2023-10-25'
+date: '2023-10-18'
 tags: ['Virtual Reality', 'Client Interaction', 'Technology']
 draft: false
 summary: 'Unlock the power of Virtual Reality to revolutionize client walkthroughs and approvals by making presentations more interactive, immersive, and convincing.'

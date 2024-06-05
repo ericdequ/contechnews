@@ -1,6 +1,6 @@
 ---
 title: 'How to Implement Sustainable Building Practices with Technology'
-date: '2023-10-07'
+date: '2023-12-17'
 tags: ['Sustainability', 'Technology', 'Building']
 draft: false
 summary: 'Explore how technology is revolutionizing sustainable building practices, making our world greener and smarter.'

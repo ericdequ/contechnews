@@ -1,6 +1,6 @@
 ---
 title: 'How Augmented Reality is Enhancing Construction Planning and Execution'
-date: '2023-10-11'
+date: '2023-11-01'
 tags: ['Augmented Reality', 'Construction', 'Innovation']
 draft: false
 summary: 'Exploring how augmented reality (AR) is revolutionizing the construction industry, from meticulous planning to efficient execution.'

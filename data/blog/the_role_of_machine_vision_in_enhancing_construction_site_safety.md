@@ -1,6 +1,6 @@
 ---
 title: 'The Role of Machine Vision in Enhancing Construction Site Safety'
-date: '2023-10-03'
+date: '2023-06-23'
 tags: ['Machine Vision', 'Construction', 'Safety', 'AI']
 draft: false
 summary: 'Explore how machine vision is revolutionizing the safety standards in construction sites and ensuring a safer working environment for all involved.'

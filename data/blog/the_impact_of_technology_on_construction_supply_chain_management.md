@@ -1,6 +1,6 @@
 ---
 title: 'The Impact of Technology on Construction Supply Chain Management'
-date: '2023-10-05'
+date: '2024-02-18'
 tags: ['Construction', 'Technology', 'Supply Chain Management']
 draft: false
 summary: 'Explore how cutting-edge technologies are revolutionizing the intricate web of construction supply chain management, enhancing efficiency, transparency, and sustainability.'

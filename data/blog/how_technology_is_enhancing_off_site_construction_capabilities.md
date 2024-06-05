@@ -1,6 +1,6 @@
 ---
 title: 'How Technology is Enhancing Off-Site Construction Capabilities'
-date: '2023-10-09'
+date: '2023-10-06'
 tags: ['Construction', 'Technology', 'Innovation']
 draft: false
 summary: 'Discover how cutting-edge technology is revolutionizing the field of off-site construction, making it more efficient, sustainable, and scalable.'

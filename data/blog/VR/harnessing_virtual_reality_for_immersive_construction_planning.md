@@ -1,6 +1,6 @@
 ---
 title: "Harnessing Virtual Reality for Immersive Construction Planning"
-date: '2024-05-21'
+date: '2024-02-28'
 tags: ['Construction Technology', 'Virtual Reality', 'Immersive Planning', '3D Visualization', 'Unity', 'IrisVR', 'Project Management', 'Innovation', 'Construction Tools']
 draft: false
 summary: "Learn how virtual reality tools from companies like Unity and IrisVR are enabling immersive planning and design experiences, allowing stakeholders to visualize and interact with construction projects in 3D before they are built."

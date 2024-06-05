@@ -1,6 +1,6 @@
 ---
 title: 'Elevating Construction: The Impact of Drones and LiDAR Technology'
-date: '2024-01-07'
+date: '2023-07-15'
 tags: ['Drones', 'LiDAR', 'Construction Technology', 'Future of Building']
 draft: false
 summary: 'Drones and LiDAR technology are setting new standards in the construction industry, enhancing precision, efficiency, and safety. This blog explores how these technologies are revolutionizing site surveying, monitoring, and overall project management.'

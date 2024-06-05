@@ -1,6 +1,6 @@
 ---
 title: 'How Digital Twins are Revolutionizing Construction Project Management'
-date: '2023-10-03'
+date: '2023-07-19'
 tags: ['Digital Twins', 'Construction', 'Project Management', 'Technology']
 draft: false
 summary: 'Dive into the transformative power of Digital Twins in construction project management and discover how this technology is reshaping the industry landscape.'

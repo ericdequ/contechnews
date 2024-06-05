@@ -1,6 +1,6 @@
 ---
 title: 'The Technological Transformation of Construction: Embracing Innovation with Quantum Cyber Solutions'
-date: '2024-02-07'
+date: '2023-10-18'
 tags:
   [
     'Construction Technology',

@@ -1,6 +1,6 @@
 ---
 title: 'The Impact of Digital Workflows on Construction Documentation'
-date: '2023-10-06'
+date: '2023-10-10'
 tags: ['Construction', 'Digital Transformation', 'Technology']
 draft: false
 summary: 'Dive into how digital workflows are transforming construction documentation, making it faster, more reliable, and cost-efficient.'

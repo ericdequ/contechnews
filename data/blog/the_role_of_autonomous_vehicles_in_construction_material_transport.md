@@ -1,6 +1,6 @@
 ---
 title: 'The Role of Autonomous Vehicles in Construction Material Transport'
-date: '2023-10-09'
+date: '2024-02-05'
 tags: ['Autonomous Vehicles', 'Construction', 'Innovation']
 draft: false
 summary: 'Discover how autonomous vehicles are revolutionizing construction material transport, enhancing efficiency, safety, and sustainability on construction sites.'

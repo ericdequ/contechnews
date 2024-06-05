@@ -1,6 +1,6 @@
 ---
 title: 'The Impact of Smart Contracts on Construction Project Delivery'
-date: '2023-10-04'
+date: '2023-08-16'
 tags: ['Smart Contracts', 'Blockchain', 'Construction']
 draft: false
 summary: 'Explore how smart contracts are transforming the delivery of construction projects, enhancing efficiency, transparency, and trust across the industry.'

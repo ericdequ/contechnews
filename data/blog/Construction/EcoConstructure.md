@@ -1,6 +1,6 @@
 ---
 title: 'Building a Sustainable Future: Eco-Friendly Construction and Development'
-date: '2023-06-07'
+date: '2023-06-23'
 tags: ['Sustainable Building', 'Eco-Friendly Construction', 'Smart Homes', 'Green Architecture']
 draft: false
 summary: 'As the global emphasis on sustainability intensifies, the construction industry is pivotal in steering towards eco-friendly solutions. This blog post explores the integration of green building techniques, sustainable materials, and smart technology in modern construction to foster a healthier planet.'

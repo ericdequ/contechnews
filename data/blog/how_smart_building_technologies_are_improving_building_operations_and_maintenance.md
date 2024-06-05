@@ -1,6 +1,6 @@
 ---
 title: 'How Smart Building Technologies are Improving Building Operations and Maintenance'
-date: '2023-10-05'
+date: '2023-01-15'
 tags: ['Smart Buildings', 'Technology', 'Innovation']
 draft: false
 summary: 'Explore how smart building technologies are transforming the landscape of building operations and maintenance, leading to greater efficiency, sustainability, and cost savings.'
