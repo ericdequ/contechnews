@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.contechnews.com/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Mon, 20 May 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.contechnews.com/tags/heavyjob/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.contechnews.com/blog/tutorials/guide_to_using_heavyjob_for_construction_job_costing</guid>
+    <title>Guide to Using HeavyJob for Construction Job Costing</title>
+    <link>https://www.contechnews.com/blog/tutorials/guide_to_using_heavyjob_for_construction_job_costing</link>
+    <description>Learn how to efficiently use HeavyJob for construction job costing. This comprehensive guide covers everything from initial setup to advanced features, ensuring your projects stay on budget and on track.</description>
+    <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Construction</category><category>Software</category><category>HeavyJob</category><category>Costing</category>
+  </item>
+
+    </channel>
+  </rss>

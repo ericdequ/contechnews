@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.contechnews.com/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Sun, 03 Sep 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.contechnews.com/tags/bim360/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.contechnews.com/blog/tutorials/how_to_use_bim_360_for_coordinated_project_delivery</guid>
+    <title>How to Use BIM 360 for Coordinated Project Delivery</title>
+    <link>https://www.contechnews.com/blog/tutorials/how_to_use_bim_360_for_coordinated_project_delivery</link>
+    <description>A comprehensive guide to leveraging BIM 360 for streamlined, efficient, and harmonized project delivery across all disciplines in construction.</description>
+    <pubDate>Sun, 03 Sep 2023 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>BIM360</category><category>Project Management</category><category>Construction</category>
+  </item>
+
+    </channel>
+  </rss>

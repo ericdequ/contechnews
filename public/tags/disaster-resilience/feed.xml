@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.contechnews.com/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Mon, 02 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.contechnews.com/tags/disaster-resilience/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.contechnews.com/blog/how_construction_technology_is_enhancing_disaster_resilience</guid>
+    <title>How Construction Technology is Enhancing Disaster Resilience</title>
+    <link>https://www.contechnews.com/blog/how_construction_technology_is_enhancing_disaster_resilience</link>
+    <description>Discover how cutting-edge construction technologies are transforming the way we build to withstand natural disasters and protect communities.</description>
+    <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Construction Technology</category><category>Disaster Resilience</category><category>Innovation</category>
+  </item>
+
+    </channel>
+  </rss>

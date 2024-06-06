@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.contechnews.com/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Tue, 25 Jul 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.contechnews.com/tags/qualitycontrol/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.contechnews.com/blog/the_role_of_ai_in_construction_defect_detection_and_quality_control</guid>
+    <title>The Role of AI in Construction Defect Detection and Quality Control</title>
+    <link>https://www.contechnews.com/blog/the_role_of_ai_in_construction_defect_detection_and_quality_control</link>
+    <description>Discover how AI is revolutionizing defect detection and quality control in the construction industry, ensuring safer and more reliable structures.</description>
+    <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>AI</category><category>Construction</category><category>Technology</category><category>QualityControl</category>
+  </item>
+
+    </channel>
+  </rss>

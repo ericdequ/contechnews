@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.contechnews.com/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Tue, 21 May 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.contechnews.com/tags/holobuilder/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.contechnews.com/blog/smartSensors/the_impact_of_smart_sensors_on_construction_safety</guid>
+    <title>The Impact of Smart Sensors on Construction Safety</title>
+    <link>https://www.contechnews.com/blog/smartSensors/the_impact_of_smart_sensors_on_construction_safety</link>
+    <description>Explore how smart sensor technology from HoloBuilder and Triax Technologies is revolutionizing construction safety through real-time monitoring of environmental conditions, equipment usage, and worker movements.</description>
+    <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Construction Technology</category><category>Smart Sensors</category><category>Safety</category><category>HoloBuilder</category><category>Triax Technologies</category><category>Real-time Monitoring</category><category>Construction Site Safety</category>
+  </item>
+
+    </channel>
+  </rss>
