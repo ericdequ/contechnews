@@ -22,7 +22,7 @@ Traditionally, construction project schedules relied heavily on manual methods s
 
 ### 1. **Building Information Modeling (BIM)**
 
-![BIM](https://example.com/bim-image.jpg)
+
 
 Building Information Modeling (BIM) has revolutionized the way construction projects are managed. BIM involves creating digital representations of the physical and functional aspects of a project, contributing significantly to every phase of the construction lifecycle.
 
@@ -42,8 +42,6 @@ Modern project management software like Procore, PlanGrid, and Primavera P6 offe
 - **Integration Capabilities**: Integrate with other systems and tools for a seamless workflow.
 
 ### 3. **Drones and Aerial Imaging**
-
-![Drones](https://example.com/drone-image.jpg)
 
 Drones are no longer a novelty but a necessity in modern construction. Equipped with high-resolution cameras and sensors, drones can significantly enhance project schedules.
 
