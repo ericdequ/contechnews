@@ -86,7 +86,7 @@ Share and manage blueprints, contracts, and permits efficiently:
 
 ### 1. Budgeting and Cost Tracking
 
-Keeping finances in check is essential. RedTeam's budgeting tools include:
+Keeping finances in check is essential. RedTeams budgeting tools include:
 
 - **Initial Budget Setup:** Define your project budget.
 - **Cost Tracking:** Monitor expenses against your budget.
@@ -103,7 +103,7 @@ Handle all billing within the platform:
 
 ### 1. Mobile Field Management
 
-RedTeam's mobile app ensures you're always connected:
+RedTeams mobile app ensures you're always connected:
 
 1. Download the **RedTeam app** from the App Store or Google Play.
 2. Login with your credentials to sync with your desktop data.
@@ -122,7 +122,7 @@ Automate daily reporting and time tracking:
 
 Stay updated with new features and functionalities:
 
-- Participate in RedTeam's webinars and training sessions.
+- Participate in RedTeams webinars and training sessions.
 - Regularly check for software updates and new releases.
 
 ### 2. Data Backup and Security
@@ -130,7 +130,7 @@ Stay updated with new features and functionalities:
 Ensure your data is always safe:
 
 - Schedule regular backups.
-- Utilize RedTeam's security features to protect sensitive information.
+- Utilize RedTeams security features to protect sensitive information.
 
 ### 3. Frequent Performance Reviews
 
