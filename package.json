@@ -15,7 +15,6 @@
     "restart": "rm .next && pnpm rm node_modules && rm pnpm-lock.yaml && pnpm i && pnpm run build"
   },
   "dependencies": {
-    "@badrap/bar-of-progress": "^0.2.2",
     "@fontsource/inter": "4.5.2",
     "@mailchimp/mailchimp_marketing": "^3.0.80",
     "@next/bundle-analyzer": "^12.3.4",
@@ -53,7 +52,6 @@
     "remark-footnotes": "^4.0.1",
     "remark-gfm": "^3.0.1",
     "remark-math": "^5.1.1",
-    "sharp": "^0.28.3",
     "tailwind-scrollbar-hide": "^1.1.7",
     "tailwindcss": "^3.4.4",
     "unist-util-visit": "^4.1.2",
