@@ -5,7 +5,7 @@ tags: ['Smart Buildings', 'Technology', 'Innovation']
 draft: false
 summary: 'Explore how smart building technologies are transforming the landscape of building operations and maintenance, leading to greater efficiency, sustainability, and cost savings.'
 
-images: ['https://www.contechnews.com/articleimage/./how_smart_building_technologies_are_improving_building_operations_and_maintenance.webp']
+images: ['https://www.contechnews.com/articleimage/how_smart_building_technologies_are_improving_building_operations_and_maintenance.webp']
 ---
 
 # How Smart Building Technologies are Improving Building Operations and Maintenance

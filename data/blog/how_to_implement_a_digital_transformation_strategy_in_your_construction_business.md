@@ -5,7 +5,7 @@ tags: ['Digital Transformation', 'Construction', 'Technology']
 draft: false
 summary: 'Discover how to harness the power of digital transformation to elevate your construction business, streamline operations, and increase profitability.'
 
-images: ['https://www.contechnews.com/articleimage/./how_to_implement_a_digital_transformation_strategy_in_your_construction_business.webp']
+images: ['https://www.contechnews.com/articleimage/how_to_implement_a_digital_transformation_strategy_in_your_construction_business.webp']
 ---
 
 # How to Implement a Digital Transformation Strategy in Your Construction Business

@@ -5,7 +5,7 @@ tags: ['Construction Technology', 'Collaboration', 'Innovation']
 draft: false
 summary: 'Explore how cutting-edge construction technologies are revolutionizing team collaboration, optimizing workflows, and driving the industry forward.'
 
-images: ['https://www.contechnews.com/articleimage/./how_construction_technology_is_enhancing_collaboration_among_teams.png']
+images: ['https://www.contechnews.com/articleimage/how_construction_technology_is_enhancing_collaboration_among_teams.png']
 ---
 
 # How Construction Technology is Enhancing Collaboration Among Teams

@@ -5,7 +5,7 @@ tags: ['Construction', 'Project Management', 'Technology']
 draft: false
 summary: 'Explore how advanced project management tools can revolutionize the construction industry by improving efficiency, collaboration, and project outcomes.'
 
-images: ['https://www.contechnews.com/articleimage/./how_to_implement_advanced_project_management_tools_in_construction.webp']
+images: ['https://www.contechnews.com/articleimage/how_to_implement_advanced_project_management_tools_in_construction.webp']
 ---
 
 # How to Implement Advanced Project Management Tools in Construction

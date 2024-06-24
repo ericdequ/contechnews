@@ -5,7 +5,7 @@ tags: ['Construction', 'Technology', 'Quality Control']
 draft: false
 summary: 'Explore how cutting-edge technology is revolutionizing quality control in the construction industry, ensuring projects are completed more efficiently and to higher standards.'
 
-images: ['https://www.contechnews.com/articleimage/./enhancing_construction_quality_control_with_technology.png']
+images: ['https://www.contechnews.com/articleimage/enhancing_construction_quality_control_with_technology.png']
 ---
 
 # Enhancing Construction Quality Control with Technology

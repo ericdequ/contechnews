@@ -5,7 +5,7 @@ tags: ['Construction Tech', 'Innovation', 'Renovation']
 draft: false
 summary: 'Explore the groundbreaking technologies that are transforming the renovation and remodeling landscape, making projects faster, more efficient, and highly innovative.'
 
-images: ['https://www.contechnews.com/articleimage/./how_construction_tech_is_revolutionizing_the_renovation_and_remodeling_industry.webp']
+images: ['https://www.contechnews.com/articleimage/how_construction_tech_is_revolutionizing_the_renovation_and_remodeling_industry.webp']
 ---
 
 # How Construction Tech is Revolutionizing the Renovation and Remodeling Industry

@@ -5,7 +5,7 @@ tags: ['Construction Technology', 'Team Collaboration', 'Innovation']
 draft: false
 summary: 'Discover the power of construction technology to boost team collaboration, streamline operations, and drive project success.'
 
-images: ['https://www.contechnews.com/articleimage/./how_to_leverage_construction_technology_for_effective_team_collaboration.webp']
+images: ['https://www.contechnews.com/articleimage/how_to_leverage_construction_technology_for_effective_team_collaboration.webp']
 ---
 
 # How to Leverage Construction Technology for Effective Team Collaboration

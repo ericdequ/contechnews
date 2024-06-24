@@ -5,7 +5,7 @@ tags: ['Construction', 'Digital Workflows', 'Project Management', 'Technology']
 draft: false
 summary: 'Discover how digital workflows are transforming construction project management and learn how to implement these technologies to boost efficiency and collaboration on your projects.'
 
-images: ['https://www.contechnews.com/articleimage/./how_to_leverage_digital_workflows_for_construction_project_efficiency.webp']
+images: ['https://www.contechnews.com/articleimage/how_to_leverage_digital_workflows_for_construction_project_efficiency.webp']
 ---
 
 # How to Leverage Digital Workflows for Construction Project Efficiency

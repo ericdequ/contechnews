@@ -5,7 +5,7 @@ tags: ['Construction', '3D Scanning', 'Technology', 'Innovation']
 draft: false
 summary: 'Explore how cutting-edge 3D scanning technology is revolutionizing the way construction projects are documented, making the building process more accurate, efficient, and safe.'
 
-images: ['https://www.contechnews.com/articleimage/./how_3d_scanning_is_enhancing_construction_project_documentation.png']
+images: ['https://www.contechnews.com/articleimage/how_3d_scanning_is_enhancing_construction_project_documentation.png']
 ---
 
 # How 3D Scanning is Enhancing Construction Project Documentation

@@ -5,7 +5,7 @@ tags: ['Construction', 'Fleet Management', 'Technology']
 draft: false
 summary: 'Discover how cutting-edge technology is revolutionizing the management of construction equipment fleets, resulting in increased efficiency, reduced costs, and greater productivity.'
 
-images: ['https://www.contechnews.com/articleimage/./how_technology_is_enhancing_construction_equipment_fleet_management.webp']
+images: ['https://www.contechnews.com/articleimage/how_technology_is_enhancing_construction_equipment_fleet_management.webp']
 ---
 
 # How Technology is Enhancing Construction Equipment Fleet Management

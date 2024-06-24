@@ -5,7 +5,7 @@ tags: ['Construction', 'Technology', 'Safety']
 draft: false
 summary: 'Explore how cutting-edge technologies are transforming safety standards in the construction industry, making sites safer and more efficient.'
 
-images: ['https://www.contechnews.com/articleimage/./how_technology_is_driving_change_in_construction_safety_standards.webp']
+images: ['https://www.contechnews.com/articleimage/how_technology_is_driving_change_in_construction_safety_standards.webp']
 ---
 
 # How Technology is Driving Change in Construction Safety Standards

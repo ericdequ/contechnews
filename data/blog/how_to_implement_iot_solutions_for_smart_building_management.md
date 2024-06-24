@@ -5,7 +5,7 @@ tags: ['IoT', 'Smart Building', 'Technology', 'Innovation']
 draft: false
 summary: 'Explore the transformative power of IoT in smart building management. Learn how these advanced solutions can optimize energy use, enhance security, and improve the overall quality of urban living spaces.'
 
-images: ['https://www.contechnews.com/articleimage/./how_to_implement_iot_solutions_for_smart_building_management.webp']
+images: ['https://www.contechnews.com/articleimage/how_to_implement_iot_solutions_for_smart_building_management.webp']
 ---
 
 # How to Implement IoT Solutions for Smart Building Management

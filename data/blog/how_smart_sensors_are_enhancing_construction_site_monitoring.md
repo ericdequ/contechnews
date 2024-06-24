@@ -6,7 +6,7 @@ draft: false
 summary: 'Discover how smart sensors are revolutionizing construction site monitoring, ensuring safety, efficiency, and cost-effectiveness.'
 
 
-images: ['https://www.contechnews.com/articleimage/./how_smart_sensors_are_enhancing_construction_site_monitoring.webp']
+images: ['https://www.contechnews.com/articleimage/how_smart_sensors_are_enhancing_construction_site_monitoring.webp']
 ---
 
 # How Smart Sensors are Enhancing Construction Site Monitoring

@@ -5,7 +5,7 @@ tags: ['Construction Technology', 'Real Estate', 'Innovation']
 draft: false
 summary: 'Explore how cutting-edge construction technologies like AI, robotics, and sustainable materials are revolutionizing the real estate industry, making it more efficient, cost-effective, and sustainable.'
 
-images: ['https://www.contechnews.com/articleimage/./how_construction_technology_is_shaping_the_future_of_real_estate_development.webp']
+images: ['https://www.contechnews.com/articleimage/how_construction_technology_is_shaping_the_future_of_real_estate_development.webp']
 ---
 
 # How Construction Technology is Shaping the Future of Real Estate Development

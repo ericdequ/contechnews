@@ -5,7 +5,7 @@ tags: ['IoT', 'Construction', 'Smart Technology']
 draft: false
 summary: 'Discover the potential of IoT technology in transforming construction sites into smart hubs of innovation, safety, and efficiency.'
 
-images: ['https://www.contechnews.com/articleimage/./how_to_implement_a_smart_construction_site_with_iot_technology.webp']
+images: ['https://www.contechnews.com/articleimage/how_to_implement_a_smart_construction_site_with_iot_technology.webp']
 ---
 
 # How to Implement a Smart Construction Site with IoT Technology

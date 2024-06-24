@@ -5,7 +5,7 @@ tags: ['Big Data', 'Construction', 'Innovation']
 draft: false
 summary: 'Discover how the revolutionary power of Big Data is transforming decision-making processes in the construction industry, leading to smarter, more efficient, and safer projects.'
 
-images: ['https://www.contechnews.com/articleimage/./how_big_data_is_driving_decision_making_in_construction_projects.png']
+images: ['https://www.contechnews.com/articleimage/how_big_data_is_driving_decision_making_in_construction_projects.png']
 ---
 
 # How Big Data is Driving Decision-Making in Construction Projects

@@ -5,7 +5,7 @@ tags: ['Construction', 'Technology', 'Customization']
 draft: false
 summary: 'Explore how cutting-edge technology is revolutionizing the construction industry by enabling unprecedented levels of customization, from 3D printing to AI-powered design.'
 
-images: ['https://www.contechnews.com/articleimage/./how_technology_is_enabling_customization_in_large_scale_construction_projects.webp']
+images: ['https://www.contechnews.com/articleimage/how_technology_is_enabling_customization_in_large_scale_construction_projects.webp']
 ---
 
 # How Technology is Enabling Customization in Large-Scale Construction Projects

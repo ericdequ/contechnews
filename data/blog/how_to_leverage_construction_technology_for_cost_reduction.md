@@ -5,7 +5,7 @@ tags: ['Construction', 'Technology', 'Cost Reduction']
 draft: false
 summary: 'Explore cutting-edge technologies transforming the construction industry and discover how to leverage them for significant cost reductions.'
 
-images: ['https://www.contechnews.com/articleimage/./how_to_leverage_construction_technology_for_cost_reduction.webp']
+images: ['https://www.contechnews.com/articleimage/how_to_leverage_construction_technology_for_cost_reduction.webp']
 ---
 
 # How to Leverage Construction Technology for Cost Reduction

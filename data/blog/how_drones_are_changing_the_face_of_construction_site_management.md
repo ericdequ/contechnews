@@ -5,7 +5,7 @@ tags: ['Drones', 'Construction', 'Technology']
 draft: false
 summary: 'Explore how drones are revolutionizing construction site management with real-time data, improved safety, and enhanced efficiency.'
 
-images: ['https://www.contechnews.com/articleimage/./how_drones_are_changing_the_face_of_construction_site_management.webp']
+images: ['https://www.contechnews.com/articleimage/how_drones_are_changing_the_face_of_construction_site_management.webp']
 ---
 
 # How Drones are Changing the Face of Construction Site Management

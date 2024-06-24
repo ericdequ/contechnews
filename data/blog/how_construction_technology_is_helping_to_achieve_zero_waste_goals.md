@@ -5,7 +5,7 @@ tags: ['Construction', 'Technology', 'Sustainability']
 draft: false
 summary: 'Explore how cutting-edge construction technology is paving the way towards achieving zero waste goals and revolutionizing the industry.'
 
-images: ['https://www.contechnews.com/articleimage/./how_construction_technology_is_helping_to_achieve_zero_waste_goals.webp']
+images: ['https://www.contechnews.com/articleimage/how_construction_technology_is_helping_to_achieve_zero_waste_goals.webp']
 ---
 
 # How Construction Technology is Helping to Achieve Zero Waste Goals

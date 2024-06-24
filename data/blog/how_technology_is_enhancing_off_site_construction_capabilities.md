@@ -5,7 +5,7 @@ tags: ['Construction', 'Technology', 'Innovation']
 draft: false
 summary: 'Discover how cutting-edge technology is revolutionizing the field of off-site construction, making it more efficient, sustainable, and scalable.'
 
-images: ['https://www.contechnews.com/articleimage/./how_technology_is_enhancing_off_site_construction_capabilities.webp']
+images: ['https://www.contechnews.com/articleimage/how_technology_is_enhancing_off_site_construction_capabilities.webp']
 ---
 
 # How Technology is Enhancing Off-Site Construction Capabilities

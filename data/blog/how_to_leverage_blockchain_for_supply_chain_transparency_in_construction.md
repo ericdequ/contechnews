@@ -5,7 +5,7 @@ tags: ['Blockchain', 'Supply Chain', 'Construction', 'Technology']
 draft: false
 summary: 'Discover how blockchain technology can revolutionize supply chain transparency in the construction industry, highlighting its potential for enhanced efficiency, trust, and accountability.'
 
-images: ['https://www.contechnews.com/articleimage/./how_to_leverage_blockchain_for_supply_chain_transparency_in_construction.webp']
+images: ['https://www.contechnews.com/articleimage/how_to_leverage_blockchain_for_supply_chain_transparency_in_construction.webp']
 ---
 
 # How to Leverage Blockchain for Supply Chain Transparency in Construction

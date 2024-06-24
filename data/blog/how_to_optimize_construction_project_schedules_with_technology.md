@@ -5,7 +5,7 @@ tags: ['Construction', 'Technology', 'Project Management']
 draft: false
 summary: 'Dive into the innovative tech tools transforming construction project scheduling, ensuring efficiency, reduced costs, and timely project completion.'
 
-images: ['https://www.contechnews.com/articleimage/./how_to_optimize_construction_project_schedules_with_technology.webp']
+images: ['https://www.contechnews.com/articleimage/how_to_optimize_construction_project_schedules_with_technology.webp']
 ---
 
 # How to Optimize Construction Project Schedules with Technology

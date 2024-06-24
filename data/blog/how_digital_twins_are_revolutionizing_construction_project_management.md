@@ -5,7 +5,7 @@ tags: ['Digital Twins', 'Construction', 'Project Management', 'Technology']
 draft: false
 summary: 'Dive into the transformative power of Digital Twins in construction project management and discover how this technology is reshaping the industry landscape.'
 
-images: ['https://www.contechnews.com/articleimage/./how_digital_twins_are_revolutionizing_construction_project_management.webp']
+images: ['https://www.contechnews.com/articleimage/how_digital_twins_are_revolutionizing_construction_project_management.webp']
 ---
 
 # How Digital Twins are Revolutionizing Construction Project Management
