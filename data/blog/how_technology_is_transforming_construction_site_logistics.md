@@ -4,6 +4,8 @@ date: '2023-05-05'
 tags: ['Technology', 'Construction', 'Innovation']
 draft: false
 summary: 'Dive into the revolutionary ways modern tech is optimizing construction site logistics, making projects faster, safer, and more efficient than ever before.'
+
+images: ['https://www.contechnews.com/articleimage/./how_technology_is_transforming_construction_site_logistics.webp']
 ---
 
 # How Technology is Transforming Construction Site Logistics

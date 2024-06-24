@@ -4,6 +4,8 @@ date: '2023-02-11'
 tags: ['Sustainability', 'Construction', 'Technology']
 draft: false
 summary: 'Discover how technology is transforming sustainability in construction, revolutionizing project efficiency and reducing environmental impact.'
+
+images: ['https://www.contechnews.com/articleimage/./how_to_integrate_sustainable_practices_into_construction_projects_with_technology.webp']
 ---
 
 # How to Integrate Sustainable Practices into Construction Projects with Technology

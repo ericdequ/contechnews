@@ -4,6 +4,8 @@ date: '2023-12-06'
 tags: ['Construction', 'Drones', 'Technology']
 draft: false
 summary: 'Unveil the transformative potential of drones in construction, boosting efficiency, cost-effectiveness, and safety through innovative project surveys and inspections.'
+
+images: ['https://www.contechnews.com/articleimage/./how_construction_drones_are_revolutionizing_project_surveys_and_inspections.png']
 ---
 
 # How Construction Drones are Revolutionizing Project Surveys and Inspections

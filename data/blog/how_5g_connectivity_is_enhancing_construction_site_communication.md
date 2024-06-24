@@ -4,6 +4,8 @@ date: '2024-03-30'
 tags: ['5G', 'Construction', 'Innovation']
 draft: false
 summary: 'Exploring how next-generation 5G technology is revolutionizing communication and operational efficiency on construction sites.'
+
+images: ['https://www.contechnews.com/articleimage/./how_5g_connectivity_is_enhancing_construction_site_communication.png']
 ---
 
 # How 5G Connectivity is Enhancing Construction Site Communication

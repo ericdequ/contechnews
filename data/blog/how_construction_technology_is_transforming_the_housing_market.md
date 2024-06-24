@@ -4,6 +4,8 @@ date: '2023-07-02'
 tags: ['Construction', 'Technology', 'Innovation', 'Housing Market']
 draft: false
 summary: 'Discover how groundbreaking construction technology is revolutionizing the housing market, from 3D-printed homes to smart buildings and beyond.'
+
+images: ['https://www.contechnews.com/articleimage/./how_construction_technology_is_transforming_the_housing_market.webp']
 ---
 
 # How Construction Technology is Transforming the Housing Market

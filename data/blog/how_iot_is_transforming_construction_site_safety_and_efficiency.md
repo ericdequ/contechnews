@@ -4,6 +4,8 @@ date: '2023-07-17'
 tags: ['IoT', 'Construction', 'Safety', 'Efficiency']
 draft: false
 summary: 'Discover the groundbreaking ways IoT is revolutionizing construction site safety and operational efficiency. From wearable tech to smart machinery, explore the future of building with interconnected devices.'
+
+images: ['https://www.contechnews.com/articleimage/./how_iot_is_transforming_construction_site_safety_and_efficiency.webp']
 ---
 
 ## How IoT is Transforming Construction Site Safety and Efficiency

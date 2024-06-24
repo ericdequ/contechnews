@@ -4,6 +4,8 @@ date: '2024-03-01'
 tags: ['Construction', 'Technology', 'Lean Principles']
 draft: false
 summary: 'Explore how cutting-edge technology can revolutionize lean construction practices, enhance efficiency, and reduce waste in the construction industry.'
+
+images: ['https://www.contechnews.com/articleimage/./how_to_implement_lean_construction_principles_with_technology.webp']
 ---
 
 # How to Implement Lean Construction Principles with Technology

@@ -4,6 +4,8 @@ date: '2023-05-11'
 tags: ['Construction', 'Technology', 'Stakeholder Management']
 draft: false
 summary: 'Dive into how technology transforms stakeholder management in the construction industry, ensuring seamless collaboration, transparency, and efficiency.'
+
+images: ['https://www.contechnews.com/articleimage/./harnessing_technology_for_effective_construction_stakeholder_management.png']
 ---
 
 # Harnessing Technology for Effective Construction Stakeholder Management

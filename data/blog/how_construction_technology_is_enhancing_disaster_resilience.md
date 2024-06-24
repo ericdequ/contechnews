@@ -4,6 +4,8 @@ date: '2023-10-02'
 tags: ['Construction Technology', 'Disaster Resilience', 'Innovation']
 draft: false
 summary: 'Discover how cutting-edge construction technologies are transforming the way we build to withstand natural disasters and protect communities.'
+
+images: ['https://www.contechnews.com/articleimage/./how_construction_technology_is_enhancing_disaster_resilience.webp']
 ---
 
 # How Construction Technology is Enhancing Disaster Resilience

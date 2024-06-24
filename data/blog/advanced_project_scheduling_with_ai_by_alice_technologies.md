@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Construction Technology', 'AI', 'Project Management', 'Scheduling', 'ALICE Technologies', 'Innovation', 'Resource Allocation', 'Construction Optimization']
 draft: true
 summary: "Explore how ALICE Technologies is utilizing AI to revolutionize project scheduling in construction, providing dynamic scheduling solutions that optimize timelines and resource allocation for complex projects."
+
+images: ['https://www.contechnews.com/articleimage/./advanced_project_scheduling_with_ai_by_alice_technologies.png']
 ---
 
 # Advanced Project Scheduling with AI by ALICE Technologies

@@ -4,6 +4,8 @@ date: '2023-06-25'
 tags: ['Construction Management', 'Software Implementation', 'Project Management']
 draft: false
 summary: 'Discover how construction management software can transform your project outcomes and the essential steps to implement it effectively.'
+
+images: ['https://www.contechnews.com/articleimage/./how_to_implement_construction_management_software_for_improved_project_outcomes.webp']
 ---
 
 # How to Implement Construction Management Software for Improved Project Outcomes

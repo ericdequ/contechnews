@@ -4,6 +4,8 @@ date: '2023-05-16'
 tags: ['Digital Twin', 'Construction', 'Technology', 'Innovation']
 draft: false
 summary: 'Discover the transformative power of Digital Twin technology in construction and learn how to implement a winning strategy for your projects.'
+
+images: ['https://www.contechnews.com/articleimage/./how_to_implement_a_digital_twin_strategy_for_construction_projects.webp']
 ---
 
 # How to Implement a Digital Twin Strategy for Construction Projects

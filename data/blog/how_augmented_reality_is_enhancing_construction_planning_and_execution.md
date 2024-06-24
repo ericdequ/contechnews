@@ -4,6 +4,8 @@ date: '2023-11-01'
 tags: ['Augmented Reality', 'Construction', 'Innovation']
 draft: false
 summary: 'Exploring how augmented reality (AR) is revolutionizing the construction industry, from meticulous planning to efficient execution.'
+
+images: ['https://www.contechnews.com/articleimage/./how_augmented_reality_is_enhancing_construction_planning_and_execution.png']
 ---
 
 # How Augmented Reality is Enhancing Construction Planning and Execution

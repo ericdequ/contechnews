@@ -4,6 +4,8 @@ date: '2023-10-29'
 tags: ['Technology', 'Construction', 'Innovation']
 draft: false
 summary: 'Explore how cutting-edge technologies are revolutionizing the prefabrication and modular construction industry, leading to faster, greener, and more efficient building processes.'
+
+images: ['https://www.contechnews.com/articleimage/./how_technology_is_enhancing_prefabrication_and_modular_construction.webp']
 ---
 
 # How Technology is Enhancing Prefabrication and Modular Construction

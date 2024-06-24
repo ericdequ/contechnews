@@ -4,6 +4,8 @@ date: '2023-12-17'
 tags: ['Sustainability', 'Technology', 'Building']
 draft: false
 summary: 'Explore how technology is revolutionizing sustainable building practices, making our world greener and smarter.'
+
+images: ['https://www.contechnews.com/articleimage/./how_to_implement_sustainable_building_practices_with_technology.webp']
 ---
 
 ## Introduction

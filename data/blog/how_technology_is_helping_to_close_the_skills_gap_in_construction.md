@@ -4,6 +4,8 @@ date: '2023-06-19'
 tags: ['Technology', 'Construction', 'Skills Gap']
 draft: false
 summary: 'Discover how cutting-edge technologies are bridging the skills gap in the construction industry, making projects more efficient and boosting workforce competency.'
+
+images: ['https://www.contechnews.com/articleimage/./how_technology_is_helping_to_close_the_skills_gap_in_construction.webp']
 ---
 
 # How Technology is Helping to Close the Skills Gap in Construction
