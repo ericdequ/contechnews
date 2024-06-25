@@ -5,7 +5,7 @@ tags: ['Construction', 'Technology', 'Compliance', 'Reporting']
 draft: false
 summary: 'Dive into the world of cutting-edge construction technology and discover how it can streamline compliance and reporting processes in the construction industry.'
 
-images: ['https://www.contechnews.com/articleimage/harnessing_construction_technology_for_compliance_and_reporting.png']
+images: ['https://www.contechnews.com/articleimage/harnessing_construction_technology_for_compliance_and_reporting.webp']
 ---
 
 # Harnessing Construction Technology for Compliance and Reporting

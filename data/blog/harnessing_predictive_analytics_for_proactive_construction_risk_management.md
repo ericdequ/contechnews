@@ -5,7 +5,7 @@ tags: ['Predictive Analytics', 'Construction', 'Risk Management']
 draft: false
 summary: 'Discover the transformative power of predictive analytics in managing risks within the construction industry. Learn practical applications, benefits, and how this technology is revolutionizing the way construction projects are delivered.'
 
-images: ['https://www.contechnews.com/articleimage/harnessing_predictive_analytics_for_proactive_construction_risk_management.png']
+images: ['https://www.contechnews.com/articleimage/harnessing_predictive_analytics_for_proactive_construction_risk_management.webp']
 ---
 
 # Harnessing Predictive Analytics for Proactive Construction Risk Management

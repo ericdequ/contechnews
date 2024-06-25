@@ -5,7 +5,7 @@ tags: ['Artificial Intelligence', 'Construction', 'Security', 'Innovation']
 draft: false
 summary: 'Explore how cutting-edge AI technologies are revolutionizing construction site security by enhancing monitoring, predicting risks, and ensuring a safer work environment.'
 
-images: ['https://www.contechnews.com/articleimage/how_artificial_intelligence_is_improving_construction_site_security.png']
+images: ['https://www.contechnews.com/articleimage/how_artificial_intelligence_is_improving_construction_site_security.webp']
 ---
 
 # How Artificial Intelligence is Improving Construction Site Security

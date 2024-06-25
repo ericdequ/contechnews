@@ -5,7 +5,7 @@ tags: ['Technology', 'Construction', 'Waste Management']
 draft: false
 summary: 'Discover how innovative technologies are transforming construction waste management, making it more efficient, sustainable, and cost-effective.'
 
-images: ['https://www.contechnews.com/articleimage/harnessing_technology_for_effective_construction_waste_management.png']
+images: ['https://www.contechnews.com/articleimage/harnessing_technology_for_effective_construction_waste_management.webp']
 ---
 
 # Harnessing Technology for Effective Construction Waste Management

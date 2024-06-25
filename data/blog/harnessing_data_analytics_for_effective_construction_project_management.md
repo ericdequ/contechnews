@@ -5,7 +5,7 @@ tags: ['Data Analytics', 'Construction', 'Project Management']
 draft: false
 summary: 'Dive deep into the transformative potential of data analytics in construction project management, enhancing efficiency, cost-effectiveness, and overall project success.'
 
-images: ['https://www.contechnews.com/articleimage/harnessing_data_analytics_for_effective_construction_project_management.png']
+images: ['https://www.contechnews.com/articleimage/harnessing_data_analytics_for_effective_construction_project_management.webp']
 ---
 
 # Harnessing Data Analytics for Effective Construction Project Management

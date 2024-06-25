@@ -1,6 +1,6 @@
 ---
 name: Con Tech News
-avatar: https://www.contechnews.com/logoo-removebg.png
+avatar: https://www.contechnews.com/logoo-removebg.webp
 occupation: Helping Contractors Navigate Construction Technology
 email: contact@quantumcybersolutions.com 📧
 ---

@@ -4,6 +4,8 @@ date: '2023-02-02'
 tags: ['Government Contracting', 'Compliance', 'Cybersecurity', 'Blog Review']
 draft: false
 summary: 'A comprehensive review of the Gov Con blog, highlighting its practical advice and insights for government contractors.'
+
+images: ['https://www.govcon.me/logoo.webp']
 ---
 
 ## 🌟 Gov Con Blog: Your Go-To Resource for Government Contracting

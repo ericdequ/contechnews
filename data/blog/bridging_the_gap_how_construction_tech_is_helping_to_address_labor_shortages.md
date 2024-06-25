@@ -5,7 +5,7 @@ tags: ['Construction Tech', 'Innovation', 'Labor Shortages', 'Automation']
 draft: false
 summary: 'Discover how cutting-edge technologies are transforming the construction industry and tackling labor shortages head-on. From robotics to AI, explore the innovations that are building the future.'
 
-images: ['https://www.contechnews.com/articleimage/bridging_the_gap_how_construction_tech_is_helping_to_address_labor_shortages.png']
+images: ['https://www.contechnews.com/articleimage/bridging_the_gap_how_construction_tech_is_helping_to_address_labor_shortages.webp']
 ---
 
 # Bridging the Gap: How Construction Tech is Helping to Address Labor Shortages

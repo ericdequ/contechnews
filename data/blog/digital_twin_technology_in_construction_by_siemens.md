@@ -5,7 +5,7 @@ tags: ['construction technology', 'digital twins', 'Siemens', 'construction inno
 draft: true
 summary: "Discover how Siemens is utilizing digital twin technology to create virtual replicas of construction projects, enabling real-time monitoring, predictive maintenance, and improved decision-making throughout the project lifecycle." 
 
-images: ['https://www.contechnews.com/articleimage/digital_twin_technology_in_construction_by_siemens.png']
+images: ['https://www.contechnews.com/articleimage/digital_twin_technology_in_construction_by_siemens.webp']
 ---
 
 ## Digital Twin Technology in Construction by Siemens

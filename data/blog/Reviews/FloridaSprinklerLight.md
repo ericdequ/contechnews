@@ -4,6 +4,8 @@ date: '2023-05-19'
 tags: ['Irrigation', 'Lighting', 'Florida Sprinkler & Light', 'Review', 'Landscape Care']
 draft: false
 summary: 'A detailed review of Florida Sprinkler & Light, highlighting their exceptional irrigation and outdoor lighting services, ideal for construction projects in Central Florida.'
+
+images: ['https://www.floridasprinklerlight.com/FSL_logo.jpg']
 ---
 
 ## 🌟 Florida Sprinkler & Light: Precision and Reliability in Landscape Solutions

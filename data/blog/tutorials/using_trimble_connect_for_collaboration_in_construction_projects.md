@@ -35,7 +35,7 @@ Once you're logged in, you can create a new project:
 2. **Enter Project Details**: Name, organization, and description.
 3. **Invite Team Members**: Input their email addresses and assign roles.
 
-![Creating a New Project in Trimble Connect](path/to/image.png)
+![Creating a New Project in Trimble Connect](path/to/image.webp)
 
 ### Step 3: Uploading Models and Files
 
@@ -45,7 +45,7 @@ Next, upload your BIM models and other project files:
 2. **Click "Upload Files"** and select the files you want to upload.
 3. Organize files using folders for easy navigation.
 
-![Uploading Files in Trimble Connect](path/to/image.png)
+![Uploading Files in Trimble Connect](path/to/image.webp)
 
 ### Step 4: Navigating the User Interface
 
@@ -55,7 +55,7 @@ The Trimble Connect interface is user-friendly but rich in features:
 - **3D Viewer**: Inspect BIM models in full 3D, allowing for rotation, zoom, and sectioning.
 - **To-Do List**: Manage tasks and assign to team members.
 
-![Trimble Connect Dashboard](path/to/image.png)
+![Trimble Connect Dashboard](path/to/image.webp)
 
 ## Best Practices for Collaboration
 
