@@ -4,6 +4,8 @@ date: '2024-06-04'
 tags: ['Robotics', 'Construction', 'Innovation']
 draft: false
 summary: 'Explore the transformative role of robotics in the construction industry, specifically focusing on concrete and masonry work. Uncover the exciting advancements, challenges, and future potential of this technological revolution.'
+
+images: ['https://www.contechnews.com/articleimage/./the_impact_of_robotics_on_concrete_and_masonry_work.webp']
 ---
 
 # The Impact of Robotics on Concrete and Masonry Work

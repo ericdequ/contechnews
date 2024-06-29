@@ -4,6 +4,8 @@ date: '2024-02-23'
 tags: ['Robotics', 'Construction', 'Innovation', 'Technology']
 draft: false
 summary: 'Dive into the transformative world of advanced robotics in construction, exploring how innovative technologies are revolutionizing precision tasks for efficiency and accuracy.'
+
+images: ['https://www.contechnews.com/articleimage/./how_to_use_advanced_robotics_for_precision_construction_tasks.webp']
 ---
 
 # How to Use Advanced Robotics for Precision Construction Tasks

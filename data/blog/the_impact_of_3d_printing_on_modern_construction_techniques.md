@@ -4,6 +4,8 @@ date: '2024-05-22'
 tags: ['3D Printing', 'Construction', 'Innovation']
 draft: false
 summary: 'Explore how 3D printing is revolutionizing the construction industry, from reducing costs and waste to enabling unprecedented architectural creativity and efficiency.'
+
+images: ['https://www.contechnews.com/articleimage/./the_impact_of_3d_printing_on_modern_construction_techniques.webp']
 ---
 
 # The Impact of 3D Printing on Modern Construction Techniques

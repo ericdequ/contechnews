@@ -4,6 +4,8 @@ date: '2023-11-17'
 tags: ['Geofencing', 'Construction', 'Security', 'Technology']
 draft: false
 summary: 'Discover how geofencing technology can revolutionize security measures on construction sites by offering real-time alerts, precise monitoring, and robust protection.'
+
+images: ['https://www.contechnews.com/articleimage/./how_to_use_geofencing_for_enhanced_construction_site_security.webp']
 ---
 
 # How to Use Geofencing for Enhanced Construction Site Security

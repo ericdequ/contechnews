@@ -4,6 +4,8 @@ date: '2023-02-18'
 tags: ['Construction', 'Analytics', 'Optimization']
 draft: false
 summary: 'Discover how advanced analytics can revolutionize resource optimization in the construction industry, driving efficiency and cost savings like never before.'
+
+images: ['https://www.contechnews.com/articleimage/./how_to_use_advanced_analytics_for_construction_resource_optimization.webp']
 ---
 
 # How to Use Advanced Analytics for Construction Resource Optimization

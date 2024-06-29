@@ -4,6 +4,8 @@ date: '2024-02-28'
 tags: ['Building Automation', 'Energy Efficiency', 'Smart Technology']
 draft: false
 summary: 'Explore how building automation systems can revolutionize energy management and lead to substantial savings in commercial and residential properties.'
+
+images: ['https://www.contechnews.com/articleimage/./how_to_use_building_automation_systems_for_energy_efficiency.webp']
 ---
 
 # How to Use Building Automation Systems for Energy Efficiency

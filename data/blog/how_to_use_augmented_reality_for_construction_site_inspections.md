@@ -4,6 +4,8 @@ date: '2024-02-15'
 tags: ['Augmented Reality', 'Construction Technology', 'Innovation']
 draft: false
 summary: 'Discover how augmented reality (AR) is revolutionizing construction site inspections, enhancing accuracy, efficiency, and safety.'
+
+images: ['https://www.contechnews.com/articleimage/./how_to_use_augmented_reality_for_construction_site_inspections.webp']
 ---
 
 # How to Use Augmented Reality for Construction Site Inspections

@@ -4,6 +4,8 @@ date: '2023-10-21'
 tags: ['Robotics', 'Innovation', 'Safety']
 draft: false
 summary: 'Explore the cutting-edge applications of robotics in the demolition and hazardous material handling sectors, and how these advancements are enhancing safety and efficiency.'
+
+images: ['https://www.contechnews.com/articleimage/./revolutionizing_safety_how_robotics_are_transforming_demolition_and_hazardous_material_handling.webp']
 ---
 
 # Revolutionizing Safety: How Robotics are Transforming Demolition and Hazardous Material Handling
