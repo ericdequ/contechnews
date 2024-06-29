@@ -1,4 +1,5 @@
 ---
+
 title: "Advanced Project Scheduling with AI by ALICE Technologies"
 date: "2024-05-21"
 tags: ['Construction Technology', 'AI', 'Project Management', 'Scheduling', 'ALICE Technologies', 'Innovation', 'Resource Allocation', 'Construction Optimization']

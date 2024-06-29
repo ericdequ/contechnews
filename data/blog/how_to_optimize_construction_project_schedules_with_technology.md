@@ -1,4 +1,5 @@
 ---
+
 title: 'How to Optimize Construction Project Schedules with Technology'
 date: '2023-03-08'
 tags: ['Construction', 'Technology', 'Project Management']
@@ -23,8 +24,6 @@ Traditionally, construction project schedules relied heavily on manual methods s
 ## Enter Technology: The Game Changer
 
 ### 1. **Building Information Modeling (BIM)**
-
-
 
 Building Information Modeling (BIM) has revolutionized the way construction projects are managed. BIM involves creating digital representations of the physical and functional aspects of a project, contributing significantly to every phase of the construction lifecycle.
 

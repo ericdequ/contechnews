@@ -1,4 +1,5 @@
 ---
+
 title: 'How 5G Connectivity is Enhancing Construction Site Communication'
 date: '2024-03-30'
 tags: ['5G', 'Construction', 'Innovation']

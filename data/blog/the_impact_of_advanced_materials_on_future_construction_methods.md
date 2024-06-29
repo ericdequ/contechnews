@@ -1,4 +1,5 @@
 ---
+
 title: 'The Impact of Advanced Materials on Future Construction Methods'
 date: '2023-09-19'
 tags: ['Construction', 'Advanced Materials', 'Innovation']
@@ -15,6 +16,7 @@ The construction industry is on the cusp of an extraordinary transformation, dri
 Concrete has been the backbone of construction for centuries, but **smart concrete** is poised to take this ancient material to the next level. Incorporating nanomaterials such as carbon nanotubes can significantly improve its strength, durability, and ductility. Imagine buildings that can **self-heal** cracks through embedded microcapsules, releasing healing agents when stress is detected.
 
 ### Key Benefits:
+
 - **Enhanced Durability:** Nanoparticles fill in the tiny voids and imperfections, making the material less prone to wear and tear.
 - **Self-Healing:** Microcapsules containing healing agents can automatically repair minor cracks.
 - **Sustainability:** Reduction in maintenance and repair lowers the overall environmental impact.
@@ -24,6 +26,7 @@ Concrete has been the backbone of construction for centuries, but **smart concre
 Picture a material so light it appears almost non-existent, yet possessing extraordinary insulating properties. **Aerogels** are exactly that. Composed of up to 99.8% air, these materials provide exceptional thermal insulation without adding significant weight to the structure.
 
 ### Practical Applications:
+
 - **Energy-Efficient Buildings:** Improved thermal barrier results in decreased energy consumption for heating and cooling.
 - **Fire Resistance:** Aerogels can withstand extremely high temperatures, adding a layer of safety to constructions.
 
@@ -32,6 +35,7 @@ Picture a material so light it appears almost non-existent, yet possessing extra
 Graphene has been hailed as a **wonder material** due to its remarkable mechanical, thermal, and electrical properties. While still at a relatively nascent stage in widespread construction use, its potential applications are mind-boggling.
 
 ### What Makes Graphene Special?
+
 - **Strength:** Over 200 times stronger than steel, while being incredibly lightweight.
 - **Electrical Conductivity:** Could revolutionize smart buildings with embedded sensors and circuits.
 - **Flexibility:** Offers the potential for creating dynamic, shape-shifting structures.
@@ -41,6 +45,7 @@ Graphene has been hailed as a **wonder material** due to its remarkable mechanic
 Forget about traditional molds and formworks! **3D printing** has burst onto the construction scene, enabling the creation of complex geometries and customized designs. But the real game-changer lies in the use of advanced printing materials.
 
 ### Innovations in 3D Printing:
+
 - **Recycled Plastics:** Environmentally friendly options reduce waste.
 - **Bio-Materials:** Implement organic compounds for sustainable building practices.
 - **Composite Materials:** Mix multiple materials to achieve desired properties like enhanced strength or thermal resistance.
@@ -50,6 +55,7 @@ Forget about traditional molds and formworks! **3D printing** has burst onto the
 Science fiction has turned into science fact with the advent of **transparent aluminum**. Known as aluminum oxynitride (ALON), this material offers crystal-clear transparency with the strength of aluminum.
 
 ### Benefits:
+
 - **Security:** Ideal for windows requiring high ballistic resistance.
 - **Durability:** Resistant to scratching and wear, ensuring longevity.
 

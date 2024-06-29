@@ -1,4 +1,5 @@
 ---
+
 title: 'How IoT is Transforming Construction Site Safety and Efficiency'
 date: '2023-07-17'
 tags: ['IoT', 'Construction', 'Safety', 'Efficiency']

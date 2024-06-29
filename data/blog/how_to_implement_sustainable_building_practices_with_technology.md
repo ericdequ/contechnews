@@ -1,4 +1,5 @@
 ---
+
 title: 'How to Implement Sustainable Building Practices with Technology'
 date: '2023-12-17'
 tags: ['Sustainability', 'Technology', 'Building']

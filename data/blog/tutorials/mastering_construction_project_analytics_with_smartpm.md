@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering Construction Project Analytics with SmartPM'
 date: '2023-09-29'
 tags: ['Construction', 'Project Management', 'Analytics']
@@ -11,13 +12,14 @@ summary: 'Unlock the full potential of construction project analytics using Smar
 In the complex world of construction project management, staying on top of every detail can often feel overwhelming. Enter SmartPM, a powerful tool designed to revolutionize your project analytics. This post will guide you through the essential functionalities, advanced features, and best practices for using SmartPM to its fullest.
 
 ## Table of Contents
-1. [Introduction to SmartPM](#introduction-to-smartpm)
-2. [Setting Up Your SmartPM Account](#setting-up-your-smartpm-account)
-3. [Uploading and Managing Project Data](#uploading-and-managing-project-data)
-4. [Key Features and How to Use Them](#key-features-and-how-to-use-them)
-5. [Analyzing Project Performance](#analyzing-project-performance)
-6. [Best Practices](#best-practices)
-7. [Conclusion](#conclusion)
+
+1. [Introduction to SmartPM](#i ntroduction-to-smartpm)
+2. [Setting Up Your SmartPM Account](#s etting-up-your-smartpm-account)
+3. [Uploading and Managing Project Data](#u ploading-and-managing-project-data)
+4. [Key Features and How to Use Them](#k ey-features-and-how-to-use-them)
+5. [Analyzing Project Performance](#a nalyzing-project-performance)
+6. [Best Practices](#b est-practices)
+7. [Conclusion](#c onclusion)
 
 ## Introduction to SmartPM
 
@@ -54,6 +56,7 @@ Organize your data into logical subsets such as tasks, milestones, costs, and re
 SmartPM's Schedule Analysis tool allows you to evaluate the reliability of your project timelines. It utilizes CPM (Critical Path Method) to identify potential delays and suggest remedial actions.
 
 #### How to Use:
+
 - Upload your project schedule.
 - Navigate to the Schedule Analysis tab.
 - Review critical paths, float, and resource allocations.
@@ -64,6 +67,7 @@ SmartPM's Schedule Analysis tool allows you to evaluate the reliability of your 
 The platform offers robust cost management features that enable you to track and project budget expenditures throughout the project lifecycle.
 
 #### How to Use:
+
 - Input cost data manually or through file uploads.
 - Set up benchmarks and thresholds.
 - Generate budget vs. actual reports to identify variances.
@@ -73,6 +77,7 @@ The platform offers robust cost management features that enable you to track and
 Proactively identifying risks is crucial. SmartPM offers a dedicated Risk Analysis tool to help with this.
 
 #### How to Use:
+
 - Define risk parameters.
 - Input observed data points.
 - Review risk profiles and generate risk matrices.
@@ -82,6 +87,7 @@ Proactively identifying risks is crucial. SmartPM offers a dedicated Risk Analys
 Generate comprehensive reports that encompass schedule, cost, and risk analyses. Customize report formats to suit various stakeholders.
 
 #### How to Use:
+
 - Navigate to the Reports section.
 - Choose the report type and customize parameters.
 - Export the report in your preferred format (PDF, Excel, etc.).

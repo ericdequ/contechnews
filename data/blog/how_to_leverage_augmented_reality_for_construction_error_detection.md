@@ -1,4 +1,5 @@
 ---
+
 title: 'How to Leverage Augmented Reality for Construction Error Detection'
 date: '2023-10-13'
 tags: ['Augmented Reality', 'Construction', 'Technology', 'Innovation']

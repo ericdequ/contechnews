@@ -1,4 +1,5 @@
 ---
+
 title: 'Revolutionizing Construction Safety with Predictive Analytics by Smartvid.io'
 date: '2023-02-21'
 tags:  ['Construction Technology', 'Predictive Analytics', 'Construction Safety', 'Innovation', 'Smartvid.io', 'Proactive Safety', 'Hazard Identification', 'Worker Protection', 'AI in Construction']

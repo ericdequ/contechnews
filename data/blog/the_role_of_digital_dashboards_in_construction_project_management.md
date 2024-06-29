@@ -1,4 +1,5 @@
 ---
+
 title: 'The Role of Digital Dashboards in Construction Project Management'
 date: '2023-11-24'
 tags: ['Construction', 'Project Management', 'Digital Dashboards', 'Technology']
@@ -28,6 +29,7 @@ A digital dashboard is an information management tool that visually tracks, anal
 Digital dashboards facilitate informed decisions by presenting data clearly and concisely. Project managers can instantly assess whether the project is on track or if corrective measures are needed, leading to timely and appropriate actions. 
 
 #### Example: 
+
 Imagine a scenario where a project manager notices a deviation in resource allocation via the dashboard. Immediate adjustments can be made to redeploy resources more efficiently, preventing potential delays or cost overruns. 
 
 ### 2. Increased Transparency and Accountability
@@ -35,6 +37,7 @@ Imagine a scenario where a project manager notices a deviation in resource alloc
 With all project stakeholders having access to the same real-time data, transparency is significantly enhanced. Digital dashboards ensure that everyone, from project managers to on-site supervisors, has a unified understanding of the project's status.
 
 #### Example:
+
 Weekly virtual meetings can leverage shared dashboard views to discuss project progress, addressing issues collaboratively and fostering a culture of accountability.
 
 ### 3. Improved Resource Management
@@ -42,6 +45,7 @@ Weekly virtual meetings can leverage shared dashboard views to discuss project p
 Dashboards provide insights into resource utilization, helping project managers allocate manpower, machinery, and materials more effectively. This optimization minimizes waste, reduces costs, and enhances productivity.
 
 #### Example:
+
 A dashboard can highlight underutilized machinery on one site while another project experiences shortages. Quick reallocation can be arranged, ensuring all resources are used optimally.
 
 ### 4. Real-Time Risk Management and Issue Resolution
@@ -49,6 +53,7 @@ A dashboard can highlight underutilized machinery on one site while another proj
 Spotting potential risks early can save a project from derailment. Digital dashboards can flag unusual patterns or deviations from the norm, signaling potential issues before they become critical problems.
 
 #### Example:
+
 If a specific supplier is consistently late in deliveries, the dashboard will make this pattern evident, allowing for contingency plans to be put in place, such as finding alternative suppliers.
 
 ## Real-World Applications: Success Stories

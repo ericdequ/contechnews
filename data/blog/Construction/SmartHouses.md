@@ -1,4 +1,5 @@
 ---
+
 title: 'Harmonizing Smart Homes and Nature: Building Sustainable, Connected Neighborhoods'
 date: '2024-05-29'
 tags:

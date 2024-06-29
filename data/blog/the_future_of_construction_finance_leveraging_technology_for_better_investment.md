@@ -1,4 +1,5 @@
 ---
+
 title: 'The Future of Construction Finance: Leveraging Technology for Better Investment'
 date: '2023-08-24'
 tags: ['Construction', 'Finance', 'Technology', 'Innovation']

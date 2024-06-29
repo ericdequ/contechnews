@@ -1,4 +1,5 @@
 ---
+
 title: 'Building Smart Cities: A Blueprint for Secure and Sustainable Urban Development'
 date: '2024-04-08'
 tags:

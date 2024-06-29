@@ -1,4 +1,5 @@
 ---
+
 title: "Leveraging Blockchain for Construction Supply Chain Transparency"
 date: '2023-04-21'
 tags: ['Blockchain', 'Construction Technology', 'Supply Chain', 'Transparency', 'Provenance', 'VeChain', 'Innovation', 'Construction Management', 'Secure Transactions']

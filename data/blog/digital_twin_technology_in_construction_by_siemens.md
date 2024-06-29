@@ -32,16 +32,19 @@ Digital twin technology involves creating a digital replica of a physical asset 
 Siemens integrates digital twin technology at various stages of the construction project lifecycle:
 
 #### 1. **Design Phase**
+
 - **Simulation and Testing**
   Digital twins allow for virtual simulations and stress-testing of designs. Potential flaws can be identified and corrected before physical construction begins.
 
 #### 2. **Construction Phase**
+
 - **Progress Tracking**
   Continuous monitoring and real-time data collection enable accurate tracking of project progress.
 - **Quality Assurance**
   Real-time data enhances quality control, ensuring that construction adheres to design specifications.
 
 #### 3. **Operations Phase**
+
 - **Facility Management**
   Post-construction, digital twins assist in the efficient operation and maintenance of the facility, ensuring longevity and optimal performance.
 - **Energy Management**

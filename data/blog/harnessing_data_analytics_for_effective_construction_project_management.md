@@ -1,4 +1,5 @@
 ---
+
 title: 'Harnessing Data Analytics for Effective Construction Project Management'
 date: '2023-10-16'
 tags: ['Data Analytics', 'Construction', 'Project Management']

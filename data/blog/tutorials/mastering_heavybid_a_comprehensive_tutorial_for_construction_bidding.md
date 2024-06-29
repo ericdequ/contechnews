@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering HeavyBid: A Comprehensive Tutorial for Construction Bidding'
 date: '2024-01-21'
 tags: ['Construction', 'Software', 'Tutorial']
@@ -12,14 +13,14 @@ Welcome to your ultimate guide on harnessing the power of HeavyBid, the go-to so
 
 ## Table of Contents
 
-1. [Introduction to HeavyBid](#introduction-to-heavybid)
-2. [Installation and Setup](#installation-and-setup)
-3. [Creating Your First Bid](#creating-your-first-bid)
-4. [Advanced Bidding Techniques](#advanced-bidding-techniques)
-5. [Integrating HeavyBid with Other Tools](#integrating-heavybid-with-other-tools)
-6. [Best Practices for Using HeavyBid](#best-practices-for-using-heavybid)
-7. [Case Studies: Success Stories](#case-studies-success-stories)
-8. [Conclusion](#conclusion)
+1. [Introduction to HeavyBid](#i ntroduction-to-heavybid)
+2. [Installation and Setup](#i nstallation-and-setup)
+3. [Creating Your First Bid](#c reating-your-first-bid)
+4. [Advanced Bidding Techniques](#a dvanced-bidding-techniques)
+5. [Integrating HeavyBid with Other Tools](#i ntegrating-heavybid-with-other-tools)
+6. [Best Practices for Using HeavyBid](#b est-practices-for-using-heavybid)
+7. [Case Studies: Success Stories](#c ase-studies-success-stories)
+8. [Conclusion](#c onclusion)
 
 ## Introduction to HeavyBid
 

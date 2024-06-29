@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering Corecon: A Comprehensive Guide to Construction Project Management'
 date: '2023-05-05'
 tags: ['Construction', 'Project Management', 'Corecon']

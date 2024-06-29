@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering Construction Estimating with ProEst'
 date: '2023-04-04'
 tags: ['Construction', 'Software', 'Estimating']

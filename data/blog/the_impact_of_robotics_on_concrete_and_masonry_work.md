@@ -1,4 +1,5 @@
 ---
+
 title: 'The Impact of Robotics on Concrete and Masonry Work'
 date: '2024-06-04'
 tags: ['Robotics', 'Construction', 'Innovation']

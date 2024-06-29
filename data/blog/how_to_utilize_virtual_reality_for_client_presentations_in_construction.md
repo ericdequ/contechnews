@@ -1,4 +1,5 @@
 ---
+
 title: 'How to Utilize Virtual Reality for Client Presentations in Construction'
 date: '2023-09-20'
 tags: ['Virtual Reality', 'Construction', 'Technology']

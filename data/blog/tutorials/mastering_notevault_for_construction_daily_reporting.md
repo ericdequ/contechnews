@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering NoteVault for Construction Daily Reporting'
 date: '2024-03-23'
 tags: ['Construction', 'Software', 'Reporting']
@@ -17,6 +18,7 @@ Before jumping into the how-to guide, let's talk about why NoteVault stands out:
 - **Real-Time Updates:** Everyone stays in the loop with instantaneous data sync.
 - **Cloud-Based:** Access from anywhere, anytime.
   
+
 ## Getting Started
 
 ### Step 1: Sign Up and Installation
@@ -46,6 +48,7 @@ Here, you can:
 - **Add New Project:** Use the ‘+’ button to initiate new project setups.
 - **Details:** Key data like start date, deadline, client, and team.
   
+
 ## Creating and Managing Reports
 
 ### Step 1: Adding Daily Reports

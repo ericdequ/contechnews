@@ -1,4 +1,5 @@
 ---
+
 title: 'The Impact of Cybersecurity on Protecting Construction Data'
 date: '2023-08-21'
 tags: ['Cybersecurity', 'Construction Technology']

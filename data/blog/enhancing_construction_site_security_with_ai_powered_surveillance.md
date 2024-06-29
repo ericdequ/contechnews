@@ -1,4 +1,5 @@
 ---
+
 title: 'Enhancing Construction Site Security with AI-Powered Surveillance'
 date: '2023-10-24'
 tags: ['Construction', 'Technology', 'AI', 'Surveillance', 'Security', 'Innovations', 'Avigilon', 'Deep Sentinel']

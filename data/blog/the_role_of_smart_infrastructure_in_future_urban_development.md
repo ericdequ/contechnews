@@ -1,4 +1,5 @@
 ---
+
 title: 'The Role of Smart Infrastructure in Future Urban Development'
 date: '2023-06-17'
 tags: ['Smart Infrastructure', 'Urban Development', 'Technology']

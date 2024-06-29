@@ -1,4 +1,5 @@
 ---
+
 title: "The Future of Construction Finance with Fintech Innovations"
 date: '2024-01-29'
 tags: ['construction', 'fintech', 'finance', 'technology', 'investment', 'payment processing', 'financial management']

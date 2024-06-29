@@ -1,4 +1,5 @@
 ---
+
 title: 'The Role of Exoskeletons in Reducing Worker Fatigue and Injury'
 date: '2023-04-29'
 tags: ['Exoskeletons', 'Worker Safety', 'Innovation', 'Technology']

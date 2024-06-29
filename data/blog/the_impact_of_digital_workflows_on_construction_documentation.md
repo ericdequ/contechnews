@@ -1,4 +1,5 @@
 ---
+
 title: 'The Impact of Digital Workflows on Construction Documentation'
 date: '2023-10-10'
 tags: ['Construction', 'Digital Transformation', 'Technology']

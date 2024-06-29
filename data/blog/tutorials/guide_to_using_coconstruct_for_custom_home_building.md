@@ -1,4 +1,5 @@
 ---
+
 title: 'Guide to Using CoConstruct for Custom Home Building'
 date: '2023-04-13'
 tags: ['Construction', 'Project Management', 'Software']
@@ -12,17 +13,15 @@ Custom home building is a complex endeavor that demands meticulous planning, eff
 
 ## Table of Contents
 
-1. [Introduction to CoConstruct](#introduction-to-coconstruct)
-2. [Initial Setup and Configuration](#initial-setup-and-configuration)
-3. [Project Planning and Scheduling](#project-planning-and-scheduling)
-4. [Client Communication Tools](#client-communication-tools)
-5. [Budgeting and Financial Management](#budgeting-and-financial-management)
-6. [Team Collaboration and Task Management](#team-collaboration-and-task-management)
-7. [Using Mobile App for On-Site Efficiency](#using-mobile-app-for-on-site-efficiency)
-8. [Integrations and Extensions](#integrations-and-extensions)
-9. [Best Practices and Tips](#best-practices-and-tips)
-
-
+1. [Introduction to CoConstruct](#i ntroduction-to-coconstruct)
+2. [Initial Setup and Configuration](#i nitial-setup-and-configuration)
+3. [Project Planning and Scheduling](#p roject-planning-and-scheduling)
+4. [Client Communication Tools](#c lient-communication-tools)
+5. [Budgeting and Financial Management](#b udgeting-and-financial-management)
+6. [Team Collaboration and Task Management](#t eam-collaboration-and-task-management)
+7. [Using Mobile App for On-Site Efficiency](#u sing-mobile-app-for-on-site-efficiency)
+8. [Integrations and Extensions](#i ntegrations-and-extensions)
+9. [Best Practices and Tips](#b est-practices-and-tips)
 
 ## Introduction to CoConstruct
 

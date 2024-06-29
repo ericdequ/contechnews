@@ -1,4 +1,5 @@
 ---
+
 title: 'The Role of AI in Construction: Predictive Analytics and Beyond'
 date: '2023-11-16'
 tags: ['AI', 'Construction', 'Technology', 'Innovation']

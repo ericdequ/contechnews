@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering Construction Data Management with Assemble Systems'
 date: '2023-11-05'
 tags: ['Construction', 'Data Management', 'Assemble Systems']

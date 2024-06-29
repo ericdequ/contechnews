@@ -1,4 +1,5 @@
 ---
+
 title: 'How to Use Advanced Analytics for Construction Resource Optimization'
 date: '2023-02-18'
 tags: ['Construction', 'Analytics', 'Optimization']

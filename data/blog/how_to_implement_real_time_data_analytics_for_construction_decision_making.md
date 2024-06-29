@@ -1,4 +1,5 @@
 ---
+
 title: 'How to Implement Real-Time Data Analytics for Construction Decision-Making'
 date: '2023-08-27'
 tags: ['Construction', 'Data Analytics', 'Real-time']

@@ -1,4 +1,5 @@
 ---
+
 title: 'Harnessing Construction Technology for Real-Time Project Tracking'
 date: '2023-11-13'
 tags: ['Construction Tech', 'Real-Time Tracking', 'Project Management']

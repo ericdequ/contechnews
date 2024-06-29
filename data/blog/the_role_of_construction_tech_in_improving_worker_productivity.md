@@ -1,4 +1,5 @@
 ---
+
 title: 'The Role of Construction Tech in Improving Worker Productivity'
 date: '2024-05-17'
 tags: ['Construction Technology', 'Productivity', 'Innovation']

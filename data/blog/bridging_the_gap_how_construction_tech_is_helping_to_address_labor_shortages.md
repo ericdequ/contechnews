@@ -1,4 +1,5 @@
 ---
+
 title: 'Bridging the Gap: How Construction Tech is Helping to Address Labor Shortages'
 date: '2023-09-27'
 tags: ['Construction Tech', 'Innovation', 'Labor Shortages', 'Automation']

@@ -1,4 +1,5 @@
 ---
+
 title: 'The Future of Construction Labor: Embracing Automation and AI'
 date: '2023-04-28'
 tags: ['Construction', 'Automation', 'AI']

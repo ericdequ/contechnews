@@ -1,4 +1,5 @@
 ---
+
 title: 'How to Leverage Construction Technology for Effective Team Collaboration'
 date: '2023-05-25'
 tags: ['Construction Technology', 'Team Collaboration', 'Innovation']

@@ -1,4 +1,5 @@
 ---
+
 title: 'The Impact of Digital Twins on Urban Planning and Development'
 date: '2024-01-25'
 tags: ['Urban Planning', 'Digital Twin', 'Smart Cities']

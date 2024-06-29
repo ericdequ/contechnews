@@ -1,4 +1,5 @@
 ---
+
 title: 'The Rise of AI-Driven Construction Project Management'
 date: '2023-11-01'
 tags: ['AI', 'construction technology', 'project management', 'innovation', 'Alice Technologies', 'nPlan']

@@ -1,4 +1,5 @@
 ---
+
 title: 'The Rise of Smart Cities: The Role of Construction Technology in Urban Development'
 date: '2023-10-22'
 tags: ['Smart Cities', 'Construction Technology', 'Urban Development']

@@ -1,4 +1,5 @@
 ---
+
 title: 'Harnessing Construction Technology for Compliance and Reporting'
 date: '2023-01-25'
 tags: ['Construction', 'Technology', 'Compliance', 'Reporting']
@@ -25,6 +26,7 @@ Enter **construction technology**, which acts as a multi-faceted toolkit, addres
 **Building Information Modeling (BIM)** is not just a fancy term. It's a digital representation of the physical and functional characteristics of a facility. But how does it help with compliance and reporting?
 
 ### Advantages:
+
 - **Centralized Data Hub**: BIM functions as a single source of truth, ensuring all stakeholders are on the same page.
 - **Automated Compliance Checks**: With in-built standards libraries, BIM can automatically flag non-compliance during the design phase, drastically reducing reworks.
 - **Enhanced Documentation**: Accurate, real-time and comprehensive documentation makes reporting seamless and thorough.
@@ -34,6 +36,7 @@ Enter **construction technology**, which acts as a multi-faceted toolkit, addres
 Long gone are the days when monitoring a construction site meant climbing scaffolds and taking precarious notes.
 
 ### Advantages:
+
 - **High-Resolution Surveying**: Drones provide high-definition imagery and data, useful for accurate reporting and verification against compliance standards.
 - **Progress Monitoring**: Regular aerial imaging verifies that the construction process follows the planned schedule and specifications, making record-keeping straightforward.
 - **Risk Mitigation**: Identifying and addressing compliance issues becomes a breeze as drones offer detailed overviews of areas otherwise hard to reach.
@@ -43,6 +46,7 @@ Long gone are the days when monitoring a construction site meant climbing scaffo
 IoT is transforming ordinary construction materials into smart components. But what magic do these interconnected devices bring?
 
 ### Advantages:
+
 - **Real-Time Data**: IoT devices collect and send real-time data to project managers, enabling instant compliance checks.
 - **Automated Reports**: Sensors can compile vast datasets into coherent reports, ensuring accurate and timely documentation.
 - **Predictive Analytics**: These devices can predict potential compliance risks, providing ample time for corrective action.
@@ -52,6 +56,7 @@ IoT is transforming ordinary construction materials into smart components. But w
 A smartphone in every hand and a cloud server linking everyone—this combination is revolutionizing compliance.
 
 ### Advantages:
+
 - **Instant Updates**: Mobile apps ensure that any changes in regulations are instantly communicated to all relevant parties.
 - **Accessibility**: All compliance and reporting data are available on-demand, from anywhere in the world.
 - **Collaboration**: Cloud-based solutions permit multi-user access and simultaneous updates, fostering a collaborative environment for maintaining compliance.
@@ -61,6 +66,7 @@ A smartphone in every hand and a cloud server linking everyone—this combinatio
 Intelligent algorithms are changing how data is processed and decisions are made on construction sites.
 
 ### Advantages:
+
 - **Automated Document Verification**: AI can sift through massive piles of documentation to check for compliance, saving countless hours of manual labor.
 - **Risk Prediction**: Machine learning models can analyze patterns to predict potential compliance issues before they occur.
 - **Cost Efficiency**: Reducing human error and preventing non-compliance fines result in significant cost savings.

@@ -1,4 +1,5 @@
 ---
+
 title: 'How to Integrate Sustainable Practices into Construction Projects with Technology'
 date: '2023-02-11'
 tags: ['Sustainability', 'Construction', 'Technology']
@@ -15,12 +16,15 @@ In the modern world, the construction industry is undergoing a significant trans
 ## The Need for Sustainable Construction
 
 ### Environmental Impact
+
 Construction activities have long been significant contributors to pollution, resource depletion, and greenhouse gas emissions. The construction sector accounts for a substantial share of the world’s carbon footprint. Implementing sustainable practices mitigates these adverse effects, leading to a healthier planet.
 
 ### Economic Benefits
+
 Sustainability in construction isn't just about being eco-friendly; it also makes economic sense. Sustainable practices often lead to cost savings through improved efficiency, reduced waste, and enhanced resource management.
 
 ### Regulatory Requirements
+
 Governments worldwide are introducing stricter regulations to curb environmental damage. Compliance with these regulations not only avoids legal repercussions but also enhances a company's reputation as a responsible entity.
 
 ## The Role of Technology in Sustainable Construction

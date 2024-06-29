@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering On-Screen Takeoff for Construction Quantity Surveying'
 date: '2024-05-15'
 tags: ['Construction', 'Software', 'Quantity Surveying']

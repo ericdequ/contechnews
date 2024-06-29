@@ -1,4 +1,5 @@
 ---
+
 title: 'The Impact of Technology on Construction Industry Best Practices'
 date: '2023-07-29'
 tags: ['Construction', 'Technology', 'Innovation']

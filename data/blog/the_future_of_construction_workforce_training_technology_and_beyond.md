@@ -1,4 +1,5 @@
 ---
+
 title: 'The Future of Construction Workforce Training: Technology and Beyond'
 date: '2024-02-08'
 tags: ['Construction', 'Technology', 'Workforce Training']

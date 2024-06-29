@@ -1,4 +1,5 @@
 ---
+
 title: 'Leveraging Autodesk Navisworks for Clash Detection in Construction'
 date: '2023-09-17'
 tags: ['Autodesk Navisworks', 'Construction', 'Clash Detection']
@@ -19,12 +20,14 @@ Autodesk Navisworks is a project review software that enables AEC (architecture,
 ## Getting Started with Clash Detection in Navisworks
 
 ### Step 1: Importing Models
+
 To begin clash detection in Navisworks, you need to import the 3D models of your project:
 
 1. **Open Navisworks** and go to **File > Open**.
 2. Select and import models from various file types, including Revit (.rvt), AutoCAD (.dwg), and more.
 
 ### Step 2: Setting up the Clash Detective Tool
+
 The Clash Detective tool in Navisworks is where the magic happens:
 
 1. Navigate to **Home > Tools > Clash Detective**.
@@ -33,21 +36,25 @@ The Clash Detective tool in Navisworks is where the magic happens:
 ## Creating and Running Clash Tests
 
 ### Step 1: Selecting Models
+
 You need to specify which models will be tested against each other:
 
 1. Click **Add Test**, and name your test descriptively (e.g., "MEP vs Structural").
 2. In the **Select tab**, choose the models or model parts you want to test.
 
 ### Step 2: Setting Clash Rules
+
 Fine-tune the clash detection criteria:
 
 1. **Tolerance**: Set the clash tolerance to determine how close elements can be before being flagged.
 2. **Rules**: Apply rules to exclude certain types of clashes (e.g., ignoring clashes involving small components like bolts).
 
 ### Step 3: Running the Test
+
 Once your tests are configured, click **Run Test**. Navisworks will process the models and highlight all clashes.
 
 ### Step 4: Reviewing and Managing Clashes
+
 Review the results in the **Results tab**:
 1. Navigate through each clash to inspect conflicts in the model.
 2. Use the **Comments** section to document each clash and assign it to team members for resolution.
@@ -56,23 +63,29 @@ Review the results in the **Results tab**:
 ## Best Practices for Effective Clash Detection
 
 ### Collaborate Early and Often
+
 Early coordination meetings with all stakeholders ensure that everyone is on the same page. Use Navisworks' clash detection during early design phases to catch issues before they snowball.
 
 ### Customize Clash Tests
+
 Each project has unique needs, so customize your clash tests accordingly. For instance, avoid overloading the system by excluding non-critical elements from clash detection.
 
 ### Regularly Update Models
+
 Make sure the models you’re working with are current. Regularly update and review models from all disciplines to ensure all changes are accounted for in clash detection tests.
 
 ## Advanced Tips and Tricks
 
 ### Utilize Search Sets
+
 Search sets in Navisworks allow you to automate the selection process of model elements for clash detection tests. This not only saves time but reduces the risk of human error.
 
 ### Integrate with BIM 360
+
 Take advantage of Autodesk’s BIM 360 for cloud-based collaboration, enabling real-time updates and clash detection results sharing with the entire team.
 
 ### Customize Reports
+
 Navisworks allows you to generate detailed clash reports. Customize these reports to include only the information relevant to your stakeholders, making the data more actionable.
 
 ## Conclusion

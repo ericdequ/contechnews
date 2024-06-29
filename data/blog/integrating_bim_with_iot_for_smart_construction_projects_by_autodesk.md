@@ -1,4 +1,5 @@
 ---
+
 title: "Integrating BIM with IoT for Smart Construction Projects by Autodesk"
 date: '2024-04-15'
 tags: ['Construction Technology', 'BIM', 'IoT', 'Smart Construction', 'Autodesk', 'Real-time Data', 'Predictive Maintenance', 'Project Collaboration', 'Innovation']

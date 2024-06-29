@@ -1,4 +1,5 @@
 ---
+
 title: 'How Construction Technology is Enhancing Disaster Resilience'
 date: '2023-10-02'
 tags: ['Construction Technology', 'Disaster Resilience', 'Innovation']

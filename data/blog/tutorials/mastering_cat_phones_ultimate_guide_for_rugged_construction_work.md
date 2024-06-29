@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering CAT Phones: Ultimate Guide for Rugged Construction Work'
 date: '2023-05-29'
 tags: ['CAT Phones', 'Construction Technology', 'Rugged Devices']
@@ -52,11 +53,13 @@ Customize quick settings for easy access to essential functions like flashlight,
 ### **Utilizing Thermal Imaging**
 
 #### **1. Inspecting Insulation**
+
 - Open the FLIR thermal imaging app on your CAT phone.
 - Scan the area around windows and doors for heat loss.
 - Capture images and annotate them to indicate problem areas for your team.
 
 #### **2. Electrical Inspections**
+
 - Scan electrical panels and wiring.
 - Look for hot spots that could indicate potential issues.
   
@@ -65,11 +68,13 @@ Customize quick settings for easy access to essential functions like flashlight,
 ### **Measuring Distances with the Laser Tool**
 
 #### **1. Quick Measurements**
+
 - Open the Measure app.
 - Point the laser at the far end of the space you need to measure.
 - Read the measurement directly from your phone screen.
 
 #### **2. Recording and Sharing Measurements**
+
 - Save measurements directly within the app.
 - Share them via email or project management software to keep your team informed.
 

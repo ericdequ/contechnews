@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering RedTeam for Construction Project Execution'
 date: '2023-12-17'
 tags: ['Construction', 'Project Management', 'Software']
@@ -12,12 +13,12 @@ RedTeam is revolutionizing the construction industry by offering an all-in-one c
 
 ## Table of Contents
 
-1. [Getting Started with RedTeam](#getting-started)
-2. [Project Setup and Planning](#project-setup)
-3. [Collaborative Tools and Communication](#collaborative-tools)
-4. [Financial Management](#financial-management)
-5. [Field Management and Mobile Application](#field-management)
-6. [Best Practices for Optimal Use](#best-practices)
+1. [Getting Started with RedTeam](#g etting-started)
+2. [Project Setup and Planning](#p roject-setup)
+3. [Collaborative Tools and Communication](#c ollaborative-tools)
+4. [Financial Management](#f inancial-management)
+5. [Field Management and Mobile Application](#f ield-management)
+6. [Best Practices for Optimal Use](#b est-practices)
 
 ---
 

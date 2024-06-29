@@ -1,4 +1,5 @@
 ---
+
 title: "Leveraging Geospatial Technology for Construction Site Planning by Esri"
 date: "2024-05-21"
 tags: ['construction technology', 'geospatial technology', 'site planning', 'Esri', 'mapping', 'spatial analysis', 'project management', 'construction innovation', 'GIS']

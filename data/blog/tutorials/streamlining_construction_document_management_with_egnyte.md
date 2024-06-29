@@ -1,4 +1,5 @@
 ---
+
 title: 'Streamlining Construction Document Management with Egnyte'
 date: '2023-04-22'
 tags: ['Construction', 'Document Management', 'Egnyte']

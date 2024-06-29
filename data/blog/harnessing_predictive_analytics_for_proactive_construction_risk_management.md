@@ -1,4 +1,5 @@
 ---
+
 title: 'Harnessing Predictive Analytics for Proactive Construction Risk Management'
 date: '2023-07-30'
 tags: ['Predictive Analytics', 'Construction', 'Risk Management']

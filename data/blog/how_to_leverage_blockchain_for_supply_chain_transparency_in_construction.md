@@ -1,4 +1,5 @@
 ---
+
 title: 'How to Leverage Blockchain for Supply Chain Transparency in Construction'
 date: '2023-07-17'
 tags: ['Blockchain', 'Supply Chain', 'Construction', 'Technology']

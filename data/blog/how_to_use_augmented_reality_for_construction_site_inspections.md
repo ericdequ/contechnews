@@ -1,4 +1,5 @@
 ---
+
 title: 'How to Use Augmented Reality for Construction Site Inspections'
 date: '2024-02-15'
 tags: ['Augmented Reality', 'Construction Technology', 'Innovation']

@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering CMiC for Enterprise Construction Management'
 date: '2024-03-16'
 tags: ['CMiC', 'Construction Management', 'Enterprise Software']

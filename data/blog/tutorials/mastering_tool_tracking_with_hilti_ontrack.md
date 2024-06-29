@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering Tool Tracking with Hilti ON!Track'
 date: '2024-2-27'
 tags: ['Construction', 'Tool Tracking', 'Hilti ON!Track']

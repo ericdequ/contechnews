@@ -1,4 +1,5 @@
 ---
+
 title: 'The Impact of Digital Platforms on Construction Stakeholder Engagement'
 date: '2024-05-13'
 tags: ['Construction', 'Digital Platforms', 'Stakeholder Engagement', 'Technology']

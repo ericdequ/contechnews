@@ -1,4 +1,5 @@
 ---
+
 title: 'The Impact of Digital Platforms on Construction Project Coordination'
 date: '2023-08-06'
 tags: ['Construction', 'Digital Platforms', 'Technology', 'Project Management']

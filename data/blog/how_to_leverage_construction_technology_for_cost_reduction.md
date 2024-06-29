@@ -1,4 +1,5 @@
 ---
+
 title: 'How to Leverage Construction Technology for Cost Reduction'
 date: '2024-03-14'
 tags: ['Construction', 'Technology', 'Cost Reduction']

@@ -1,4 +1,5 @@
 ---
+
 title: 'The Impact of Autonomous Machinery on the Construction Industry'
 date: '2023-10-30'
 tags: ['Construction', 'Autonomous Machinery', 'Innovation', 'Technology']

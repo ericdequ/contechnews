@@ -1,4 +1,5 @@
 ---
+
 title: 'The Impact of Smart Contracts on Streamlining Construction Payments'
 date: '2023-08-03'
 tags: ['Blockchain', 'Construction', 'Smart Contracts']
@@ -33,6 +34,7 @@ Smart contracts attack these issues head-on by automating contractual agreements
 Smart contracts automate the payment process. When a set milestone in the construction project is achieved, the contract’s predefined conditions trigger an automatic payment. This eliminates the sluggish, manual payment processes historically plagued by delays.
 
 ### **Example:** 
+
 Imagine a scenario where a certain phase of construction (say, foundation work) is supposed to be completed by a specific date. A smart contract could be coded to automatically release payment to the contractor once the necessary completion certificates are digitally verified on the blockchain. This ensures prompt payment without human intervention.
 
 ### 2. **Dispute Reduction**
@@ -40,6 +42,7 @@ Imagine a scenario where a certain phase of construction (say, foundation work) 
 By encoding the milestones and quality checks directly into the smart contract, stakeholders ensure that all parties agree on the specific terms beforehand. Disputes are significantly mitigated as the blockchain’s immutable ledger acts as a transparent, tamper-proof record.
 
 ### **Example:**
+
 Let’s say there’s a disagreement on whether electrical installations meet the required standards. If the smart contract requires a third-party inspection report to release the payment, this report can be logged onto the blockchain. The release or withholding of payment is not subjective but based on objective, pre-agreed criteria.
 
 ### 3. **Transparency and Trust**
@@ -47,6 +50,7 @@ Let’s say there’s a disagreement on whether electrical installations meet th
 As all contract transactions are recorded on a decentralized ledger, every stakeholder has full visibility into the progress and payment status. This unprecedented level of transparency fosters trust and accountability.
 
 ### **Example:**
+
 A project manager can easily view the entire payment history and current status on the blockchain, ensuring every stakeholder is on the same page. This shared ledger reduces misunderstandings and enhances coordination among team members.
 
 ## Real-World Applications and Success Stories

@@ -1,4 +1,5 @@
 ---
+
 title: 'The Role of Mixed Reality in Construction Design and Visualization'
 date: '2023-07-04'
 tags: ['Mixed Reality', 'Construction', 'Design', 'Visualization', 'Innovation']
@@ -88,3 +89,4 @@ Ready to step into the future of construction? The blueprints are no longer on p
 Stay tuned and excited about the boundless possibilities that mixed reality holds!
 
 ---
+

@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering Viewpoint Vista: A Guide to Construction ERP Excellence'
 date: '2023-12-23'
 tags: ['ERP', 'Construction', 'Viewpoint Vista', 'Software Setup']

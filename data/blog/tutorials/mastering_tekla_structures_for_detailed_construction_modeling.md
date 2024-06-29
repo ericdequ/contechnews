@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering Tekla Structures for Detailed Construction Modeling'
 date: '2024-05-13'
 tags: ['Construction', 'Tekla Structures', 'Modeling']

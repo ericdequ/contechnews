@@ -1,4 +1,5 @@
 ---
+
 title: 'How to Use Predictive Maintenance for Construction Equipment'
 date: '2023-11-10'
 tags: ['Predictive Maintenance', 'Construction Technology', 'Innovation']
@@ -44,6 +45,7 @@ Equip your machinery with IoT (Internet of Things) sensors. These sensors will m
 - **Thermal Imaging**: Infrared sensors detect overheating components that may fail.
 - **Oil Analysis**: Sensors monitor the condition of oil for signs of contamination or wear.
   
+
 ### Step 2: Data Connectivity
 
 Ensure all sensors are connected to a centralized cloud-based system. This allows for real-time data transmission and remote monitoring.

@@ -1,4 +1,5 @@
 ---
+
 title: 'The Role of Smart Sensors in Structural Health Monitoring'
 date: '2023-05-31'
 tags: ['Smart Sensors', 'Structural Health Monitoring', 'Innovation', 'IoT']

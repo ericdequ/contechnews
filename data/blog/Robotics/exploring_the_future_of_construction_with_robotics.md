@@ -1,4 +1,5 @@
 ---
+
 title: "Exploring the Future of Construction with Robotics"
 date: "2024-05-21"
 tags: ['Construction Technology', 'Robotics', 'Innovation', 'Automation', 'Worker Safety', 'Boston Dynamics', 'Built Robotics', 'Construction Site Operations']
@@ -15,12 +16,14 @@ The construction industry is rapidly evolving with the integration of advanced r
 ### The Pioneers in Construction Robotics
 
 #### Boston Dynamics
+
 Boston Dynamics has set a high bar in robotics innovation. Known for their agile and intelligent robots, they are now venturing into the construction sector with several groundbreaking technologies.
 
 - **Spot**: A four-legged robot equipped with advanced sensors and AI, Spot can navigate complex terrain to conduct site inspections, monitor progress, and collect data. Its ability to access areas unsafe or hard to reach for humans is a game-changer.
 - **Atlas**: This humanoid robot is designed for complex tasks in dynamic environments. It can handle objects, climb ladders, and perform a variety of physically demanding operations that would typically require human intervention.
 
 #### Built Robotics
+
 Built Robotics specializes in converting traditional construction machinery into fully autonomous robots. Their retrofit kits can be installed on standard equipment like bulldozers and excavators, enabling them to operate without direct human control.
 
 - **Autonomous Track Loader (ATL)**: Built Robotics’ flagship product, the ATL, can autonomously perform earthmoving tasks with high precision, reducing the need for manual labor and ensuring consistent quality.
@@ -29,6 +32,7 @@ Built Robotics specializes in converting traditional construction machinery into
 ### The Benefits of Robotics in Construction
 
 #### Automation of Repetitive Tasks
+
 Repetitive tasks such as digging, loading, and site surveying can be automated, freeing up human workers for more skilled activities. This leads to increased efficiency and productivity on-site.
 
 <div style="overflow-x:auto;">
@@ -40,6 +44,7 @@ Repetitive tasks such as digging, loading, and site surveying can be automated, 
 </div>
 
 #### Enhanced Worker Safety
+
 Construction sites are notoriously hazardous, with risks including falls, equipment accidents, and exposure to harmful materials. Robotics can significantly mitigate these risks:
 
 - **Remote Inspection**: Robots like Spot can inspect unsafe areas, reducing the need for human entry into potentially dangerous zones.

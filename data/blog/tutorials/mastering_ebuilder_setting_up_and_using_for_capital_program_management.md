@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering eBuilder: Setting Up and Using for Capital Program Management'
 date: '2023-07-10'
 tags: ['eBuilder', 'Capital Program Management', 'Tutorial']
@@ -12,14 +13,14 @@ Welcome to the ultimate guide on how to master eBuilder for capital program mana
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Why Choose eBuilder?](#why-choose-ebuilder)
-- [Initial Setup](#initial-setup)
-- [Creating and Managing Projects](#creating-and-managing-projects)
-- [Workflow Management](#workflow-management)
-- [Reporting and Analysis](#reporting-and-analysis)
-- [Best Practices](#best-practices)
-- [Conclusion](#conclusion)
+- [Introduction](#i ntroduction)
+- [Why Choose eBuilder?](#w hy-choose-ebuilder)
+- [Initial Setup](#i nitial-setup)
+- [Creating and Managing Projects](#c reating-and-managing-projects)
+- [Workflow Management](#w orkflow-management)
+- [Reporting and Analysis](#r eporting-and-analysis)
+- [Best Practices](#b est-practices)
+- [Conclusion](#c onclusion)
 
 ## Introduction
 

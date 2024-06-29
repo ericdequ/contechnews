@@ -1,4 +1,5 @@
 ---
+
 title: 'Guide to Using Pype AutoSpecs for Automated Specification Management'
 date: '2023-11-30'
 tags: ['Pype', 'AutoSpecs', 'Automation', 'Construction']

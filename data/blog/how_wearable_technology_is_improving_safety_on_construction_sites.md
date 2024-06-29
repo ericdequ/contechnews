@@ -1,4 +1,5 @@
 ---
+
 title: 'How Wearable Technology is Improving Safety on Construction Sites'
 date: '2024-04-03'
 tags: ['Wearable Technology', 'Construction', 'Safety']

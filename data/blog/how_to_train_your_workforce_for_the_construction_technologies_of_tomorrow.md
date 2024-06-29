@@ -1,10 +1,10 @@
 ---
+
 title: 'How to Train Your Workforce for the Construction Technologies of Tomorrow'
 date: '2023-01-14'
 tags: ['Construction', 'Technology', 'Workforce Development']
 draft: false
 summary: 'Discover how to equip your construction workforce with the skills they need to thrive in a technology-driven future!'
-
 
 images: ['https://www.contechnews.com/articleimage/how_to_train_your_workforce_for_the_construction_technologies_of_tomorrow.webp']
 ---

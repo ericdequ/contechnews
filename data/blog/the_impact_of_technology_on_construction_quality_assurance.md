@@ -1,4 +1,5 @@
 ---
+
 title: 'The Impact of Technology on Construction Quality Assurance'
 date: '2023-08-29'
 tags: ['Construction', 'Technology', 'Quality Assurance']

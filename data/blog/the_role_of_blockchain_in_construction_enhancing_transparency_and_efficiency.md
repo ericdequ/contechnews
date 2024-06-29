@@ -1,4 +1,5 @@
 ---
+
 title: 'The Role of Blockchain in Construction: Enhancing Transparency and Efficiency'
 date: '2023-06-21'
 tags: ['Blockchain', 'Construction', 'Technology']

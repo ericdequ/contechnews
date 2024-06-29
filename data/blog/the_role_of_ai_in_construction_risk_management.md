@@ -1,4 +1,5 @@
 ---
+
 title: 'The Role of AI in Construction Risk Management'
 date: '2023-01-14'
 tags: ['AI', 'Construction', 'Risk Management', 'Innovation']

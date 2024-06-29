@@ -1,4 +1,5 @@
 ---
+
 title: "Harnessing Virtual Reality for Immersive Construction Planning"
 date: '2024-02-28'
 tags: ['Construction Technology', 'Virtual Reality', 'Immersive Planning', '3D Visualization', 'Unity', 'IrisVR', 'Project Management', 'Innovation', 'Construction Tools']

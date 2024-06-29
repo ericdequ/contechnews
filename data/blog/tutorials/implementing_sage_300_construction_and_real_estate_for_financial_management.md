@@ -1,4 +1,5 @@
 ---
+
 title: 'Implementing Sage 300 Construction and Real Estate for Financial Management'
 date: '2024-02-17'
 tags: ['Sage 300', 'Construction', 'Real Estate', 'Financial Management']
@@ -12,12 +13,12 @@ Welcome to a fascinating journey into the world of Sage 300 Construction and Rea
 
 ### Table of Contents
 
-1. [Introduction to Sage 300 CRE](#introduction-to-sage-300-cre)
-2. [Setting Up Your Environment](#setting-up-your-environment)
-3. [Configuring Financial Modules](#configuring-financial-modules)
-4. [Best Practices for Financial Management](#best-practices-for-financial-management)
-5. [Case Studies and Success Stories](#case-studies-and-success-stories)
-6. [Conclusion](#conclusion)
+1. [Introduction to Sage 300 CRE](#i ntroduction-to-sage-300-cre)
+2. [Setting Up Your Environment](#s etting-up-your-environment)
+3. [Configuring Financial Modules](#c onfiguring-financial-modules)
+4. [Best Practices for Financial Management](#b est-practices-for-financial-management)
+5. [Case Studies and Success Stories](#c ase-studies-and-success-stories)
+6. [Conclusion](#c onclusion)
 
 ---
 

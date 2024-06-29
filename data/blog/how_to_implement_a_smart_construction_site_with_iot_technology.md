@@ -1,4 +1,5 @@
 ---
+
 title: 'How to Implement a Smart Construction Site with IoT Technology'
 date: '2024-02-07'
 tags: ['IoT', 'Construction', 'Smart Technology']
@@ -29,10 +30,12 @@ To effectively implement IoT on a construction site, you need to focus on these 
 ### Sensors and Devices
 
 #### Environmental Sensors
+
 - **Temperature and Humidity Sensors**: Monitor site conditions to prevent material damage and ensure worker safety.
 - **Air Quality Sensors**: Detect harmful gases and particulates to maintain a healthy working environment.
 
 #### Equipment Sensors
+
 - **Vibration Sensors**: Monitor the performance of machinery to predict maintenance needs and avoid breakdowns.
 - **GPS Trackers**: Keep track of equipment location in real-time, preventing theft and optimizing utilization.
 

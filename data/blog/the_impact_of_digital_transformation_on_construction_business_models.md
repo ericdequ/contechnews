@@ -1,4 +1,5 @@
 ---
+
 title: 'The Impact of Digital Transformation on Construction Business Models'
 date: '2024-05-01'
 tags: ['Digital Transformation', 'Construction', 'Innovation']

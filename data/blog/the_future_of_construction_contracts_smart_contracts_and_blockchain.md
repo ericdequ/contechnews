@@ -1,4 +1,5 @@
 ---
+
 title: 'The Future of Construction Contracts: Smart Contracts and Blockchain'
 date: '2023-08-09'
 tags: ['Construction', 'Blockchain', 'Smart Contracts']

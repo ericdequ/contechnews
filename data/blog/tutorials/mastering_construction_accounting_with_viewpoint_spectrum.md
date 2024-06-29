@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering Construction Accounting with Viewpoint Spectrum'
 date: '2024-5-27'
 tags: ['Construction', 'Accounting', 'Software', 'Tutorial']

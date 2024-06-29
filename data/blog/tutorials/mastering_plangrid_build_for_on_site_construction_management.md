@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering Plangrid Build for On-Site Construction Management'
 date: '2024-01-12'
 tags: ['Construction', 'Software', 'Plangrid Build']

@@ -1,4 +1,5 @@
 ---
+
 title: 'How Technology is Driving Change in Construction Safety Standards'
 date: '2024-05-25'
 tags: ['Construction', 'Technology', 'Safety']

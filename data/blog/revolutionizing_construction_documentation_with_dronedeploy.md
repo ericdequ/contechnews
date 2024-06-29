@@ -1,4 +1,5 @@
 ---
+
 title: 'Revolutionizing Construction Documentation with DroneDeploy'
 date: '2023-07-24'
 tags: ['Construction Technology', 'DroneDeploy', 'Aerial Mapping', 'Site Surveys', 'Progress Tracking', 'Inspections']
@@ -57,9 +58,9 @@ DroneDeploy is not just a tool—it's a transformative force reshaping how we do
 
 ## Further Reading
 
-- [Construction Technology Trends](#)
-- [Benefits of Drone Mapping in Construction](#)
-- [Case Studies Using DroneDeploy](#) 
+- [Construction Technology Trends](#) 
+- [Benefits of Drone Mapping in Construction](#) 
+- [Case Studies Using DroneDeploy](#)  
 
 Stay ahead of the curve and explore more about how technology is revolutionizing the construction industry!
 

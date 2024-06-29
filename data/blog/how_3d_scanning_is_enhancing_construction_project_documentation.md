@@ -1,4 +1,5 @@
 ---
+
 title: 'How 3D Scanning is Enhancing Construction Project Documentation'
 date: '2023-04-11'
 tags: ['Construction', '3D Scanning', 'Technology', 'Innovation']

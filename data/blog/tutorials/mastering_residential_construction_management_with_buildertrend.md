@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering Residential Construction Management with Buildertrend'
 date: '2024-1-11'
 tags: ['Construction Management', 'Buildertrend', 'Software']

@@ -1,4 +1,5 @@
 ---
+
 title: 'Leveraging Jonas Construction Software for Service Management'
 date: '2023-07-26'
 tags: ['Construction', 'Service Management', 'Software']

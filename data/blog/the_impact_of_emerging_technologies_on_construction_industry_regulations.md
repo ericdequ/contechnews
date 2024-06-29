@@ -1,4 +1,5 @@
 ---
+
 title: 'The Impact of Emerging Technologies on Construction Industry Regulations'
 date: '2023-10-04'
 tags: ['Construction', 'Emerging Technologies', 'Regulations']

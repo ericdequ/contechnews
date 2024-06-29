@@ -1,4 +1,5 @@
 ---
+
 title: 'Enhancing Construction Quality Control with Technology'
 date: '2023-09-10'
 tags: ['Construction', 'Technology', 'Quality Control']

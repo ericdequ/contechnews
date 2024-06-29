@@ -1,4 +1,5 @@
 ---
+
 title: 'The Role of Machine Vision in Enhancing Construction Site Safety'
 date: '2023-06-23'
 tags: ['Machine Vision', 'Construction', 'Safety', 'AI']

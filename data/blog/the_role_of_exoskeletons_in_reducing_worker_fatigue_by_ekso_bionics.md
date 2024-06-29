@@ -1,4 +1,5 @@
 ---
+
 title: "The Role of Exoskeletons in Reducing Worker Fatigue by Ekso Bionics"
 date: "2024-05-21"
 tags: ["Construction Technology", "Exoskeletons", "Worker Safety", "Productivity", "Innovation", "Ekso Bionics", "Workplace Ergonomics"]
@@ -11,6 +12,7 @@ summary: "Learn how Ekso Bionics is developing exoskeleton technology to reduce 
 In recent years, advanced construction technologies have emerged to address some of the industry's most pressing issues—worker fatigue, injury, and job site safety. One of the front-runners in this field is Ekso Bionics, a pioneering company making significant strides in exoskeleton technology. This article delves into how Ekso Bionics’ exoskeletons are transforming the construction landscape.
 
 ## What are Exoskeletons?
+
 Exoskeletons are wearable devices that augment the human body's strength, endurance, and precision. They can be powered or passive, providing an external support structure that reduces the physical strain on workers. In construction, where manual labor often involves lifting heavy materials, repetitive motions, and awkward postures, exoskeletons can be game-changers.
 
 ## Ekso Bionics: Leading the Charge

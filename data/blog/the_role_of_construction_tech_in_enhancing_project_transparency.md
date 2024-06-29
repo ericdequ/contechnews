@@ -1,4 +1,5 @@
 ---
+
 title: 'The Role of Construction Tech in Enhancing Project Transparency'
 date: '2024-03-09'
 tags: ['Construction', 'Technology', 'Innovation']

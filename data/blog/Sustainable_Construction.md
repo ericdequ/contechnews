@@ -19,6 +19,7 @@ Concrete is the most widely used construction material, but its production is re
 3. **Enhanced Material**: This process not only reduces the carbon footprint of concrete but also enhances its compressive strength.
 
 #### Benefits of CarbonCure's Technology:
+
 - **Reduces Emissions**: CarbonCure technology can reduce up to 500 kg of CO2 per concrete truckload.
 - **Strength Increases**: Enhanced compressive strength helps optimize material usage.
 - **Scalable Solution**: Applicable across existing concrete plants with minimal changes.
@@ -28,11 +29,13 @@ Concrete is the most widely used construction material, but its production is re
 Ecovative Design takes a radically different approach by harnessing the power of biology. Their focus is on creating eco-friendly materials using mycelium, the root structure of mushrooms. 
 
 #### Key Products:
+
 - **MycoComposite™**: A product that uses mycelium to bind agricultural waste into durable, biodegradable composite materials perfect for packaging, insulation, and even structural components.
   
 - **MycoFlex™**: A flexible foam material made from pure mycelium, providing a sustainable alternative to traditional synthetic foams.
 
 #### Benefits of Ecovative's Mycelium-Based Materials:
+
 - **Biodegradability**: Complete biodegradation at the end of life, reducing landfill waste.
 - **Resource Efficiency**: Utilizes agricultural waste and requires less energy to produce than conventional materials.
 - **Healthier Indoor Environments**: Natural materials that improve air quality by eliminating harmful chemicals found in synthetic products.

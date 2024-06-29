@@ -1,4 +1,5 @@
 ---
+
 title: 'The Future of Construction Site Surveillance: Tech Trends and Innovations'
 date: '2023-10-29'
 tags: ['Construction', 'Surveillance', 'Innovation', 'Technology']

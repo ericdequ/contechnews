@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering B2W Software for Heavy Civil Construction'
 date: '2023-04-21'
 tags: ['B2W Software', 'Heavy Civil Construction', 'Technology', 'Tutorial']
@@ -11,12 +12,13 @@ summary: 'Discover the comprehensive guide on setting up and effectively using B
 B2W Software is revolutionizing the heavy civil construction industry with its powerful suite of operations management solutions. Whether you are new to B2W or an experienced user, this guide will provide you with insightful tutorials and best practices for setting up and using B2W Software to streamline your construction projects.
 
 ## Table of Contents
-1. [Introduction to B2W Software](#introduction-to-b2w-software)
-2. [Installation and Initial Setup](#installation-and-initial-setup)
-3. [Creating and Managing Projects](#creating-and-managing-projects)
-4. [Resource Management](#resource-management)
-5. [Cost Tracking and Analysis](#cost-tracking-and-analysis)
-6. [Best Practices for Efficient Workflow](#best-practices-for-efficient-workflow)
+
+1. [Introduction to B2W Software](#i ntroduction-to-b2w-software)
+2. [Installation and Initial Setup](#i nstallation-and-initial-setup)
+3. [Creating and Managing Projects](#c reating-and-managing-projects)
+4. [Resource Management](#r esource-management)
+5. [Cost Tracking and Analysis](#c ost-tracking-and-analysis)
+6. [Best Practices for Efficient Workflow](#b est-practices-for-efficient-workflow)
 
 ## Introduction to B2W Software
 

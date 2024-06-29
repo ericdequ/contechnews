@@ -1,4 +1,5 @@
 ---
+
 title: 'How Big Data is Driving Decision-Making in Construction Projects'
 date: '2023-04-08'
 tags: ['Big Data', 'Construction', 'Innovation']

@@ -1,4 +1,5 @@
 ---
+
 title: 'The Impact of Smart Contracts on Construction Project Delivery'
 date: '2023-08-16'
 tags: ['Smart Contracts', 'Blockchain', 'Construction']

@@ -1,4 +1,5 @@
 ---
+
 title: 'Harnessing Technology for Effective Construction Waste Management'
 date: '2023-07-28'
 tags: ['Technology', 'Construction', 'Waste Management']
@@ -67,6 +68,7 @@ Technological advancements are also enabling the recycling and reuse of material
 - **Reclaimed Materials:** Technologies that clean and process materials on-site for immediate reuse lower both environmental impact and costs.
 - **Innovative Recyclables:** Developing new materials that are easier to recycle or have multiple lifecycles — think of concrete made from recycled glass or plastic.
   
+
 #### Highlight: Innovation in Materials
 
 An Australian company developed a method to transform construction waste into eco-friendly bricks. These bricks not only meet safety and quality standards but also contribute to a circular construction economy.

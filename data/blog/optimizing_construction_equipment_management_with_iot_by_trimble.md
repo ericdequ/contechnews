@@ -1,4 +1,5 @@
 ---
+
 title: 'Optimizing Construction Equipment Management with IoT by Trimble'
 date: '2023-08-20'
 tags:  ['IoT', 'Construction Technology', 'Trimble', 'Equipment Management', 'Real-Time Data', 'Maintenance', 'Operational Efficiency']

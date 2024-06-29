@@ -1,4 +1,5 @@
 ---
+
 title: 'How Construction Technology is Enhancing Collaboration Among Teams'
 date: '2024-06-04'
 tags: ['Construction Technology', 'Collaboration', 'Innovation']

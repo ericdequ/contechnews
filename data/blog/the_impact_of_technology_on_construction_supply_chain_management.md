@@ -1,4 +1,5 @@
 ---
+
 title: 'The Impact of Technology on Construction Supply Chain Management'
 date: '2024-02-18'
 tags: ['Construction', 'Technology', 'Supply Chain Management']

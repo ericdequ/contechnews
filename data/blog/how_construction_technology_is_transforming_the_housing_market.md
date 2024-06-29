@@ -1,4 +1,5 @@
 ---
+
 title: 'How Construction Technology is Transforming the Housing Market'
 date: '2023-07-02'
 tags: ['Construction', 'Technology', 'Innovation', 'Housing Market']

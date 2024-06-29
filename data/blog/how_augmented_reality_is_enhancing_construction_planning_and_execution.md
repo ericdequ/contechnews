@@ -1,4 +1,5 @@
 ---
+
 title: 'How Augmented Reality is Enhancing Construction Planning and Execution'
 date: '2023-11-01'
 tags: ['Augmented Reality', 'Construction', 'Innovation']

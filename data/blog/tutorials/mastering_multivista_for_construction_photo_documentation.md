@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering Multivista for Construction Photo Documentation'
 date: '2023-06-13'
 tags: ['Construction', 'Photo Documentation', 'Software']

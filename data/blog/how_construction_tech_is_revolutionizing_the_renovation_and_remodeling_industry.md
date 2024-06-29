@@ -1,4 +1,5 @@
 ---
+
 title: 'How Construction Tech is Revolutionizing the Renovation and Remodeling Industry'
 date: '2023-10-24'
 tags: ['Construction Tech', 'Innovation', 'Renovation']

@@ -1,4 +1,5 @@
 ---
+
 title: "The Impact of Smart Sensors on Construction Safety"
 date: "2024-05-21"
 tags: ['Construction Technology', 'Smart Sensors', 'Safety', 'HoloBuilder', 'Triax Technologies', 'Real-time Monitoring', 'Construction Site Safety']
@@ -57,18 +58,23 @@ Triax leverages IoT and wearable sensors to enhance construction safety. Their s
 ## Benefits of Smart Sensors in Construction Safety
 
 ### Enhanced Real-Time Monitoring
+
 Smart sensors provide instantaneous data, allowing for proactive measures rather than reactive responses.
 
 ### Increased Efficiency
+
 Automation in data collection and analysis leads to more efficient safety management, reducing administrative burden.
 
 ### Improved Compliance
+
 Accurate and up-to-date records help in maintaining compliance with safety regulations and standards.
 
 ### Cost Savings
+
 Preventing accidents and maintaining equipment efficiently reduces downtime and overall operational costs.
 
 ### Worker Confidence
+
 Knowing they are being monitored and protected enhances worker morale and productivity.
 
 ## Conclusion

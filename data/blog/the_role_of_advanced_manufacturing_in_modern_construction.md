@@ -1,4 +1,5 @@
 ---
+
 title: 'The Role of Advanced Manufacturing in Modern Construction'
 date: '2023-12-24'
 tags: ['Construction', 'Technology', 'Advanced Manufacturing']
@@ -20,6 +21,7 @@ Imagine printing an entire house! What used to be the realm of science fiction i
 - **Cost-Effectiveness**: By minimizing material waste and labor costs, 3D printing offers a more affordable construction method.
 - **Design Flexibility**: With traditional methods, curves and intricate designs are challenging and expensive. 3D printing enables architects to push the boundaries of creativity without breaking the bank.
   
+
 ## Robotics: Enhancing Precision and Safety
 
 Robots are not just for factories and space missions; they are now crucial players in the construction arena. Robotics in construction helps in automating repetitive tasks, enhancing precision, and ensuring worker safety.

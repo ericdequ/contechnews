@@ -1,4 +1,5 @@
 ---
+
 title: 'The Benefits of Using Building Information Modeling (BIM) in Construction Projects'
 date: '2024-04-02'
 tags: ['Construction', 'BIM', 'Technology', 'Innovation']

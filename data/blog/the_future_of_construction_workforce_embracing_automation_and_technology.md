@@ -1,4 +1,5 @@
 ---
+
 title: 'The Future of Construction Workforce: Embracing Automation and Technology'
 date: '2024-05-24'
 tags: ['Construction', 'Automation', 'Technology']

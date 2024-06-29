@@ -1,4 +1,5 @@
 ---
+
 title: 'Transforming Construction Workforce Training with VR by Strivr'
 date: '2024-03-10'
 tags: ['Construction Technology', 'Virtual Reality', 'Workforce Training', 'Innovation', 'Safety', 'Productivity', 'Skill Acquisition', 'Immersive Training', 'Strivr']

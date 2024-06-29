@@ -1,4 +1,5 @@
 ---
+
 title: 'Integrating BIM with IoT for Smart Construction Projects'
 date: '2023-09-20'
 tags: ['BIM', 'IoT', 'Smart Construction', 'Technology']
@@ -15,6 +16,7 @@ The construction industry has always been at the forefront of adopting new techn
 **Building Information Modeling (BIM)** is a digital representation of the physical and functional characteristics of a facility. It serves as a shared knowledge resource for information about a facility, forming a reliable basis for decisions during its lifecycle from inception onward.
 
 ### Key Features of BIM:
+
 - **3D Modeling**: Detailed and accurate 3D models of buildings and infrastructure.
 - **Data Management**: Facilitates the management of construction data and documentation.
 - **Collaboration**: Enhances collaboration among architects, engineers, contractors, and owners.
@@ -24,6 +26,7 @@ The construction industry has always been at the forefront of adopting new techn
 **The Internet of Things (IoT)** refers to the network of interconnected devices embedded with sensors, software, and other technologies to collect and exchange data over the internet.
 
 ### Key Features of IoT:
+
 - **Real-time Data Collection**: Continuous monitoring of various parameters.
 - **Remote Access**: Accessing data and controlling devices from anywhere.
 - **Automation**: Enables automation of various processes and systems.

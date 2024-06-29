@@ -1,4 +1,5 @@
 ---
+
 title: 'How to Implement Lean Construction Principles with Technology'
 date: '2024-03-01'
 tags: ['Construction', 'Technology', 'Lean Principles']

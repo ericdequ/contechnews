@@ -1,4 +1,5 @@
 ---
+
 title: 'How Technology is Helping to Close the Skills Gap in Construction'
 date: '2023-06-19'
 tags: ['Technology', 'Construction', 'Skills Gap']

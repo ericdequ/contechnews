@@ -1,4 +1,5 @@
 ---
+
 title: 'How to Use Virtual Reality for Client Walkthroughs and Approvals'
 date: '2023-10-18'
 tags: ['Virtual Reality', 'Client Interaction', 'Technology']

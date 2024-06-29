@@ -1,4 +1,5 @@
 ---
+
 title: 'Leveraging Sage Estimating for Accurate Construction Estimates'
 date: '2023-06-22'
 tags: ['Construction', 'Software', 'Sage Estimating']

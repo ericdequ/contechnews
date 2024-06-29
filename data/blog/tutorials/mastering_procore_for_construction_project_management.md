@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering Procore for Construction Project Management'
 date: '2024-5-27'
 tags: ['Construction', 'Project Management', 'Procore', 'Tutorial']

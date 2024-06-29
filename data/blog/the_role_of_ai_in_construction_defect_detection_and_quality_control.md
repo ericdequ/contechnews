@@ -1,4 +1,5 @@
 ---
+
 title: 'The Role of AI in Construction Defect Detection and Quality Control'
 date: '2023-07-25'
 tags: ['AI', 'Construction', 'Technology', 'QualityControl']

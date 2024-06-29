@@ -1,4 +1,5 @@
 ---
+
 title: 'How to Use Smartvid.io for AI-Driven Construction Safety'
 date: '2023-03-08'
 tags: ['AI', 'Construction Safety', 'Smartvid.io']

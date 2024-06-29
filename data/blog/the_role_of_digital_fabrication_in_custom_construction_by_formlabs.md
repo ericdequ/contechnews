@@ -1,4 +1,5 @@
 ---
+
 title: "The Role of Digital Fabrication in Custom Construction by Formlabs"
 date: "2024-05-21"
 tags: ['Construction Technology', 'Digital Fabrication', '3D Printing', 'Custom Construction', 'Formlabs', 'Innovation', 'Building Components', 'Precision Engineering', 'Modern Construction']
@@ -43,12 +44,15 @@ These resins provide the necessary robustness and durability required for constr
 ### Benefits of Digital Fabrication in Custom Construction
 
 #### Precision and Accuracy
+
 Digital fabrication allows for exact replication of designs, resulting in high-quality components with minimal errors. This precision is crucial for custom construction projects where unique specifications and tight tolerances are standard.
 
 #### Cost Efficiency
+
 By reducing material waste and labor costs, digital fabrication presents a cost-effective solution for complex construction tasks. Formlabs' 3D printers enable on-demand production, which minimizes inventory expenses and reduces lead times.
 
 #### Versatility and Customization
+
 With 3D printing, architects and builders can create bespoke elements, pushing the boundaries of traditional design. Formlabs' flexible material options and software integrations allow for a wide range of applications, from conceptual models to functional end-use parts.
 
 ### Case Study: Custom Facades with Formlabs

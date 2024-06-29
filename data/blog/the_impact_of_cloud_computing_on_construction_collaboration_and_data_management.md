@@ -1,4 +1,5 @@
 ---
+
 title: 'The Impact of Cloud Computing on Construction Collaboration and Data Management'
 date: '2023-09-04'
 tags: ['Cloud Computing', 'Construction', 'Collaboration', 'Data Management']

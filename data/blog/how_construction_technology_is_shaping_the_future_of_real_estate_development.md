@@ -1,4 +1,5 @@
 ---
+
 title: 'How Construction Technology is Shaping the Future of Real Estate Development'
 date: '2023-10-27'
 tags: ['Construction Technology', 'Real Estate', 'Innovation']

@@ -1,4 +1,5 @@
 ---
+
 title: 'How to Use Geofencing for Enhanced Construction Site Security'
 date: '2023-11-17'
 tags: ['Geofencing', 'Construction', 'Security', 'Technology']

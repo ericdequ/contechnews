@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering Construction Accounting with Foundation Software'
 date: '2023-02-16'
 tags: ['Construction Accounting', 'Foundation Software', 'Tutorial']

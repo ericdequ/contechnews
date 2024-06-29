@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering Buildertrend for Scheduling and Client Communication'
 date: '2023-04-29'
 tags: ['Buildertrend', 'Project Management', 'Client Communication']

@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering STACK Takeoff for Construction Estimating'
 date: '2023-08-16'
 tags: ['Construction', 'Estimating', 'Software']
@@ -13,6 +14,7 @@ The world of construction estimation is evolving rapidly, and with the rise of s
 ## Getting Started with STACK Takeoff
 
 ### 1. **Account Setup and Initial Configuration**
+
    
 The journey with STACK Takeoff begins with a straightforward account setup:
 - **Sign Up**: Go to the STACK website and sign up for an account. Choose the plan that best suits your needs.
