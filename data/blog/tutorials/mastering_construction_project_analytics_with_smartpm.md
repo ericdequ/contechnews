@@ -13,13 +13,13 @@ In the complex world of construction project management, staying on top of every
 
 ## Table of Contents
 
-1. [Introduction to SmartPM](#i ntroduction-to-smartpm)
-2. [Setting Up Your SmartPM Account](#s etting-up-your-smartpm-account)
-3. [Uploading and Managing Project Data](#u ploading-and-managing-project-data)
-4. [Key Features and How to Use Them](#k ey-features-and-how-to-use-them)
-5. [Analyzing Project Performance](#a nalyzing-project-performance)
-6. [Best Practices](#b est-practices)
-7. [Conclusion](#c onclusion)
+1. [Introduction to SmartPM](#i  ntroduction-to-smartpm)
+2. [Setting Up Your SmartPM Account](#s  etting-up-your-smartpm-account)
+3. [Uploading and Managing Project Data](#u  ploading-and-managing-project-data)
+4. [Key Features and How to Use Them](#k  ey-features-and-how-to-use-them)
+5. [Analyzing Project Performance](#a  nalyzing-project-performance)
+6. [Best Practices](#b  est-practices)
+7. [Conclusion](#c  onclusion)
 
 ## Introduction to SmartPM
 
