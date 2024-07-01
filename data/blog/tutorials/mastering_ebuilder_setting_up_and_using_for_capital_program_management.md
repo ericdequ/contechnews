@@ -13,14 +13,14 @@ Welcome to the ultimate guide on how to master eBuilder for capital program mana
 
 ## Table of Contents
 
-- [Introduction](#i  ntroduction)
-- [Why Choose eBuilder?](#w  hy-choose-ebuilder)
-- [Initial Setup](#i  nitial-setup)
-- [Creating and Managing Projects](#c  reating-and-managing-projects)
-- [Workflow Management](#w  orkflow-management)
-- [Reporting and Analysis](#r  eporting-and-analysis)
-- [Best Practices](#b  est-practices)
-- [Conclusion](#c  onclusion)
+- [Introduction](#i   ntroduction)
+- [Why Choose eBuilder?](#w   hy-choose-ebuilder)
+- [Initial Setup](#i   nitial-setup)
+- [Creating and Managing Projects](#c   reating-and-managing-projects)
+- [Workflow Management](#w   orkflow-management)
+- [Reporting and Analysis](#r   eporting-and-analysis)
+- [Best Practices](#b   est-practices)
+- [Conclusion](#c   onclusion)
 
 ## Introduction
 

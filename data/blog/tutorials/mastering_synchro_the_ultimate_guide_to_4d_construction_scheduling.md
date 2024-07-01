@@ -13,13 +13,13 @@ Welcome to the world of 4D construction scheduling with Synchro! In this compreh
 
 ## Table of Contents
 
-1. [What is 4D Construction Scheduling?](#w  hat-is-4d-construction-scheduling)
-2. [Getting Started with Synchro](#g  etting-started-with-synchro)
-3. [Importing and Preparing Project Data](#i  mporting-and-preparing-project-data)
-4. [Creating and Managing Schedules](#c  reating-and-managing-schedules)
-5. [Advanced Features & Best Practices](#a  dvanced-features--best-practices)
-6. [Common Challenges and Solutions](#c  ommon-challenges-and-solutions)
-7. [Conclusion](#c  onclusion)
+1. [What is 4D Construction Scheduling?](#w   hat-is-4d-construction-scheduling)
+2. [Getting Started with Synchro](#g   etting-started-with-synchro)
+3. [Importing and Preparing Project Data](#i   mporting-and-preparing-project-data)
+4. [Creating and Managing Schedules](#c   reating-and-managing-schedules)
+5. [Advanced Features & Best Practices](#a   dvanced-features--best-practices)
+6. [Common Challenges and Solutions](#c   ommon-challenges-and-solutions)
+7. [Conclusion](#c   onclusion)
 
 ## What is 4D Construction Scheduling?
 

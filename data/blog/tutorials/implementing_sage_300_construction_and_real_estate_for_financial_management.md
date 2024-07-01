@@ -13,12 +13,12 @@ Welcome to a fascinating journey into the world of Sage 300 Construction and Rea
 
 ### Table of Contents
 
-1. [Introduction to Sage 300 CRE](#i  ntroduction-to-sage-300-cre)
-2. [Setting Up Your Environment](#s  etting-up-your-environment)
-3. [Configuring Financial Modules](#c  onfiguring-financial-modules)
-4. [Best Practices for Financial Management](#b  est-practices-for-financial-management)
-5. [Case Studies and Success Stories](#c  ase-studies-and-success-stories)
-6. [Conclusion](#c  onclusion)
+1. [Introduction to Sage 300 CRE](#i   ntroduction-to-sage-300-cre)
+2. [Setting Up Your Environment](#s   etting-up-your-environment)
+3. [Configuring Financial Modules](#c   onfiguring-financial-modules)
+4. [Best Practices for Financial Management](#b   est-practices-for-financial-management)
+5. [Case Studies and Success Stories](#c   ase-studies-and-success-stories)
+6. [Conclusion](#c   onclusion)
 
 ---
 
