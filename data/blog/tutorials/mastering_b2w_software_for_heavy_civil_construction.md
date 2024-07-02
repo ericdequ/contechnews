@@ -13,12 +13,12 @@ B2W Software is revolutionizing the heavy civil construction industry with its p
 
 ## Table of Contents
 
-1. [Introduction to B2W Software](#i   ntroduction-to-b2w-software)
-2. [Installation and Initial Setup](#i   nstallation-and-initial-setup)
-3. [Creating and Managing Projects](#c   reating-and-managing-projects)
-4. [Resource Management](#r   esource-management)
-5. [Cost Tracking and Analysis](#c   ost-tracking-and-analysis)
-6. [Best Practices for Efficient Workflow](#b   est-practices-for-efficient-workflow)
+1. [Introduction to B2W Software](#i    ntroduction-to-b2w-software)
+2. [Installation and Initial Setup](#i    nstallation-and-initial-setup)
+3. [Creating and Managing Projects](#c    reating-and-managing-projects)
+4. [Resource Management](#r    esource-management)
+5. [Cost Tracking and Analysis](#c    ost-tracking-and-analysis)
+6. [Best Practices for Efficient Workflow](#b    est-practices-for-efficient-workflow)
 
 ## Introduction to B2W Software
 

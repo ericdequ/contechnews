@@ -13,14 +13,14 @@ The construction industry is on the cusp of a technological breakthrough with th
 
 ## Table of Contents
 
-1. [Introduction to Microsoft HoloLens](#i   ntroduction-to-microsoft-hololens)
-2. [Getting Started with HoloLens](#g   etting-started-with-hololens)
-3. [Key Applications of HoloLens in Construction](#k   ey-applications-of-hololens-in-construction)
-4. [Step-by-Step Tutorial: Creating a Mixed Reality Model](#s   tep-by-step-tutorial-creating-a-mixed-reality-model)
-5. [Best Practices for Using HoloLens on Construction Sites](#b   est-practices-for-using-hololens-on-construction-sites)
-6. [Case Studies and Real-World Examples](#c   ase-studies-and-real-world-examples)
-7. [Future Trends and Innovations](#f   uture-trends-and-innovations)
-8. [Conclusion](#c   onclusion)
+1. [Introduction to Microsoft HoloLens](#i    ntroduction-to-microsoft-hololens)
+2. [Getting Started with HoloLens](#g    etting-started-with-hololens)
+3. [Key Applications of HoloLens in Construction](#k    ey-applications-of-hololens-in-construction)
+4. [Step-by-Step Tutorial: Creating a Mixed Reality Model](#s    tep-by-step-tutorial-creating-a-mixed-reality-model)
+5. [Best Practices for Using HoloLens on Construction Sites](#b    est-practices-for-using-hololens-on-construction-sites)
+6. [Case Studies and Real-World Examples](#c    ase-studies-and-real-world-examples)
+7. [Future Trends and Innovations](#f    uture-trends-and-innovations)
+8. [Conclusion](#c    onclusion)
 
 ## Introduction to Microsoft HoloLens
 

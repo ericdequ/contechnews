@@ -13,12 +13,12 @@ RedTeam is revolutionizing the construction industry by offering an all-in-one c
 
 ## Table of Contents
 
-1. [Getting Started with RedTeam](#g   etting-started)
-2. [Project Setup and Planning](#p   roject-setup)
-3. [Collaborative Tools and Communication](#c   ollaborative-tools)
-4. [Financial Management](#f   inancial-management)
-5. [Field Management and Mobile Application](#f   ield-management)
-6. [Best Practices for Optimal Use](#b   est-practices)
+1. [Getting Started with RedTeam](#g    etting-started)
+2. [Project Setup and Planning](#p    roject-setup)
+3. [Collaborative Tools and Communication](#c    ollaborative-tools)
+4. [Financial Management](#f    inancial-management)
+5. [Field Management and Mobile Application](#f    ield-management)
+6. [Best Practices for Optimal Use](#b    est-practices)
 
 ---
 

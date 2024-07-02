@@ -13,14 +13,14 @@ HeavyJob is a powerful tool designed to streamline construction job costing and 
 
 ## Table of Contents
 
-1. [Introduction to HeavyJob](#i   ntroduction-to-heavyjob)
-2. [Setting Up Your Account](#s   etting-up-your-account)
-3. [Creating and Managing Projects](#c   reating-and-managing-projects)
-4. [Time Card Entry and Labor Tracking](#t   ime-card-entry-and-labor-tracking)
-5. [Material and Equipment Costing](#m   aterial-and-equipment-costing)
-6. [Generating Reports](#g   enerating-reports)
-7. [Best Practices for Job Costing](#b   est-practices-for-job-costing)
-8. [Common Pitfalls and Troubleshooting](#c   ommon-pitfalls-and-troubleshooting)
+1. [Introduction to HeavyJob](#i    ntroduction-to-heavyjob)
+2. [Setting Up Your Account](#s    etting-up-your-account)
+3. [Creating and Managing Projects](#c    reating-and-managing-projects)
+4. [Time Card Entry and Labor Tracking](#t    ime-card-entry-and-labor-tracking)
+5. [Material and Equipment Costing](#m    aterial-and-equipment-costing)
+6. [Generating Reports](#g    enerating-reports)
+7. [Best Practices for Job Costing](#b    est-practices-for-job-costing)
+8. [Common Pitfalls and Troubleshooting](#c    ommon-pitfalls-and-troubleshooting)
 
 ## Introduction to HeavyJob
 
