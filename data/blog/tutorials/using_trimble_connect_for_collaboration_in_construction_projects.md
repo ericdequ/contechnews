@@ -5,6 +5,8 @@ date: '2024-5-27'
 tags: ['Trimble Connect', 'Construction', 'Collaboration', 'BIM']
 draft: false
 summary: 'Discover how Trimble Connect enhances collaboration in construction projects through streamlined workflows, cloud-based solutions, and integration with BIM.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/using_trimble_connect_for_collaboration_in_construction_projects_1_20240714_161556.webp', 'https://www.contechnews.com/articleimage/tutorials/using_trimble_connect_for_collaboration_in_construction_projects_2_20240714_161608.webp', 'https://www.contechnews.com/articleimage/tutorials/using_trimble_connect_for_collaboration_in_construction_projects_3_20240714_161622.webp']
 ---
 
 ## Introduction
@@ -36,7 +38,7 @@ Once you're logged in, you can create a new project:
 2. **Enter Project Details**: Name, organization, and description.
 3. **Invite Team Members**: Input their email addresses and assign roles.
 
-![Creating a New Project in Trimble Connect](path/to/image.webp)
+![Creating a New Project in Trimble Connect](https://www.contechnews.com/articleimage/tutorials/using_trimble_connect_for_collaboration_in_construction_projects_1_20240714_161556.webp)
 
 ### Step 3: Uploading Models and Files
 
@@ -46,7 +48,7 @@ Next, upload your BIM models and other project files:
 2. **Click "Upload Files"** and select the files you want to upload.
 3. Organize files using folders for easy navigation.
 
-![Uploading Files in Trimble Connect](path/to/image.webp)
+![Uploading Files in Trimble Connect](https://www.contechnews.com/articleimage/tutorials/using_trimble_connect_for_collaboration_in_construction_projects_1_20240714_161556.webp)
 
 ### Step 4: Navigating the User Interface
 
@@ -56,7 +58,7 @@ The Trimble Connect interface is user-friendly but rich in features:
 - **3D Viewer**: Inspect BIM models in full 3D, allowing for rotation, zoom, and sectioning.
 - **To-Do List**: Manage tasks and assign to team members.
 
-![Trimble Connect Dashboard](path/to/image.webp)
+![Trimble Connect Dashboard](https://www.contechnews.com/articleimage/tutorials/using_trimble_connect_for_collaboration_in_construction_projects_1_20240714_161556.webp)
 
 ## Best Practices for Collaboration
 

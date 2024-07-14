@@ -5,13 +5,15 @@ date: '2023-09-29'
 tags: ['Epoxy Flooring', 'DiamondBack Flooring', 'Review', 'Garage Transformation']
 draft: false
 summary: 'A comprehensive review of DiamondBack Flooring, highlighting their exceptional epoxy flooring services in Central Florida.'
+
+images: ['https://www.contechnews.com/articleimage/Reviews/DiamondbackEpoxy_1_20240714_161542.webp']
 ---
 
 ## 🌟 DiamondBack Flooring: Crafting Excellence with Every Pour
 
 I recently had the incredible opportunity to work with [DiamondBack Flooring](https://www.diamondbackepoxy.com/), and I'm excited to share my remarkable experience with their top-tier epoxy flooring services that revolutionized my garage.
 
-![Garage Transformation](https://www.diamondbackepoxy.com/garage-transformation.webp)
+![Garage Transformation](https://www.contechnews.com/articleimage/Reviews/DiamondbackEpoxy_1_20240714_161542.webp)
 
 ### The Core of DiamondBack Flooring
 
