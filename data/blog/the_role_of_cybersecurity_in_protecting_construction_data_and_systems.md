@@ -5,6 +5,8 @@ date: '2023-02-19'
 tags: ['Cybersecurity', 'Construction', 'Data Protection']
 draft: false
 summary: 'Discover how cybersecurity is becoming a cornerstone in safeguarding construction data and systems and why it matters more than ever.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_cybersecurity_in_protecting_construction_data_and_systems.webp']
 ---
 
 # The Role of Cybersecurity in Protecting Construction Data and Systems

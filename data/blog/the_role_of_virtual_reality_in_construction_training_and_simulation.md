@@ -5,6 +5,8 @@ date: '2023-11-28'
 tags: ['Virtual Reality', 'Construction', 'Training', 'Simulation']
 draft: false
 summary: 'Discover how Virtual Reality (VR) is transforming construction training and simulation, enhancing safety, efficiency, and skills acquisition.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_virtual_reality_in_construction_training_and_simulation.webp']
 ---
 
 # The Role of Virtual Reality in Construction Training and Simulation

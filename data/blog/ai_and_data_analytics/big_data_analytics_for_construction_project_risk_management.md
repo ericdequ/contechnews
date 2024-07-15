@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Big Data', 'Risk Management', 'Construction Technology', 'AI and Data Analytics', 'Future Trends']
 draft: true
 summary: 'This tutorial orients construction professionals towards the application of big data analytics to enhance risk management in construction projects. The post covers practical examples, best practices, and potential pitfalls.'
+
+images: ['https://www.contechnews.com/articleimage/ai_and_data_analytics/big_data_analytics_for_construction_project_risk_management.webp']
 ---
 
 # Introduction

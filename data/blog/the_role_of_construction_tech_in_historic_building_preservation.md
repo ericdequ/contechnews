@@ -5,6 +5,8 @@ date: '2023-10-22'
 tags: ['Construction Tech', 'Historic Preservation', 'Innovation']
 draft: false
 summary: 'Discover how cutting-edge construction technologies are transforming the preservation of historic buildings, blending tradition with innovation to protect our architectural heritage.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_construction_tech_in_historic_building_preservation.webp']
 ---
 
 # The Role of Construction Tech in Historic Building Preservation

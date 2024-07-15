@@ -5,6 +5,8 @@ date: '2023-06-25'
 tags: ['Robotics', 'Construction', 'Technology', 'Innovation']
 draft: false
 summary: 'Exploring the groundbreaking advancements in robotics that are transforming hazardous construction environments, ensuring safety and efficiency like never before.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_advanced_robotics_in_hazardous_construction_environments.webp']
 ---
 
 # The Role of Advanced Robotics in Hazardous Construction Environments

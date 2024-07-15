@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['synthetic biology', 'bio-based materials', 'construction', 'biotech in construction', 'sustainable building materials']
 draft: true
 summary: 'Exploration of the emerging role of synthetic biology in producing bio-based construction materials, offering eco-friendly and structurally competitive alternatives to traditional building materials.'
+
+images: ['https://www.contechnews.com/articleimage/biotech_in_construction/synthetic_biology_for_producing_bio-based_construction_materials_the_future_of_construction_tech.webp']
 ---
 
 # Introduction

@@ -5,6 +5,8 @@ date: '2023-06-23'
 tags: ['Machine Vision', 'Construction', 'Safety', 'AI']
 draft: false
 summary: 'Explore how machine vision is revolutionizing the safety standards in construction sites and ensuring a safer working environment for all involved.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_machine_vision_in_enhancing_construction_site_safety.webp']
 ---
 
 # The Role of Machine Vision in Enhancing Construction Site Safety

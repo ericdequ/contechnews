@@ -5,6 +5,8 @@ date: '2023-06-21'
 tags: ['Blockchain', 'Construction', 'Technology']
 draft: false
 summary: 'Explore how blockchain technology is revolutionizing the construction industry by increasing transparency and improving operational efficiency.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_blockchain_in_construction_enhancing_transparency_and_efficiency.webp']
 ---
 
 # The Role of Blockchain in Construction: Enhancing Transparency and Efficiency

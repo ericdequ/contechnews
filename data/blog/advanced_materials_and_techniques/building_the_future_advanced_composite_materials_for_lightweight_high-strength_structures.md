@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Advanced Materials', 'Composite Materials', 'Construction Technology', 'High-Strength Structures', 'Lightweight Structures']
 draft: true
 summary: 'In this article, we explore the use of advanced composite materials in the construction of lightweight, high-strength structures. Amongst the topics covered are the types of composite materials, their advantages, applications, and potential challenges.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_materials_and_techniques/building_the_future_advanced_composite_materials_for_lightweight_high-strength_structures.webp']
 ---
 
 # Introduction

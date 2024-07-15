@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['biotech_in_construction', 'carbon_negativity', 'green_tech', 'bioreactive_facades', 'algae_powered']
 draft: true
 summary: 'An in-depth review of the growing trend in construction industry - the use of algae-powered bioreactive facades for carbon-negative buildings. We explore the technology, benefits, and implications of this revolutionary approach.'
+
+images: ['https://www.contechnews.com/articleimage/biotech_in_construction/algae-powered_bioreactive_facades_the_future_of_carbon-negative_buildings.webp']
 ---
 
 # Algae-Powered Bioreactive Facades: The Future of Carbon-Negative Buildings

@@ -5,6 +5,8 @@ date: '2023-11-06'
 tags: ['Digital Fabrication', 'Architecture', 'Innovation']
 draft: false
 summary: 'Discover how digital fabrication is revolutionizing custom architectural elements, enhancing creativity, precision, and sustainability in modern construction.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_digital_fabrication_in_custom_architectural_elements.webp']
 ---
 
 # The Role of Digital Fabrication in Custom Architectural Elements

@@ -6,6 +6,8 @@ tags: ['Biomimicry', 'Sustainable Building Design', 'Construction Technology', '
 draft: true
 summary: 'A comprehensive guide to understanding the application and potential of biomimetic materials and techniques in enabling sustainable building design. This article includes detailed analysis, practical examples, best practices, and potential challenges in the field.'
 
+
+images: ['https://www.contechnews.com/articleimage/advanced_materials_and_techniques/biomimetic_materials_in_sustainable_building_design_a_new_frontier_in_the_construction_industry.webp']
 ---
 
 # Introduction

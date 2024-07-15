@@ -5,6 +5,8 @@ date: '2024-04-14'
 tags: ['AI', 'Machine Learning', 'Construction', 'Safety']
 draft: false
 summary: 'Discover how AI and machine learning are revolutionizing safety protocols on construction sites, ensuring a safer work environment through predictive analytics, real-time monitoring, and advanced robotics.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_ai_and_machine_learning_in_construction_site_safety.webp']
 ---
 
 # The Role of AI and Machine Learning in Construction Site Safety

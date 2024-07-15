@@ -5,6 +5,8 @@ date: '2023-05-23'
 tags: ['Geospatial Technology', 'Construction', 'Technology Innovation']
 draft: false
 summary: 'Explore how cutting-edge geospatial technology is revolutionizing the construction industry by improving accuracy, efficiency, and decision-making.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_geospatial_technology_in_modern_construction.webp']
 ---
 
 # The Role of Geospatial Technology in Modern Construction

@@ -5,6 +5,8 @@ date: '2023-02-06'
 tags: ['Construction', 'Simulation', 'Technology']
 draft: false
 summary: 'Dive into the transformative power of advanced simulation software in revolutionizing construction planning and execution. Discover how tech is reshaping the foundations of how we build.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_advanced_simulation_software_in_construction_planning.webp']
 ---
 
 # The Role of Advanced Simulation Software in Construction Planning

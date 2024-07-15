@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['advanced_surveying_and_mapping', 'ground_penetrating_radar', 'utility_mapping', 'construction_technology', 'geophysics']
 draft: true
 summary: 'A comprehensive tutorial that explores the use of Ground Penetrating Radar (GPR) in subsurface utility mapping, including a step-by-step guide on the process, best practices, explicit examples, and potential challenges.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_surveying_and_mapping/subsurface_utility_mapping_using_ground_penetrating_radar_an_extensive_guide.webp']
 ---
 
 # Introduction

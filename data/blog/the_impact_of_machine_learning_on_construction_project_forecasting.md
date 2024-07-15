@@ -5,6 +5,8 @@ date: '2024-04-02'
 tags: ['Machine Learning', 'Construction', 'Project Management']
 draft: false
 summary: 'Discover how machine learning is revolutionizing construction project forecasting by improving accuracy, reducing costs, and enhancing decision-making.'
+
+images: ['https://www.contechnews.com/articleimage/./the_impact_of_machine_learning_on_construction_project_forecasting.webp']
 ---
 
 # The Impact of Machine Learning on Construction Project Forecasting

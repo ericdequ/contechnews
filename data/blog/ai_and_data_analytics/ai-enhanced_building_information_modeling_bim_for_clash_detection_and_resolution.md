@@ -5,6 +5,8 @@ date: '2024-07-15'
 tags: ['AI', 'BIM', 'Clash Detection', 'Resolution', 'Construction Technology']
 draft: true
 summary: 'A comprehensive exploration of how artificial intelligence is powering clash detection and resolution in building information modeling, including practical examples, best practices, and challenges.'
+
+images: ['https://www.contechnews.com/articleimage/ai_and_data_analytics/ai-enhanced_building_information_modeling_bim_for_clash_detection_and_resolution.webp']
 ---
 
 # Introduction

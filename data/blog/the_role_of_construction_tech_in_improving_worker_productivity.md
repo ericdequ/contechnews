@@ -6,6 +6,8 @@ tags: ['Construction Technology', 'Productivity', 'Innovation']
 draft: false
 summary: 'Explore how technological advancements are revolutionizing the construction industry, boosting worker productivity, and transforming project outcomes.'
 
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_construction_tech_in_improving_worker_productivity.webp']
 ---
 
 # The Role of Construction Tech in Improving Worker Productivity

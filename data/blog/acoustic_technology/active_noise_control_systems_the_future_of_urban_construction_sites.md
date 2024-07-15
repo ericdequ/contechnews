@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['acoustic_technology', 'construction', 'noise_control', 'urban_development', 'innovation']
 draft: true
 summary: 'Detailed insight into how active noise control systems are revolutionizing urban construction sites leading to noise pollution reduction, with consideration of the latest advancements and applications.'
+
+images: ['https://www.contechnews.com/articleimage/acoustic_technology/active_noise_control_systems_the_future_of_urban_construction_sites.webp']
 ---
 
 # Introduction  

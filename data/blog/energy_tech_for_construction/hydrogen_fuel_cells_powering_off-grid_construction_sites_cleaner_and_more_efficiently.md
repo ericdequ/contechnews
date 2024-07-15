@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Hydrogen_Fuel_Cells', 'Off_Grid', 'Construction', 'Renewable_Energy', 'Energy_Tech_for_Construction']
 draft: true
 summary: 'This article examines the role of hydrogen fuel cells as an efficient, reliable, and environmentally friendly power source for off-grid construction sites.'
+
+images: ['https://www.contechnews.com/articleimage/energy_tech_for_construction/hydrogen_fuel_cells_powering_off-grid_construction_sites_cleaner_and_more_efficiently.webp']
 ---
 
 # Hydrogen Fuel Cells for Off-Grid Construction Sites

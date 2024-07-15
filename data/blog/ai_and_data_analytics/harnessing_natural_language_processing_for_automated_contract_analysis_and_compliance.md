@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['AI', 'Data_Analytics', 'Natural_Language_Processing', 'Contract_Analysis', 'Compliance']
 draft: true
 summary: 'A comprehensive tutorial that explores the application of Natural Language Processing (NLP) to enhance the efficiency and effectiveness of contract analysis and compliance in construction.'
+
+images: ['https://www.contechnews.com/articleimage/ai_and_data_analytics/harnessing_natural_language_processing_for_automated_contract_analysis_and_compliance.webp']
 ---
 
 # Introduction

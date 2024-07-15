@@ -5,6 +5,8 @@ date: '2023-08-29'
 tags: ['Construction', 'Technology', 'Quality Assurance']
 draft: false
 summary: 'Explore how cutting-edge technology is revolutionizing construction quality assurance, leading to higher standards, increased efficiency, and safer building practices.'
+
+images: ['https://www.contechnews.com/articleimage/./the_impact_of_technology_on_construction_quality_assurance.webp']
 ---
 
 ## The Impact of Technology on Construction Quality Assurance

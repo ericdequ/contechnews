@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Acoustic_Technology', 'Construction_Technology', 'Open_Plan_Offices', 'Acoustic_Cloaking','Zones_of_Silence']
 draft: true
 summary: 'This article explores the innovative concept of acoustic cloaking, a solution for noise reduction in the prevailing open-plan office culture. The technology creates 'Zones of Silence' by manipulating sound waves, promoting employee productivity and wellbeing.'
+
+images: ['https://www.contechnews.com/articleimage/acoustic_technology/acoustic_cloaking_creating_zones_of_silence_in_open-plan_offices.webp']
 ---
 
 # Acoustic Cloaking: Creating Zones of Silence in Open-Plan Offices

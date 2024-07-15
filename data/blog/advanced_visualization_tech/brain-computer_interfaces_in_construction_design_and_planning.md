@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Advanced Visualization Tech', 'Brain_Computer Interface', 'Construction Technology', 'Design', 'Planning']
 draft: true
 summary: 'This article examines the rise of Brain-Computer Interfaces (BCIs) in the realm of construction design and planning, elaborating on how this pioneering technology can potentially transform the way architects and engineers visualize their ideas.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_visualization_tech/brain-computer_interfaces_in_construction_design_and_planning.webp']
 ---
 
 # Brain-Computer Interfaces in Construction Design and Planning

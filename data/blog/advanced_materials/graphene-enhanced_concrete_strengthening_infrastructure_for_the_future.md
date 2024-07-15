@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['advanced_materials', 'construction_technology', 'graphene', 'concrete', 'infrastructure']
 draft: true
 summary: 'We explore how Graphene-Enhanced Concrete could herald a new era in construction technology by offering superior strength, durability, and improved environmental impact.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_materials/graphene-enhanced_concrete_strengthening_infrastructure_for_the_future.webp']
 ---
 
 # Introduction

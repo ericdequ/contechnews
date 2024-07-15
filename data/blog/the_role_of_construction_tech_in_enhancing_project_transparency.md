@@ -5,6 +5,8 @@ date: '2024-03-09'
 tags: ['Construction', 'Technology', 'Innovation']
 draft: false
 summary: 'Dive into how cutting-edge technology is revolutionizing the construction industry by boosting project transparency, and explore the transformative tools making it all possible.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_construction_tech_in_enhancing_project_transparency.webp']
 ---
 
 # The Role of Construction Tech in Enhancing Project Transparency

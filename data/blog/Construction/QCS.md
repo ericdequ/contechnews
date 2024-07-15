@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: 'The construction industry is undergoing a rapid transformation, fueled by advancements in various technologies. From AI to smart building materials, this blog post explores the diverse areas being revolutionized by tech and highlights how Quantum Cyber Solutions is playing a pivotal role in helping companies navigate this dynamic landscape.'
+
+images: ['https://www.contechnews.com/articleimage/Construction/QCS.webp']
 ---
 
 # 🏗️ Unpacking the Technological Revolution in Construction 🏗️

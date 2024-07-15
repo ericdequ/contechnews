@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Advanced Materials', 'Self-Cleaning', 'Air-Purifying', 'Construction Technology', 'Building Maintenance']
 draft: true
 summary: 'This tutorial delves into the integration and maintenance of self-cleaning and air-purifying building materials—a promising venture in advanced materials and techniques. Learn about how these materials function, their installation steps, upkeep requirements, best practices, and potential challenges.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_materials_and_techniques/self-cleaning_and_air-purifying_building_materials_implementation_and_maintenance.webp']
 ---
 
 # Introduction

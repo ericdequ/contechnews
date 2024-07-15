@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Construction_Technology', 'Advanced_Materials', 'Self-Healing_Concrete', 'Infrastructure', 'Innovation']
 draft: true
 summary: 'An in-depth exploration of the revolutionary self-healing concrete technology used in infrastructure projects. Get a comprehensive walk-through on its implementation process along with practical examples, best practices, and challenges.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_materials_and_techniques/implementing_self-healing_concrete_technologies_in_infrastructure_projects.webp']
 ---
 
 # Implementing Self-Healing Concrete Technologies in Infrastructure Projects

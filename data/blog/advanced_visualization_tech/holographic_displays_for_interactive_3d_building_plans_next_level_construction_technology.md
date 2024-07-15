@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Advanced Visualization Tech', 'Holographic Display', '3D Building Plans', 'Interactive Technology', 'Construction']
 draft: true
 summary: 'Unravel the potential of Holographic Displays in revolutionizing the way we build our future. This cutting-edge technology allows architects and constructors to work with Interactive 3D Building Plans, marking a giant stride in Advanced Visualization Technology.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_visualization_tech/holographic_displays_for_interactive_3d_building_plans_next_level_construction_technology.webp']
 ---
 
 # Introduction

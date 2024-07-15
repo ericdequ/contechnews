@@ -5,6 +5,8 @@ date: '2023-11-24'
 tags: ['Construction', 'Project Management', 'Digital Dashboards', 'Technology']
 draft: false
 summary: 'Discover how digital dashboards enhance efficiency, transparency, and decision-making in construction project management.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_digital_dashboards_in_construction_project_management.webp']
 ---
 
 # The Role of Digital Dashboards in Construction Project Management

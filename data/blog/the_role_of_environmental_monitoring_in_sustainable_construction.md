@@ -5,6 +5,8 @@ date: '2023-09-07'
 tags: ['Sustainable Construction', 'Environmental Monitoring', 'Green Technology', 'Innovation']
 draft: false
 summary: 'Explore how environmental monitoring is revolutionizing sustainable construction, making projects greener, smarter, and more efficient.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_environmental_monitoring_in_sustainable_construction.webp']
 ---
 
 # The Role of Environmental Monitoring in Sustainable Construction

@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Advanced Materials', 'Energy Efficiency', 'Green Building', 'Construction Technology', 'Phase-Change Materials']
 draft: true
 summary: 'In-depth tutorial on the application of phase-change materials (PCMs) for thermal energy storage in buildings, discussing their benefits, challenges, and implementation techniques.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_materials_and_techniques/phase-change_materials_for_thermal_energy_storage_in_buildings.webp']
 ---
 
 # Introduction 

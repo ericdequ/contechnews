@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Bioengineering', 'Biotech_in_Construction', 'Self-healing_Concrete', 'Bacteria', 'Sustainability']
 draft: true
 summary: 'Innovations in construction technology have seen an exciting convergence with biotechnology. This article delves into a fascinating advancement in this space – bioengineered self-repairing concrete using bacteria, which promises to revolutionize the industry by reducing cost, extending infrastructural lifetimes and promoting sustainability.'
+
+images: ['https://www.contechnews.com/articleimage/biotech_in_construction/bioengineered_self-repairing_concrete_a_pioneering_contribution_to_biotech_in_construction.webp']
 ---
 
 # Bioengineered Self-Repairing Concrete: A Pioneering Contribution to Biotech in Construction

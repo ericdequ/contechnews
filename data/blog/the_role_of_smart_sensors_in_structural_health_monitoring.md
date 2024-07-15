@@ -5,6 +5,8 @@ date: '2023-05-31'
 tags: ['Smart Sensors', 'Structural Health Monitoring', 'Innovation', 'IoT']
 draft: false
 summary: 'Discover how smart sensors are transforming structural health monitoring, enhancing safety, and revolutionizing the construction industry with cutting-edge IoT technologies.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_smart_sensors_in_structural_health_monitoring.webp']
 ---
 
 # The Role of Smart Sensors in Structural Health Monitoring

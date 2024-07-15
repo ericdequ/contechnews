@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Construction Technology', 'Swarm Robotics', 'Construction Automation', 'Micro-Robots', 'Future of Construction']
 draft: true
 summary: 'This article explores the revolutionary field of swarm robotics in construction, discussing how the coordination of micro-robots can enhance building efficiency, accuracy, and safety.'
+
+images: ['https://www.contechnews.com/articleimage/construction_automation/swarm_robotics_in_construction_coordinated_building_with_micro-robots.webp']
 ---
 
 # Swarm Robotics in Construction: Coordinated Building with Micro-Robots

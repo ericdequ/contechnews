@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Construction Technology', 'Biotech in Construction', 'Sustainability', 'Mycelium', 'Building Materials']
 draft: true
 summary: 'This article explores the developing technology of mycelium-based building materials. As the demand for sustainable and eco-friendly construction materials grows, the adoption of mycelium as a viable alternative for creating robust and environmentally-sound building materials is on the rise.'
+
+images: ['https://www.contechnews.com/articleimage/biotech_in_construction/mycelium-based_building_materials_fungi_as_a_sustainable_resource.webp']
 ---
 
 # Mycelium-Based Building Materials: Fungi as a Sustainable Resource

@@ -5,6 +5,8 @@ date: '2024-05-01'
 tags: ['Construction Technology', 'Innovation', 'Building Lifespan']
 draft: false
 summary: 'Explore how innovative construction technologies are redefining the longevity and durability of modern structures.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_construction_technology_in_enhancing_building_lifespan.webp']
 ---
 
 # The Role of Construction Technology in Enhancing Building Lifespan

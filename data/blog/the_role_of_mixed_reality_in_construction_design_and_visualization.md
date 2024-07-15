@@ -5,6 +5,8 @@ date: '2023-07-04'
 tags: ['Mixed Reality', 'Construction', 'Design', 'Visualization', 'Innovation']
 draft: false
 summary: 'Explore how mixed reality is revolutionizing construction design and visualization, enhancing collaboration, precision, and project efficiency.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_mixed_reality_in_construction_design_and_visualization.webp']
 ---
 
 # The Role of Mixed Reality in Construction Design and Visualization

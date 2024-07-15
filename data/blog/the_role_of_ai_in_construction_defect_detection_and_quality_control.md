@@ -5,6 +5,8 @@ date: '2023-07-25'
 tags: ['AI', 'Construction', 'Technology', 'QualityControl']
 draft: false
 summary: 'Discover how AI is revolutionizing defect detection and quality control in the construction industry, ensuring safer and more reliable structures.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_ai_in_construction_defect_detection_and_quality_control.webp']
 ---
 
 # The Role of AI in Construction Defect Detection and Quality Control

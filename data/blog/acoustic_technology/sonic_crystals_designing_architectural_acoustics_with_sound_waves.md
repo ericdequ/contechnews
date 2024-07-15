@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['acoustic_technology', 'sonic_crystals', 'architectural_design', 'sound_waves', 'innovation_construction']
 draft: true
 summary: 'This article explores Sonic Crystals and how they are used in designing architectural acoustics. The influence of sound waves in construction technology and the significant benefits of incorporating Sonic Crystals in architectural design are discussed.'
+
+images: ['https://www.contechnews.com/articleimage/acoustic_technology/sonic_crystals_designing_architectural_acoustics_with_sound_waves.webp']
 ---
 
 # Sonic Crystals: Designing Architectural Acoustics with Sound Waves

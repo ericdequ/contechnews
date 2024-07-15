@@ -15,7 +15,7 @@ draft: false
 
 summary: 'Discover how quantum computers are set to transform the logistics industry, enabling unprecedented optimization, cost savings, and energy efficiency. Explore the potential of this groundbreaking technology and its impact on supply chain management.'
 
-images: ['https://www.quantumcybersolutions.com/QCS-logo.webp']
+images: ['https://www.quantumcybersolutions.com/QCS-logo.webp', 'https://www.contechnews.com/articleimage/Logistics/QuantumLogistics.webp']
 ---
 
 ## 🌐 Quantum Computing: A Game-Changer for Logistics

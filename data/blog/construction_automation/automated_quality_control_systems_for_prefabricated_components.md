@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Construction Automation', 'Quality Control', 'Prefabricated Components', 'Robotics', 'Machine Learning']
 draft: true
 summary: 'A comprehensive exploration of the emerging automated technology for quality control in the construction industry, with a focus on their application in the domain of prefabricated components.'
+
+images: ['https://www.contechnews.com/articleimage/construction_automation/automated_quality_control_systems_for_prefabricated_components.webp']
 ---
 
 # Introduction

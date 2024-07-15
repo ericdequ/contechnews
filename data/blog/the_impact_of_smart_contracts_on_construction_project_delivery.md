@@ -5,6 +5,8 @@ date: '2023-08-16'
 tags: ['Smart Contracts', 'Blockchain', 'Construction']
 draft: false
 summary: 'Explore how smart contracts are transforming the delivery of construction projects, enhancing efficiency, transparency, and trust across the industry.'
+
+images: ['https://www.contechnews.com/articleimage/./the_impact_of_smart_contracts_on_construction_project_delivery.webp']
 ---
 
 # The Impact of Smart Contracts on Construction Project Delivery

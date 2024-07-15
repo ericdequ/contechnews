@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['nanotechnology_in_construction', 'nano_sensors', 'concrete', 'crack_detection', 'construction_innovation']
 draft: true
 summary: 'This article explores the innovative application of nano-sensors for microscopic crack detection in concrete structures. This comes as a revolutionary advancement in the field of construction technology, significantly enhancing the safety and longevity of buildings.'
+
+images: ['https://www.contechnews.com/articleimage/nanotechnology_in_construction/nano-sensors_for_microscopic_crack_detection_in_concrete_a_game-changer_in_construction.webp']
 ---
 
 # Introduction

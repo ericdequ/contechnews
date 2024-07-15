@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['responsive architecture', 'shape-changing structures', 'smart materials', 'construction technology', 'advanced materials']
 draft: true
 summary: 'Discover the transformative impact of smart materials on architecture, how they enable shape-changing structures, and their roles in creating adaptive, responsive, and sustainable built environments.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_materials/smart_materials_for_responsive_architecture_shape-changing_structures.webp']
 ---
 
 # Introduction

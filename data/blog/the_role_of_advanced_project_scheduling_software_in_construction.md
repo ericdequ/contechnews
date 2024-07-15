@@ -5,6 +5,8 @@ date: '2024-01-16'
 tags: ['Construction', 'Project Management', 'Software']
 draft: false
 summary: 'Discover how advanced project scheduling software is revolutionizing the construction industry by optimizing project timelines, enhancing collaboration, and ensuring efficient resource allocation.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_advanced_project_scheduling_software_in_construction.webp']
 ---
 
 # The Role of Advanced Project Scheduling Software in Construction

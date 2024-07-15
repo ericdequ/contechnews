@@ -5,6 +5,8 @@ date: '2023-01-14'
 tags: ['AI', 'Construction', 'Risk Management', 'Innovation']
 draft: false
 summary: 'Discover how AI is transforming risk management in the construction industry, making job sites safer and more efficient through advanced technology and predictive analytics.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_ai_in_construction_risk_management.webp']
 ---
 
 # The Role of AI in Construction Risk Management

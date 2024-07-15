@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['advanced materials', 'construction technology', 'maintenance costs', 'self-healing materials', 'sustainable construction']
 draft: true
 summary: 'This article dives into the breakthroughs in self-healing materials and their potential applications in the construction sector, leading to significant reductions in maintenance costs and enhancing durability.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_materials/self-healing_materials_in_construction_reducing_maintenance_costs.webp']
 ---
 
 # Self-Healing Materials in Construction: Reducing Maintenance Costs

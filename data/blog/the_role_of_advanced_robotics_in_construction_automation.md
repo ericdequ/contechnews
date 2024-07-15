@@ -5,6 +5,8 @@ date: '2023-12-05'
 tags: ['Robotics', 'Construction', 'Automation', 'Innovation']
 draft: false
 summary: 'Dive into the transformative impact of advanced robotics in automating the construction industry. Discover how robots are making building sites smarter, safer, and more efficient.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_advanced_robotics_in_construction_automation.webp']
 ---
 
 # The Role of Advanced Robotics in Construction Automation

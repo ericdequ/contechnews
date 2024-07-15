@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Machine Learning', 'AI', 'Construction Technology', 'Cost Estimation', 'Bidding Strategies']
 draft: true
 summary: 'An in-depth analysis and step-by-step tutorial on how to utilise machine learning to enhance cost estimation and optimise bidding strategies in construction.'
+
+images: ['https://www.contechnews.com/articleimage/ai_and_data_analytics/leveraging_machine_learning_in_construction_cost_estimation_and_bidding_strategies.webp']
 ---
 
 ## Table of Contents

@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Construction Technology', 'Nanotechnology_in_Construction', 'Carbon_Nanotubes', 'Structural_Reinforcement', 'Advanced_Materials']
 draft: true
 summary: 'In this article, we dig into the transformative potential of carbon nanotubes in structural reinforcement, looking at their characteristics, latest advancements and implementations in the field of construction.'
+
+images: ['https://www.contechnews.com/articleimage/nanotechnology_in_construction/carbon_nanotubes_in_structural_reinforcement_the_future_of_construction.webp']
 ---
 
 # Carbon Nanotubes in Structural Reinforcement: A Transformative Approach

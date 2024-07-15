@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Advanced Surveying', 'Mapping', 'LIDAR', 'Construction Technology', 'Terrain Mapping']
 draft: true
 summary: 'A comprehensive guide to understanding and implementing LIDAR Technology for precise terrain mapping in construction projects. This article will walk you through the fundamental principles of LIDAR, its advantages, practical application steps, potential challenges, and best practices.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_surveying_and_mapping/implementing_lidar_technology_for_precise_terrain_mapping_in_construction_projects.webp']
 ---
 
 # Implementing LIDAR Technology for Precise Terrain Mapping in Construction Projects

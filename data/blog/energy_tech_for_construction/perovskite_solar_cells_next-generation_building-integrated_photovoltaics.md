@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['solar', 'perovskite', 'building-integrated', 'photovoltaics', 'energy_tech']
 draft: true
 summary: 'This article details an exciting technology in renewable energy: Perovskite Solar Cells (PSCs), explaining why they are considered the next-generation building-integrated photovoltaics (BIPV). We will dig deep into what they are, how they work, their potential, and how they could revolutionize building designs and the construction industry.'
+
+images: ['https://www.contechnews.com/articleimage/energy_tech_for_construction/perovskite_solar_cells_next-generation_building-integrated_photovoltaics.webp']
 ---
 
 # Perovskite Solar Cells: Next-Generation Building-Integrated Photovoltaics

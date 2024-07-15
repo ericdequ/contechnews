@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Quantum Rendering', 'Construction Technology', 'Virtual Building', 'Advanced Visualization Tech', 'Virtual Reality']
 draft: true
 summary: 'This in-depth analysis delves into the latest advancements in construction visualization technology, focusing specifically on quantum rendering and its impact on creating ultra-realistic virtual building walkthroughs. Learn how this innovative technology is revolutionizing the design and presentation process within the construction industry.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_visualization_tech/quantum_rendering_ultra-realistic_virtual_building_walkthroughs.webp']
 ---
 
 # Quantum Rendering: Ultra-Realistic Virtual Building Walkthroughs

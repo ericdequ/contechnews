@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['construction technology', 'nanotechnology in construction', 'nanocoatings', 'building exteriors', 'sustainability']
 draft: true
 summary: 'This comprehensive report explores the advent of nanocoatings in the construction industry, delving into their potential in creating ultra-durable building exteriors.'
+
+images: ['https://www.contechnews.com/articleimage/nanotechnology_in_construction/nanocoatings_for_ultra-durable_building_exteriors.webp']
 ---
 
 # Nanocoatings for Ultra-Durable Building Exteriors

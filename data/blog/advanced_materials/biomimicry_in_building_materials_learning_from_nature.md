@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Biomimicry', 'Building Materials', 'Advanced_Materials', 'Sustainable Construction', 'Innovation']
 draft: true
 summary: 'This article will explore the fascinating field of biomimicry, and its emerging role in the creation of innovative, sustainable, and efficient building materials. Drawing inspiration from nature, engineers and scientists develop new materials that continue to revolutionize the construction industry.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_materials/biomimicry_in_building_materials_learning_from_nature.webp']
 ---
 
 # Biomimicry in Building Materials: Learning from Nature's Designs

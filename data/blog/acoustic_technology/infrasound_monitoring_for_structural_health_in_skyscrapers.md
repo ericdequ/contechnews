@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['acoustic_technology', 'structural_health', 'infrasound', 'monitoring', 'skyscrapers']
 draft: true
 summary: 'This post unveils the cutting-edge advancements in using infrasound technology to monitor the structural health of skyscrapers. It covers an overview of the technology, its applications, benefits and challenges of implementation. The article further explains how infrasound monitoring could drive proactive building management, enhancing the longevity of these towering structures.'
+
+images: ['https://www.contechnews.com/articleimage/acoustic_technology/infrasound_monitoring_for_structural_health_in_skyscrapers.webp']
 ---
 
 # Infrasound Monitoring for Structural Health in Skyscrapers

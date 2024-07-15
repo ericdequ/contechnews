@@ -5,6 +5,8 @@ date: '2023-12-24'
 tags: ['Construction', 'Technology', 'Advanced Manufacturing']
 draft: false
 summary: 'Explore how advanced manufacturing technologies are revolutionizing the construction industry, making it more efficient, sustainable, and innovative.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_advanced_manufacturing_in_modern_construction.webp']
 ---
 
 # The Role of Advanced Manufacturing in Modern Construction

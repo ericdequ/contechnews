@@ -5,6 +5,8 @@ date: '2023-10-15'
 tags: ['Technology', 'Sustainability', 'Construction']
 draft: false
 summary: 'Discover how cutting-edge technology is revolutionizing sustainability practices at construction sites, reducing environmental impact, and fostering a greener future.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_technology_in_enhancing_construction_site_sustainability.webp']
 ---
 
 # The Role of Technology in Enhancing Construction Site Sustainability

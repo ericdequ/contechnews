@@ -5,7 +5,7 @@ tags: ['construction automation', 'modular construction', 'self-assembling build
 draft: true
 summary: 'This article delves into the cutting-edge advancements in construction technology, specifically, the emergence and potential of self-assembling buildings in the modular construction industry.'
 
-images: ['https://www.contechnews.com/articleimage/construction_automation/self-assembling_buildings_the_future_of_modular_construction_1.webp']
+images: ['https://www.contechnews.com/articleimage/construction_automation/self-assembling_buildings_the_future_of_modular_construction_1.webp', 'https://www.contechnews.com/articleimage/construction_automation/self-assembling_buildings_the_future_of_modular_construction.webp']
 ---
 
 # Self-Assembling Buildings: The Future of Modular Construction

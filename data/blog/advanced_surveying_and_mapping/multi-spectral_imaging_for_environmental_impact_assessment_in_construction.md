@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Construction Technology', 'Multi-Spectral Imaging', 'Environmental Impact Assessment', 'Advanced Surveying and Mapping', 'Construction Innovation']
 draft: true
 summary: 'This detailed tutorial focuses on the practical application of multi-spectral imaging technology in environmental impact assessments within the construction industry. We will discuss the process, benefits, challenges, and use-cases of this groundbreaking technology.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_surveying_and_mapping/multi-spectral_imaging_for_environmental_impact_assessment_in_construction.webp']
 ---
 
 # Introduction

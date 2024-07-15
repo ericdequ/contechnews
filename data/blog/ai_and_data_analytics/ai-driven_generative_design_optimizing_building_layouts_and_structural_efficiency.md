@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['AI', 'Generative Design', 'Building Layout', 'Structural Efficiency', 'Construction Tech']
 draft: true
 summary: 'This tutorial-style article offers a detailed analysis of AI-Driven Generative Design. It explores how this technology optimizes building layouts and structural efficiency by outlining the concept, procedural steps, practical examples, best practices, and the challenges faced in the field.'
+
+images: ['https://www.contechnews.com/articleimage/ai_and_data_analytics/ai-driven_generative_design_optimizing_building_layouts_and_structural_efficiency.webp']
 ---
 
 # Introduction

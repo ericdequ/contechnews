@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['AI', 'Energy Optimization', 'Smart Buildings', 'Construction Technology', 'Data Analytics']
 draft: true
 summary: 'This comprehensive tutorial delves into the dynamic world of AI-powered energy optimization systems for smart buildings. We'll unravel the modus operandi of these systems, elicit their relevance, and elaborate on the future trends.'
+
+images: ['https://www.contechnews.com/articleimage/ai_and_data_analytics/ai-powered_energy_optimization_systems_for_smart_buildings.webp']
 ---
 
 # AI-Powered Energy Optimization Systems for Smart Buildings

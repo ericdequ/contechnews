@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['construction', '3D modeling', 'photogrammetry', 'surveying', 'mapping']
 draft: true
 summary: 'Explore avant-garde techniques of photogrammetry for creating highly reliable and accurate 3D models of construction sites. Discover how to implement these techniques step by step and understand potential challenges and best practices for this transformative technology.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_surveying_and_mapping/advanced_photogrammetry_techniques_for_creating_3d_models_of_construction_sites.webp']
 ---
 
 # Introduction

@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['construction technology', 'AI', 'generative design', 'building layouts', 'construction automation']
 draft: true
 summary: 'This article explores AI-driven generative design technology in construction in order to optimize building layouts. It unveils how algorithmic solutions, machine learning, and data-driven intelligence are revolutionizing the design-phase in the fast-evolving construction industry.'
+
+images: ['https://www.contechnews.com/articleimage/construction_automation/ai-driven_generative_design_for_optimized_building_layouts.webp']
 ---
 
 # Introduction

@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Artificial Photosynthesis', 'Energy Harvesting', 'Building Facades', 'Sustainable Construction', 'Construction Technology']
 draft: true
 summary: 'Exploring how the innovative technology of artificial photosynthesis is enabling building facades to convert CO2 into energy. We delve into the science behind it, its potential benefits for the construction industry, and future applications.'
+
+images: ['https://www.contechnews.com/articleimage/energy_tech_for_construction/artificial_photosynthesis_in_building_facades_converting_co2_to_energy.webp']
 ---
 
 # Artificial Photosynthesis in Building Facades: Converting CO2 to Energy

@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['RTK GPS', 'Construction Surveying', 'Advanced Surveying and Mapping', 'High-precision GPS', 'Construction Technology']
 draft: true
 summary: 'This comprehensive guide delves into the potential of Real-Time Kinematic (RTK) GPS technology in enhancing centimeter-level accuracy during construction surveys. It covers the technical aspects involved, the step-by-step implementation process, its advantages, and potential challenges.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_surveying_and_mapping/enhancing_accuracy_in_construction_surveying_unpacking_the_power_of_real-time_kinematic_rtk_gps.webp']
 --- 
 
 # Introduction

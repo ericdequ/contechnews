@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['construction_tech', 'remote_sensing', 'satellite_imagery', 'advanced_surveying_and_mapping', 'pre_construction_planning']
 draft: true
 summary: 'This detailed post provides a comprehensive guide on leveraging satellite imagery and remote sensing in pre-construction planning. The article covers practical examples, best practices, and potential challenges, particularly focusing on the utilization of this technology in advance surveying and mapping.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_surveying_and_mapping/leveraging_satellite_imagery_and_remote_sensing_in_pre-construction_planning.webp']
 ---
 
 # Introduction

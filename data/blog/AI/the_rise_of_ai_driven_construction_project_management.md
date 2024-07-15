@@ -5,6 +5,8 @@ date: '2023-11-01'
 tags: ['AI', 'construction technology', 'project management', 'innovation', 'Alice Technologies', 'nPlan']
 draft: false
 summary: 'Discover how AI-powered platforms like Alice Technologies and nPlan are revolutionizing project management in construction by optimizing schedules, predicting potential delays, and improving overall efficiency.'
+
+images: ['https://www.contechnews.com/articleimage/AI/the_rise_of_ai_driven_construction_project_management.webp']
 ---
 
 # The Rise of AI-Driven Construction Project Management

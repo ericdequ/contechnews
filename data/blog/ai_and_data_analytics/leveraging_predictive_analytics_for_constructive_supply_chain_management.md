@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Construction Tech', 'Predictive Analytics', 'Supply Chain Management', 'AI and Data Analytics', 'Future Trends']
 draft: true
 summary: 'Harness the power of predictive analytics in construction supply chain management to optimize operations, reduce cost, and enhance efficiency. This in-depth guide provides a comprehensive tutorial on leveraging predictive analytics and AI in the field of construction tech.'
+
+images: ['https://www.contechnews.com/articleimage/ai_and_data_analytics/leveraging_predictive_analytics_for_constructive_supply_chain_management.webp']
 ---
 
 # Introduction

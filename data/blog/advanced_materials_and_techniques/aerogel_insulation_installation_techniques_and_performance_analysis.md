@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Aerogel Insulation', 'Construction Technology', 'Installation Techniques', 'Performance Analysis', 'Advanced Materials']
 draft: true
 summary: 'This in-depth tutorial explores the advanced material technology of Aerogel Insulation, including its detailed installation techniques, comprehensive performance analysis, and potential challenges in the construction industry.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_materials_and_techniques/aerogel_insulation_installation_techniques_and_performance_analysis.webp']
 ---
 
 # Introduction

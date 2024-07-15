@@ -5,6 +5,8 @@ date: '2024-07-15'
 tags: ['AI and Data Analytics', 'Deep Learning', 'Anomaly Detection', 'Structural Health Monitoring', 'Construction Technology']
 draft: true
 summary: 'A deep dive into how deep learning algorithms can be utilized to improve structural health monitoring and aid in anomaly detection in construction technology. Analysis of various deep learning models, their practical applications, and challenges faced in effective implementation.'
+
+images: ['https://www.contechnews.com/articleimage/ai_and_data_analytics/unveiling_deep_learning_for_structural_health_monitoring_and_anomaly_detection.webp']
 ---
 
 # Introduction

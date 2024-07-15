@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Construction Technology', 'Advanced Materials', 'Shape Memory Alloys', 'Resilient Building Systems', 'Adaptive Architecture']
 draft: true
 summary: 'A comprehensive exploration into the cutting-edge technology of Shape Memory Alloys (SMAs) and their applications in creating adaptive and resilient buildings. This article provides a tutorial-style overview of the basic principles, practical examples, best practices, and potential challenges associated with integrating SMAs into building systems.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_materials_and_techniques/shape_memory_alloys_in_adaptive_and_resilient_building_systems.webp']
 ---
 
 # Shape Memory Alloys in Adaptive and Resilient Building Systems

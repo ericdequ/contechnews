@@ -5,6 +5,8 @@ date: '2024-02-18'
 tags: ['Construction', 'Technology', 'Supply Chain Management']
 draft: false
 summary: 'Explore how cutting-edge technologies are revolutionizing the intricate web of construction supply chain management, enhancing efficiency, transparency, and sustainability.'
+
+images: ['https://www.contechnews.com/articleimage/./the_impact_of_technology_on_construction_supply_chain_management.webp']
 ---
 
 # The Impact of Technology on Construction Supply Chain Management

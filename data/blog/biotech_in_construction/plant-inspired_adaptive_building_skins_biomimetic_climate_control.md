@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Biomimetic', 'Climate Control', 'Adaptive Skins', 'Biotech_in_Construction', 'Innovation']
 draft: true
 summary: 'Exploring the innovative approach of using plant-inspired adaptive building skins for advanced climate control in construction technology. This biomimetic innovation holds potential for energy-efficient and environmentally sustainable structures.'
+
+images: ['https://www.contechnews.com/articleimage/biotech_in_construction/plant-inspired_adaptive_building_skins_biomimetic_climate_control.webp']
 ---
 
 # Plant-Inspired Adaptive Building Skins: Biomimetic Climate Control

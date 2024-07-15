@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['energy tech', 'construction technology', 'net-zero buildings', 'TES', 'sustainability']
 draft: true
 summary: 'This article delves into the role of Thermal Energy Storage (TES) systems in the construction of net-zero buildings. It explores the concept, types, benefits, and the future of TES in the bid to achieve energy-efficient and sustainable architecture.'
+
+images: ['https://www.contechnews.com/articleimage/energy_tech_for_construction/thermal_energy_storage_systems_for_net-zero_buildings.webp']
 ---
 
 # Introduction

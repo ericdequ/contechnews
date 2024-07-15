@@ -5,6 +5,8 @@ date: '2023-03-30'
 tags: ['AI', 'Construction', 'Architecture', 'Innovation']
 draft: false
 summary: 'Discover how Artificial Intelligence is revolutionizing the construction and architecture industry, enhancing design precision, efficiency, and sustainability.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_ai_in_enhancing_construction_design_and_architecture.webp']
 ---
 
 # The Role of AI in Enhancing Construction Design and Architecture

@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Advanced Visualization Technology', '4D Printing', 'Construction Innovation', 'Smart Materials']
 draft: true
 summary: 'This article discusses the emerging field of 4D printing in construction – a concept that extends 3D printing to add time as a dimension. It dives deep into the potential materials applications that deform, transform, or self-assemble over time, thereby offering a significant innovation in the construction industry.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_visualization_tech/4d_printing_in_construction_materials_that_transform_over_time.webp']
 ---
 
 # Introduction

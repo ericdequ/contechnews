@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Advanced Materials', 'Smart Glass', 'Energy Efficiency', 'Green Construction', 'Building Envelopes']
 draft: true
 summary: 'This post explores the cutting-edge smart glass technologies that can enhance the energy efficiency of building envelopes. It offers a comprehensive guide on the types of smart glass, their operation, applications and the benefits and challenges involved.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_materials_and_techniques/smart_glass_technologies_for_energy-efficient_building_envelopes.webp']
 ---
 
 ## Introduction

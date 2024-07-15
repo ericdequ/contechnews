@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Drone', 'LIDAR Systems', 'Large-Scale Site Surveys', 'Advanced Surveying', 'Mapping Technology']
 draft: true
 summary: 'This tutorial provides a detailed, step-by-step guide to integrating drone-based LIDAR systems for large-scale site surveys. The future of advanced surveying and mapping lies in such specialized systems, and learning how to utilize them effectively can greatly benefit construction and mapping projects.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_surveying_and_mapping/integrating_drone-based_lidar_systems_for_large-scale_site_surveys.webp']
 ---
 
 # Integrating Drone-Based LIDAR Systems for Large-Scale Site Surveys

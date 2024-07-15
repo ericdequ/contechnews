@@ -5,6 +5,8 @@ date: '2024-03-25'
 tags: ['IoT', 'Smart Buildings', 'Technology', 'Innovation']
 draft: false
 summary: 'Explore how the Internet of Things is revolutionizing the management of smart buildings, making them more efficient, sustainable, and user-friendly.'
+
+images: ['https://www.contechnews.com/articleimage/./the_impact_of_iot_on_smart_building_management_systems.webp']
 ---
 
 # The Impact of IoT on Smart Building Management Systems

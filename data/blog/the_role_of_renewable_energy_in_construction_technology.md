@@ -5,6 +5,8 @@ date: '2023-03-14'
 tags: ['Renewable Energy', 'Construction Technology', 'Innovation']
 draft: false
 summary: 'Explore how renewable energy is revolutionizing the construction industry, from green buildings to sustainable infrastructure. Learn about innovative technologies and future-forward practices shaping the industry today.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_renewable_energy_in_construction_technology.webp']
 ---
 
 # The Role of Renewable Energy in Construction Technology

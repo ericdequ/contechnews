@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['machine_learning', 'predictive_maintenance', 'building_systems', 'ai_and_data_analytics', 'construction_tech']
 draft: true
 summary: 'This tutorial explores the implementation of Machine Learning (ML) in the context of predictive maintenance for building systems. Understand the step-by-step process, practical examples, best practices, and potential challenges.'
+
+images: ['https://www.contechnews.com/articleimage/ai_and_data_analytics/implementing_machine_learning_for_predictive_maintenance_in_building_systems.webp']
 ---
 
 # Implementing Machine Learning for Predictive Maintenance in Building Systems

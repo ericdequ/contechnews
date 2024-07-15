@@ -5,6 +5,8 @@ date: '2023-06-17'
 tags: ['Smart Infrastructure', 'Urban Development', 'Technology']
 draft: false
 summary: 'Explore how smart infrastructure is revolutionizing urban environments, improving efficiency, sustainability, and enhancing the quality of life in our cities.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_smart_infrastructure_in_future_urban_development.webp']
 ---
 
 # The Role of Smart Infrastructure in Future Urban Development

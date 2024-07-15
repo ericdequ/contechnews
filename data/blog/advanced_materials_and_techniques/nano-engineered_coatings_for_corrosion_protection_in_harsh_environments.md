@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Advanced Materials', 'Nano-Engineering', 'Corrosion Protection', 'Harsh Environment', 'Coatings']
 draft: true
 summary: 'This comprehensive tutorial explores the advancements in nano-engineered coatings for corrosion protection in harsh environments. It delves into the characteristics of these coatings, their practical application, and challenges faced in the industry.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_materials_and_techniques/nano-engineered_coatings_for_corrosion_protection_in_harsh_environments.webp']
 ---
 
 # Introduction

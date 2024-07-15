@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Advanced Surveying', 'LIDAR', 'Coastal Engineering', 'Underwater Construction', 'Bathymetric LIDAR']
 draft: true
 summary: 'With advancements in LIDAR technology, underwater construction and coastal projects have become more precise, efficient, and safer. This piece provides an in-depth tutorial on the proper utilization of Bathymetric LIDAR in these domains.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_surveying_and_mapping/leveraging_bathymetric_lidar_for_complex_underwater_construction_and_coastal_projects.webp']
 ---
 
 # Introduction

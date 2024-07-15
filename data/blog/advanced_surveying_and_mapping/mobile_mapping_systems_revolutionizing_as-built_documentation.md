@@ -6,6 +6,8 @@ tags: ['mobile_mapping', 'advanced_surveying', 'as_built_documentation', 'constr
 draft: true
 summary: 'In this in-depth tutorial, we delve into the advanced surveying and mapping technology of Mobile Mapping Systems (MMS) and its groundbreaking impact on as-built documentation. From explaining its functionality to exploring practical examples, we offer a profound understanding of its implications for construction technology.'
 
+
+images: ['https://www.contechnews.com/articleimage/advanced_surveying_and_mapping/mobile_mapping_systems_revolutionizing_as-built_documentation.webp']
 ---
 
 # Introduction

@@ -5,6 +5,8 @@ date: '2023-11-16'
 tags: ['AI', 'Construction', 'Technology', 'Innovation']
 draft: false
 summary: 'Exploring how AI, particularly predictive analytics, is transforming the construction industry, enhancing efficiency, safety, and project outcomes.'
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_ai_in_construction_predictive_analytics_and_beyond.webp']
 ---
 
 # The Role of AI in Construction: Predictive Analytics and Beyond

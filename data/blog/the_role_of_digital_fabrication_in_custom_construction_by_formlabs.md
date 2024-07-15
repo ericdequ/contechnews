@@ -5,6 +5,8 @@ date: "2024-05-21"
 tags: ['Construction Technology', 'Digital Fabrication', '3D Printing', 'Custom Construction', 'Formlabs', 'Innovation', 'Building Components', 'Precision Engineering', 'Modern Construction']
 draft: true
 summary: "Discover how Formlabs digital fabrication technology is enabling custom construction projects, allowing for the creation of precise and intricate building components using 3D printing techniques."
+
+images: ['https://www.contechnews.com/articleimage/./the_role_of_digital_fabrication_in_custom_construction_by_formlabs.webp']
 ---
 
 ## The Role of Digital Fabrication in Custom Construction by Formlabs

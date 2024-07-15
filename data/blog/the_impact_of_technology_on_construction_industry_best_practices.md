@@ -5,6 +5,8 @@ date: '2023-07-29'
 tags: ['Construction', 'Technology', 'Innovation']
 draft: false
 summary: 'Discover how technology is revolutionizing best practices in the construction industry, enhancing efficiency, safety, and sustainability.'
+
+images: ['https://www.contechnews.com/articleimage/./the_impact_of_technology_on_construction_industry_best_practices.webp']
 ---
 
 # The Impact of Technology on Construction Industry Best Practices

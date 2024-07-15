@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['construction_technology', 'acoustic_technology', 'metamaterials', 'sound_insulation', 'innovation']
 draft: true
 summary: 'An in-depth look into the paradigm shift in acoustic technology regarding the use of metamaterials for perfect sound insulation in building constructions. This novel approach achieves a flawless balance between architectural aesthetics, acoustical performance, and structural durability.'
+
+images: ['https://www.contechnews.com/articleimage/acoustic_technology/metamaterials_for_perfect_sound_insulation_in_buildings.webp']
 ---
 
 # Metamaterials for Perfect Sound Insulation in Buildings

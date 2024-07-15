@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['construction', 'advanced_materials', 'graphene', 'green_building', 'sustainable_architecture']
 draft: true
 summary: 'This tutorial explores the properties and applications of Graphene-Enhanced Building Materials. Discover the benefit of graphene-infused construction materials, understand how they enhance structural integrity and longevity, and learn key concepts for implementation into your next project.'
+
+images: ['https://www.contechnews.com/articleimage/advanced_materials_and_techniques/graphene-enhanced_building_materials_properties_and_applications.webp']
 ---
 
 # Introduction

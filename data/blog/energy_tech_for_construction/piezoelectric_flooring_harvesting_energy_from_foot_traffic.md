@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Energy Tech', 'Construction', 'Piezoelectricity', 'Renewable Energy', 'Sustainable Architecture']
 draft: true
 summary: 'Exploring the latest advancements in construction technology, this article delves into piezoelectric flooring – a revolutionary system to harness the energy of regular foot traffic for power generation. We will cover its working mechanism, potential applications, advantages, and future prospects.'
+
+images: ['https://www.contechnews.com/articleimage/energy_tech_for_construction/piezoelectric_flooring_harvesting_energy_from_foot_traffic.webp']
 ---
 
 # Piezoelectric Flooring: Harvesting Energy from Foot Traffic

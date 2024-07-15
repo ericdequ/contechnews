@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['computer vision', 'AI', 'real-time monitoring', 'construction', 'safety']
 draft: true
 summary: 'This in-depth tutorial explores how computer vision techniques are utilized for real-time safety monitoring on construction sites, detailing practice examples, advantages, challenges, and future potential'
+
+images: ['https://www.contechnews.com/articleimage/ai_and_data_analytics/computer_vision_techniques_for_real-time_safety_monitoring_on_construction_sites.webp']
 ---
 
 # Introduction

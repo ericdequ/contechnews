@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['construction_automation', 'robotic_excavation', 'earth_moving', 'site_preparation', 'technology_trends']
 draft: true
 summary: 'This article explores how the latest technology of robotic excavation and earth moving is transforming the construction industry. This robotic technology, driving the precision in site preparation, is making construction projects more efficient, faster and safer.'
+
+images: ['https://www.contechnews.com/articleimage/construction_automation/robotic_excavation_and_earth-moving_precision_in_site_preparation.webp']
 ---
 
 # Robotic Excavation and Earth-Moving: Precision in Site Preparation
