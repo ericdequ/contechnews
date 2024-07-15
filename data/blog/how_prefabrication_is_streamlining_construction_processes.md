@@ -6,7 +6,7 @@ tags: ['Construction', 'Innovation', 'Technology']
 draft: false
 summary: 'Discover how prefabrication is revolutionizing the construction industry by reducing costs, improving quality, and expediting project timelines.'
 
-images: ['https://www.contechnews.com/articleimage/how_prefabrication_is_streamlining_construction_processes.webp']
+images: ['https://via.placeholder.com/800x400', 'https://www.contechnews.com/articleimage/how_prefabrication_is_streamlining_construction_processes.webp']
 ---
 
 # How Prefabrication is Streamlining Construction Processes

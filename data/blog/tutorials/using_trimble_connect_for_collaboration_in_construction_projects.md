@@ -6,7 +6,7 @@ tags: ['Trimble Connect', 'Construction', 'Collaboration', 'BIM']
 draft: false
 summary: 'Discover how Trimble Connect enhances collaboration in construction projects through streamlined workflows, cloud-based solutions, and integration with BIM.'
 
-images: ['https://www.contechnews.com/articleimage/tutorials/using_trimble_connect_for_collaboration_in_construction_projects_3_20240714_161622.webp', 'https://www.contechnews.com/articleimage/tutorials/using_trimble_connect_for_collaboration_in_construction_projects_2_20240714_161608.webp', 'https://www.contechnews.com/articleimage/tutorials/using_trimble_connect_for_collaboration_in_construction_projects_1_20240714_161556.webp']
+images: ['https://www.contechnews.com/articleimage/tutorials/using_trimble_connect_for_collaboration_in_construction_projects_2_20240714_161608.webp', 'https://www.contechnews.com/articleimage/tutorials/using_trimble_connect_for_collaboration_in_construction_projects_3_20240714_161622.webp', 'https://www.contechnews.com/articleimage/tutorials/using_trimble_connect_for_collaboration_in_construction_projects_1_20240714_161556.webp']
 ---
 
 ## Introduction
