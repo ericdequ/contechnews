@@ -5,6 +5,8 @@ date: '2023-08-16'
 tags: ['Construction', 'Estimating', 'Software']
 draft: false
 summary: 'Unlock the full potential of STACK Takeoff for precise and efficient construction estimating with this comprehensive guide.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_stack_takeoff_for_construction_estimating.webp']
 ---
 
 # Mastering STACK Takeoff for Construction Estimating

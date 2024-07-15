@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Sustainable Engineering', 'Green Technologies', 'Carbon Capture', 'Concrete Production', 'Construction Technology']
 draft: true
 summary: 'A deep dive into the emerging realm of carbon capture and utilization technologies and their role in making concrete production more sustainable.'
+
+images: ['https://www.contechnews.com/articleimage/sustainable_and_green_technologies/integrating_carbon_capture_and_utilization_technologies_in_concrete_production.webp']
 ---
 
 # Introduction

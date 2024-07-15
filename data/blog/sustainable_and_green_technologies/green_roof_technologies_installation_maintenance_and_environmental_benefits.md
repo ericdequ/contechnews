@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Sustainable Architecture', 'Green Design', 'Eco-friendly Construction', 'Green Roof', 'Urban Planning']
 draft: true
 summary: 'An extensive dive into the world of green roof technologies, covering the basics of installation and maintenance, as well as the immense environmental benefits. This tutorial aims to equip readers with the knowledge and tools to implement these sustainable practices.'
+
+images: ['https://www.contechnews.com/articleimage/sustainable_and_green_technologies/green_roof_technologies_installation_maintenance_and_environmental_benefits.webp']
 ---
 
 # Green Roof Technologies: Installation, Maintenance, and Environmental Benefits

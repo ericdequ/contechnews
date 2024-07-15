@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['sustainable_construction', 'green_technologies', 'biodegradable_materials', 'recycled_materials', 'sustainability']
 draft: true
 summary: 'A deep-dive into the world of sustainable construction, highlighting the pivotal role of biodegradable and recycled materials. The article explores their usage, best practices, potential challenges, and predicts trends for the future.'
+
+images: ['https://www.contechnews.com/articleimage/sustainable_and_green_technologies/embracing_the_green_revolution_biodegradable_and_recycled_materials_in_sustainable_construction.webp']
 ---
 
 # Introduction

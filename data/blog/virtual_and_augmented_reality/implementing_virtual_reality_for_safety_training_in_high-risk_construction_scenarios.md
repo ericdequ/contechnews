@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Virtual Reality', 'Construction Safety', 'High-Risk Training', 'VR Training', 'Augmented Reality']
 draft: true
 summary: 'This in-depth tutorial explores the implementation process of Virtual Reality (VR) for safety training in high-risk construction scenarios. We will also address the potential challenges to anticipate along the way.'
+
+images: ['https://www.contechnews.com/articleimage/virtual_and_augmented_reality/implementing_virtual_reality_for_safety_training_in_high-risk_construction_scenarios.webp']
 ---
 
 # Introduction

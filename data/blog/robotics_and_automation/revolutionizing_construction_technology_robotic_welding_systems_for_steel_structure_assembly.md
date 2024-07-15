@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Construction Technology', 'Robotic Welding Systems', 'Steel Structure Assembly', 'Future Trends', 'Robotics and Automation']
 draft: true
 summary: 'An in-depth exploration on the applications, benefits, and potential challenges of using robotic welding systems for steel structure assembly in construction. This tutorial aims to shed light on the transformative potential of this rising technology.'
+
+images: ['https://www.contechnews.com/articleimage/robotics_and_automation/revolutionizing_construction_technology_robotic_welding_systems_for_steel_structure_assembly.webp']
 ---
 
 # **Introduction to Robotic Welding Systems**

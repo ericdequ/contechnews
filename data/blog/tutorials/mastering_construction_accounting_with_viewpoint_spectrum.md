@@ -5,6 +5,8 @@ date: '2024-5-27'
 tags: ['Construction', 'Accounting', 'Software', 'Tutorial']
 draft: false
 summary: 'Dive deep into the unparalleled capabilities of Viewpoint Spectrum as we explore its features, best practices, and step-by-step tutorials tailored for construction accounting.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_construction_accounting_with_viewpoint_spectrum.webp']
 ---
 
 ## Introduction

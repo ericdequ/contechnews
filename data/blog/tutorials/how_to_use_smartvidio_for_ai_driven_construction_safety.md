@@ -5,6 +5,8 @@ date: '2023-03-08'
 tags: ['AI', 'Construction Safety', 'Smartvid.io']
 draft: false
 summary: 'Discover how Smartvid.io leverages AI to enhance construction site safety, offering step-by-step tutorials and best practices.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/how_to_use_smartvidio_for_ai_driven_construction_safety.webp']
 ---
 
 # How to Use Smartvid.io for AI-Driven Construction Safety

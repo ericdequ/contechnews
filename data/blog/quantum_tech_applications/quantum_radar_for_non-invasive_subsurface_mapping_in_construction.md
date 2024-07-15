@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Quantum_Tech', 'Construction_Tech', 'Subsurface_Mapping', 'Non-Invasive_Techniques', 'Quantum_Radar']
 draft: false
 summary: 'This article explores how Quantum Radar technology is revolutionizing non-invasive subsurface mapping in the construction industry, offering unparalleled precision and accuracy in subsurface detections that enhance safety and reduce costs.'
+
+images: ['https://www.contechnews.com/articleimage/quantum_tech_applications/quantum_radar_for_non-invasive_subsurface_mapping_in_construction.webp']
 ---
 
 # Introduction

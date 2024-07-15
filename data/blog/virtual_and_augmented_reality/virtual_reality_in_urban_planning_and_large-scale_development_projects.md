@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['virtual_reality', 'urban_planning', 'construction_technology', 'large_scale_developments', 'future_trends']
 draft: true
 summary: 'A comprehensive delve into the intersection of Virtual Reality (VR) and largescale urban planning with a step by step breakdown of how VR could revolutionalize urban development projects.'
+
+images: ['https://www.contechnews.com/articleimage/virtual_and_augmented_reality/virtual_reality_in_urban_planning_and_large-scale_development_projects.webp']
 ---
 
 # Introduction

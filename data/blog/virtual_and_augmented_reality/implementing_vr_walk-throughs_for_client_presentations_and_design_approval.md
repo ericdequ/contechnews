@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Construction_Technology', 'Virtual_Reality', 'Design_Approval', 'Client_Presentation', 'VR_Walk-throughs']
 draft: true
 summary: 'This tutorial provides an in-depth guide to implementing VR walk-throughs for client presentations and design approval. It covers the basic steps required to set up a VR walk-through, practical examples, best practices, and possible challenges professional may encounter. All aimed to help improve the overall client engagement and approval process for construction and design companies.'
+
+images: ['https://www.contechnews.com/articleimage/virtual_and_augmented_reality/implementing_vr_walk-throughs_for_client_presentations_and_design_approval.webp']
 ---
 
 # Implementing VR Walk-throughs for Client Presentations and Design Approval

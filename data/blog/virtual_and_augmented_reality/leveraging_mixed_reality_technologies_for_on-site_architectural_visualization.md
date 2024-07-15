@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Mixed Reality', 'Architecture', 'Construction Technology', 'Virtual Reality', 'Augmented Reality']
 draft: true
 summary: 'This tutorial-style post explores the astonishing potential of Mixed Reality Technologies and their applications in architectural visualization, including practical examples, best practices, and potential challenges that may occur.'
+
+images: ['https://www.contechnews.com/articleimage/virtual_and_augmented_reality/leveraging_mixed_reality_technologies_for_on-site_architectural_visualization.webp']
 ---
 
 # Introduction

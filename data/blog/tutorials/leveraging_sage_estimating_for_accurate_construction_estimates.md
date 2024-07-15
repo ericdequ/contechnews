@@ -5,6 +5,8 @@ date: '2023-06-22'
 tags: ['Construction', 'Software', 'Sage Estimating']
 draft: false
 summary: 'Learn how to harness the power of Sage Estimating to produce precise, efficient, and reliable construction estimates that can elevate your project planning and execution.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/leveraging_sage_estimating_for_accurate_construction_estimates.webp']
 ---
 
 # Leveraging Sage Estimating for Accurate Construction Estimates

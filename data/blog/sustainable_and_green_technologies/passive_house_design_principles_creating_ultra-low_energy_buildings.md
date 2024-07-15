@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Passive House', 'Sustainable Design', 'Green Technologies', 'Construction Technology', 'Ultra-Low Energy Buildings']
 draft: true
 summary: 'In this detailed tutorial, we'll explore the principles and strategies behind the design of Passive Houses — a concept leading the sustainability drive in the construction industry. We'll delve into practical step-by-step strategies, present examples, highlight best practices, and discuss potential challenges in achieving these ultra-low energy buildings.'
+
+images: ['https://www.contechnews.com/articleimage/sustainable_and_green_technologies/passive_house_design_principles_creating_ultra-low_energy_buildings.webp']
 ---
 
 # **1. Introduction**

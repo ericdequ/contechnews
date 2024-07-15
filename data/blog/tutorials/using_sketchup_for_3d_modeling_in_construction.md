@@ -5,6 +5,8 @@ date: '2024-1-27'
 tags: ['3D Modeling', 'Construction', 'SketchUp']
 draft: false
 summary: 'Explore how SketchUp revolutionizes 3D modeling in construction with step-by-step tutorials and best practices.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/using_sketchup_for_3d_modeling_in_construction.webp']
 ---
 
 # Using SketchUp for 3D Modeling in Construction

@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Internet_of_Things', 'prefabrication', 'modular_construction', 'Smart_Technology', 'Industry_4.0']
 draft: true
 summary: 'This article takes a deep dive into the integration of Internet of Things (IoT) technology with prefabricated modular building units, commonly known as smart connected prefab. Learn about how this convergence enhances efficiency, sustainability, and overall living experience in the built environment.'
+
+images: ['https://www.contechnews.com/articleimage/prefabrication_and_modular_construction/smart_connected_prefab_iot_integration_in_modular_building_units.webp']
 ---
 
 # Introduction

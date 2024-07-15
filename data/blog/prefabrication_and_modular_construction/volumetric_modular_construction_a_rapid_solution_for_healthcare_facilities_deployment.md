@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['volumetric_modular_construction', 'prefabrication', 'rapid_deployment', 'healthcare_facilities', 'construction_technology']
 draft: true
 summary: 'This analysis delves into the application and potential of Volumetric Modular Construction for the swift setup of healthcare facilities. It covers the advancement in construction technology that enables rapid deployment, practical examples, best practices to follow, and challenges to anticipate.'
+
+images: ['https://www.contechnews.com/articleimage/prefabrication_and_modular_construction/volumetric_modular_construction_a_rapid_solution_for_healthcare_facilities_deployment.webp']
 ---
 
 # Introduction

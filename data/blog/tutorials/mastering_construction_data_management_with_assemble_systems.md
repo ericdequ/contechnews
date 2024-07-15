@@ -5,6 +5,8 @@ date: '2023-11-05'
 tags: ['Construction', 'Data Management', 'Assemble Systems']
 draft: false
 summary: 'Unlock the power of Assemble Systems for efficient and effective construction data management with this in-depth tutorial and best practices guide.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_construction_data_management_with_assemble_systems.webp']
 ---
 
 # Mastering Construction Data Management with Assemble Systems

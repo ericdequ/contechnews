@@ -5,6 +5,8 @@ date: '2023-10-11'
 tags: ['Projectmates', 'Construction Management', 'Tutorial', 'Best Practices']
 draft: false
 summary: 'Unlock the full potential of Projectmates for seamless, efficient construction program management with our detailed guide and best practices.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_projectmates_your_ultimate_guide_to_construction_program_management.webp']
 ---
 
 # Mastering Projectmates: Your Ultimate Guide to Construction Program Management

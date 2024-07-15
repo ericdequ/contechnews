@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Quantum Computing', 'Structural Analysis', 'Optimization', 'Construction Technology', 'Quantum Tech Applications']
 draft: true
 summary: 'An in-depth exploration into how quantum computing is paving the way for enhanced structural analysis and optimization in the construction industry.'
+
+images: ['https://www.contechnews.com/articleimage/quantum_tech_applications/revolutionizing_structural_analysis_and_optimization_with_quantum_computing.webp']
 ---
 
 # Introduction

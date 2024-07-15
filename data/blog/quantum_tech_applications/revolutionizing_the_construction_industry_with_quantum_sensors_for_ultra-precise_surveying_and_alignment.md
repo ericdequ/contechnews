@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Quantum_Technology', 'Construction_Tech', 'Advanced_Surveying', 'Precision_Alignment', 'Innovation']
 draft: true
 summary: 'Exploration of quantum sensors technology and its transformative potential in bringing ultra-precision to construction surveying and alignment. Overview of basic principles behind quantum sensors and how they are being implemented in the field.'
+
+images: ['https://www.contechnews.com/articleimage/quantum_tech_applications/revolutionizing_the_construction_industry_with_quantum_sensors_for_ultra-precise_surveying_and_alignment.webp']
 ---
 
 # Introduction

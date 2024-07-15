@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['construction', 'robotics', 'automation', 'bricklayers', 'construction technology']
 draft: true
 summary: 'This detailed guide focuses on the implementation of autonomous robotic bricklayers in the construction industry. It outlines the step-by-step process, best practices, practical examples, potential challenges, and future implications of this technology.'
+
+images: ['https://www.contechnews.com/articleimage/robotics_and_automation/implementing_autonomous_robotic_bricklayers_on_construction_sites_a_comprehensive_guide.webp']
 ---
 
 # Introduction

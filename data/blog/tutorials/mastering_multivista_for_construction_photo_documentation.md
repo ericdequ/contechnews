@@ -5,6 +5,8 @@ date: '2023-06-13'
 tags: ['Construction', 'Photo Documentation', 'Software']
 draft: false
 summary: 'Discover the powerful tools and best practices for using Multivista to enhance construction projects through comprehensive photo documentation.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_multivista_for_construction_photo_documentation.webp']
 ---
 
 ## Introduction

@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['construction_tech', 'robotics', 'automation', 'cobots', 'AI']
 draft: true
 summary: 'Explore how Collaborative Robots (Cobots) are revolutionizing the industry by fostering human-machine teamwork in construction. The article provides a step-by-step tutorial on their implementation, best practices, examples, and potential challenges.'
+
+images: ['https://www.contechnews.com/articleimage/robotics_and_automation/implementing_collaborative_robots_cobots_for_human-machine_teamwork_in_construction.webp']
 ---
 
 # Step 1: Understanding Cobots and Their Relevance

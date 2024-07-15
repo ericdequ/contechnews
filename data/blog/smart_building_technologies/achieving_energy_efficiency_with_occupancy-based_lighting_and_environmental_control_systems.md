@@ -5,6 +5,8 @@ date: '2024-07-15'
 tags: ['Smart Building Technologies', 'Building Automation', 'Green Construction', 'Integrated Systems', 'IoT']
 draft: true
 summary: 'An in-depth guide on how Occupancy-Based Lighting and Environmental Control Systems dramatically improve the energy efficiency and trim down utility costs of buildings, encompassing the rationale behind these systems, practical installation steps, best practices and potential challenges.'
+
+images: ['https://www.contechnews.com/articleimage/smart_building_technologies/achieving_energy_efficiency_with_occupancy-based_lighting_and_environmental_control_systems.webp']
 ---
 
 # Introduction

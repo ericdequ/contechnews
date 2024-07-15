@@ -5,6 +5,8 @@ date: '2024-05-15'
 tags: ['Construction', 'Software', 'Quantity Surveying']
 draft: false
 summary: 'Unlock the full potential of On-Screen Takeoff software with this comprehensive guide. From initial setup to advanced techniques, we cover everything you need to streamline your construction quantity surveying process.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_on_screen_takeoff_for_construction_quantity_surveying.webp']
 ---
 
 # Mastering On-Screen Takeoff for Construction Quantity Surveying

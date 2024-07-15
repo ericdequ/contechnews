@@ -6,7 +6,7 @@ tags: ['Government Contracting', 'Compliance', 'Cybersecurity', 'Blog Review']
 draft: false
 summary: 'A comprehensive review of the Gov Con blog, highlighting its practical advice and insights for government contractors.'
 
-images: ['https://www.govcon.me/logoo.webp']
+images: ['https://www.govcon.me/logoo.webp', 'https://www.contechnews.com/articleimage/Reviews/GovCon.webp']
 ---
 
 ## 🌟 Gov Con Blog: Your Go-To Resource for Government Contracting

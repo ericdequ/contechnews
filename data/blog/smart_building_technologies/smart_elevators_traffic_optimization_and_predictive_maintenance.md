@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['smart_building_technologies', 'smart_elevators', 'traffic_optimization', 'predictive_maintenance', 'IoT']
 draft: true
 summary: 'This powerful article will navigate you through the ins and outs of Smart Elevators; focusing mainly on traffic optimization and predictive maintenance. We will delve into the mechanisms behind these modern marvels, discussing practical examples, best practices, and the challenges faced in implementing these systems.'
+
+images: ['https://www.contechnews.com/articleimage/smart_building_technologies/smart_elevators_traffic_optimization_and_predictive_maintenance.webp']
 ---
 
 # Introduction

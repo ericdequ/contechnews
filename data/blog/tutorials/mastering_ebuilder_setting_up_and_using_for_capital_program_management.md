@@ -5,6 +5,8 @@ date: '2023-07-10'
 tags: ['eBuilder', 'Capital Program Management', 'Tutorial']
 draft: false
 summary: 'Unlock the full potential of eBuilder with our step-by-step guide to setting up and managing your capital programs efficiently.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_ebuilder_setting_up_and_using_for_capital_program_management.webp']
 ---
 
 # Mastering eBuilder: Setting Up and Using for Capital Program Management

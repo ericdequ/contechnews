@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['prefabrication', 'high-rise building', 'modular construction', 'construction technology', 'building design']
 draft: true
 summary: 'This article outlines the advanced prefabrication techniques used in high-rise building construction. It discusses in-depth how these techniques are making the construction of taller structures more feasible while maintaining industry critique standards.'
+
+images: ['https://www.contechnews.com/articleimage/prefabrication_and_modular_construction/advanced_prefabrication_techniques_for_high-rise_building_construction.webp']
 ---
 
 # Introduction

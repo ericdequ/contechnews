@@ -5,6 +5,8 @@ date: '2023-09-17'
 tags: ['Autodesk Navisworks', 'Construction', 'Clash Detection']
 draft: false
 summary: 'Explore how Autodesk Navisworks revolutionizes clash detection in construction with detailed tutorials, best practices, and expert tips.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/leveraging_autodesk_navisworks_for_clash_detection_in_construction.webp']
 ---
 
 ## Introduction

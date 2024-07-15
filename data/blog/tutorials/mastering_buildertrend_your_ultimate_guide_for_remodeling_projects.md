@@ -5,6 +5,8 @@ date: '2024-03-30'
 tags: ['Project Management', 'Buildertrend', 'Remodeling']
 draft: false
 summary: 'Unlock the full potential of Buildertrend for managing your remodeling projects efficiently and effectively with our comprehensive tutorial.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_buildertrend_your_ultimate_guide_for_remodeling_projects.webp']
 ---
 
 # Mastering Buildertrend: Your Ultimate Guide for Remodeling Projects

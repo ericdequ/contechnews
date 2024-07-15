@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['drone_technology', 'construction_tech', 'automation', 'robotics', 'site_inspection']
 draft: true
 summary: 'Dive into the advanced world of deploying drone swarms for automated site inspection and progress monitoring. This post provides a comprehensive guide for understanding the blend of drone technology with construction automation, its practical applications, benefits, challenges, and future trends.'
+
+images: ['https://www.contechnews.com/articleimage/robotics_and_automation/deploying_drone_swarms_for_automated_construction_site_inspection__progress_monitoring.webp']
 ---
 
 # Introduction

@@ -5,6 +5,8 @@ date: '2024-07-15'
 tags: ['Smart Building Technologies', 'IoT Sensors', 'Building Performance', 'IoT Networks', 'Construction Technology']
 draft: true
 summary: 'Explore how to implement IoT Sensor Networks for comprehensive building performance monitoring. This tutorial presents a step-by-step guide on using IoT sensor technology to create smart building solutions that generate data for better decision making and operational efficiency.'
+
+images: ['https://www.contechnews.com/articleimage/smart_building_technologies/implementing_iot_sensor_networks_for_comprehensive_building_performance_monitoring.webp']
 ---
 
 # Overview

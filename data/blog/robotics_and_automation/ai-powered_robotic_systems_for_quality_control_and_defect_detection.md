@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['AI', 'Robotics', 'Quality Control', 'Defect Detection', 'Construction Technology']
 draft: true
 summary: 'A comprehensive dive into AI-Powered Robotic systems for quality control and defect detection in Construction Technology, exploring steps for implementation, best practices, examples, and potential challenges.'
+
+images: ['https://www.contechnews.com/articleimage/robotics_and_automation/ai-powered_robotic_systems_for_quality_control_and_defect_detection.webp']
 ---
 
 # Introduction

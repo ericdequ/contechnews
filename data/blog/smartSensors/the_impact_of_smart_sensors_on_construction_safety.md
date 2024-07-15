@@ -5,6 +5,8 @@ date: "2024-05-21"
 tags: ['Construction Technology', 'Smart Sensors', 'Safety', 'HoloBuilder', 'Triax Technologies', 'Real-time Monitoring', 'Construction Site Safety']
 draft: false
 summary: "Explore how smart sensor technology from HoloBuilder and Triax Technologies is revolutionizing construction safety through real-time monitoring of environmental conditions, equipment usage, and worker movements."
+
+images: ['https://www.contechnews.com/articleimage/smartSensors/the_impact_of_smart_sensors_on_construction_safety.webp']
 ---
 
 # The Impact of Smart Sensors on Construction Safety

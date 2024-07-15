@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['construction technology', 'augmented reality', 'prefabricated construction', 'AR assemblage', 'future trends']
 draft: true
 summary: 'An in-depth guide and analysis shedding light on the profound benefits of utilizing AR-assisted assembly instructions in prefabricated construction. Explore the step-by-step process, benefits, potential challenges, and current industry best practices.'
+
+images: ['https://www.contechnews.com/articleimage/virtual_and_augmented_reality/optimizing_prefabricated_construction_using_ar-assisted_assembly_instructions.webp']
 ---
 
 # Optimizing Prefabricated Construction using AR-Assisted Assembly Instructions

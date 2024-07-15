@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Prefabrication', 'Modular_Construction', 'Future_Trends', 'Building_Systems', 'Reconfiguration']
 draft: true
 summary: 'This post delves into the revolutionary paradigm of adaptable and reconfigurable modular building systems, aiding constructors in enhancing flexibility and future-proofing their projects. Empower yourself with knowledge of the concept, components, benefits, practical examples, and emerging challenges in this progressive landscape.'
+
+images: ['https://www.contechnews.com/articleimage/prefabrication_and_modular_construction/adaptable_and_reconfigurable_modular_building_systems_paving_the_future_of_construction_flexibility.webp']
 ---
 
 # Introduction

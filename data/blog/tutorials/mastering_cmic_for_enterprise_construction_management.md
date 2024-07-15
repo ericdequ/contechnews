@@ -5,6 +5,8 @@ date: '2024-03-16'
 tags: ['CMiC', 'Construction Management', 'Enterprise Software']
 draft: false
 summary: 'Unlock the full potential of CMiC for seamless and efficient construction management with our comprehensive tutorial and best practices.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_cmic_for_enterprise_construction_management.webp']
 ---
 
 # Mastering CMiC for Enterprise Construction Management

@@ -5,6 +5,8 @@ date: '2024-01-12'
 tags: ['Construction', 'Software', 'Plangrid Build']
 draft: false
 summary: 'Learn the ins and outs of Plangrid Build to streamline your on-site construction management processes.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_plangrid_build_for_on_site_construction_management.webp']
 ---
 
 ## Introduction

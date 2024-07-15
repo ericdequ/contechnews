@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Nanotechnology', 'Construction Technology', 'Smart Buildings', 'Air Purification', 'Green Technology']
 draft: true
 summary: 'This article explores the increasingly prevalent application of nanotech air purification systems in smart buildings - a breakthrough in construction technology that champions both health and environmental sustainability.'
+
+images: ['https://www.contechnews.com/articleimage/nanotechnology_in_construction/nanotech_air_purification_systems_in_smart_buildings_a_revolution_in_construction_technology.webp']
 ---
 
 # The Emergence of Nanotech Air Purification Systems in Smart Buildings

@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Construction Technology', 'Prefabrication', 'Modular Construction', 'Logistics', 'Transportation']
 draft: true
 summary: 'A thorough analysis of the logistical challenges and technological solutions involved in transporting large prefabricated components for modular construction.'
+
+images: ['https://www.contechnews.com/articleimage/prefabrication_and_modular_construction/logistical_challenges_and_solutions_in_transporting_large_prefab_components.webp']
 ---
 
 # Introduction

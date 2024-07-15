@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['sustainable_and_green_technologies', 'rainwater_harvesting', 'greywater_recycling', 'water_conservation', 'construction_technology']
 draft: true
 summary: 'An in-depth tutorial and analysis on the advanced methods of rainwater harvesting and greywater recycling systems. This guide provides practical examples, best practices, and potential challenges in implementing these sustainable and green technologies.'
+
+images: ['https://www.contechnews.com/articleimage/sustainable_and_green_technologies/sustainable_tech_advanced_rainwater_harvesting_and_greywater_recycling_systems.webp']
 ---
 
 # Introduction

@@ -5,6 +5,8 @@ date: '2024-05-13'
 tags: ['Construction', 'Tekla Structures', 'Modeling']
 draft: false
 summary: 'Unlock the full potential of Tekla Structures for precision construction modeling with this comprehensive guide.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_tekla_structures_for_detailed_construction_modeling.webp']
 ---
 
 # Mastering Tekla Structures for Detailed Construction Modeling

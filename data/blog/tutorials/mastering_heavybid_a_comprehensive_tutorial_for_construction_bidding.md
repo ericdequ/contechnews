@@ -5,6 +5,8 @@ date: '2024-01-21'
 tags: ['Construction', 'Software', 'Tutorial']
 draft: false
 summary: 'Unlock the full potential of HeavyBid with our in-depth tutorial that covers everything from installation to advanced bidding strategies for construction projects.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_heavybid_a_comprehensive_tutorial_for_construction_bidding.webp']
 ---
 
 # Mastering HeavyBid: A Comprehensive Tutorial for Construction Bidding

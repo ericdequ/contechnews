@@ -5,6 +5,8 @@ date: '2023-12-23'
 tags: ['ERP', 'Construction', 'Viewpoint Vista', 'Software Setup']
 draft: false
 summary: 'Dive into the world of construction ERP with our in-depth tutorial on setting up and utilizing Viewpoint Vista. Learn best practices, from installation to optimization, for a seamless project management experience.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_viewpoint_vista_a_guide_to_construction_erp_excellence.webp']
 ---
 
 # Mastering Viewpoint Vista: A Guide to Construction ERP Excellence

@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['smart_grid', 'net-zero_energy', 'sustainable_construction', 'green_technology', 'energy_efficiency']
 draft: true
 summary: 'Understanding how to successfully integrate smart grids into net-zero energy buildings is a vital step towards achieving sustainability in the construction industry. This tutorial is designed to provide in-depth steps and analyses of this process, covering practical examples, best practices, and potential challenges.'
+
+images: ['https://www.contechnews.com/articleimage/sustainable_and_green_technologies/smart_grid_integration_for_net-zero_energy_buildings_a_comprehensive_guide.webp']
 ---
 
 # Introduction

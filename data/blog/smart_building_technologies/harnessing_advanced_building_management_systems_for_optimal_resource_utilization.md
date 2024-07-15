@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['smart_building_technologies', 'advanced_BMS', 'resource_utilization', 'optimization', 'future_trends']
 draft: true
 summary: 'Explore the capabilities of advanced building management systems (BMS) in achieving optimal resource utilization. Learn the best practices, the practical examples, and the potential challenges encountered in implementing and managing these systems. Understand the future trends these technologies are moving towards.'
+
+images: ['https://www.contechnews.com/articleimage/smart_building_technologies/harnessing_advanced_building_management_systems_for_optimal_resource_utilization.webp']
 ---
 
 # Introduction 

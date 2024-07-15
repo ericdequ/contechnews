@@ -5,6 +5,8 @@ date: '2023-12-17'
 tags: ['Construction', 'Project Management', 'Software']
 draft: false
 summary: 'Unlock the full potential of RedTeam software to streamline your construction project execution from planning to completion.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_redteam_for_construction_project_execution.webp']
 ---
 
 # Mastering RedTeam for Construction Project Execution

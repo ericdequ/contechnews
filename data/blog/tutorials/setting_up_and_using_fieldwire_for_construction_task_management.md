@@ -5,6 +5,8 @@ date: '2024-1-27'
 tags: ['Construction', 'Project Management', 'Software']
 draft: false
 summary: 'Master Fieldwire for seamless construction task management with our detailed setup guide and best practices.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/setting_up_and_using_fieldwire_for_construction_task_management.webp']
 ---
 
 # Setting Up and Using Fieldwire for Construction Task Management

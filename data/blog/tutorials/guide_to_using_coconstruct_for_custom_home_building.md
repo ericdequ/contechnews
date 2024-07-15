@@ -5,6 +5,8 @@ date: '2023-04-13'
 tags: ['Construction', 'Project Management', 'Software']
 draft: false
 summary: 'Master the tools and techniques for using CoConstruct efficiently in your custom home building projects.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/guide_to_using_coconstruct_for_custom_home_building.webp']
 ---
 
 # Guide to Using CoConstruct for Custom Home Building

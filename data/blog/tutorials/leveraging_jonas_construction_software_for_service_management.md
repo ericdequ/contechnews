@@ -5,6 +5,8 @@ date: '2023-07-26'
 tags: ['Construction', 'Service Management', 'Software']
 draft: false
 summary: 'Explore how to effectively utilize Jonas Construction Software to optimize service management for your construction business with this comprehensive guide.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/leveraging_jonas_construction_software_for_service_management.webp']
 ---
 
 # Leveraging Jonas Construction Software for Service Management

@@ -5,6 +5,8 @@ date: '2024-01-09'
 tags: ['Construction', 'Simulation', 'Visualization', 'Software']
 draft: false
 summary: 'Unlock the power of Fuzor to transform your construction project management through advanced visualization and simulation techniques.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/leveraging_fuzor_for_construction_visualization_and_simulation.webp']
 ---
 
 # Leveraging Fuzor for Construction Visualization and Simulation

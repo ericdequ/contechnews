@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Prefabrication', 'Quality Control', 'Modular Construction', 'Construction Technology', 'Smart Manufacturing']
 draft: true
 summary: 'In this in-depth analysis and tutorial, we delve into quality control systems in prefabrication plants to ensure precision and consistency. We explore practical examples, best practices, potential challenges, and the future trends.'
+
+images: ['https://www.contechnews.com/articleimage/prefabrication_and_modular_construction/quality_control_systems_in_prefabrication_plants_ensuring_precision_and_consistency.webp']
 ---
 
 # Introduction

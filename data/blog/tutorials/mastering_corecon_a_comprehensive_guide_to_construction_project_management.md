@@ -5,6 +5,8 @@ date: '2023-05-05'
 tags: ['Construction', 'Project Management', 'Corecon']
 draft: false
 summary: 'Dive into the ultimate tutorial on using Corecon for effective construction project management, with detailed steps and best practices.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_corecon_a_comprehensive_guide_to_construction_project_management.webp']
 ---
 
 # Mastering Corecon: A Comprehensive Guide to Construction Project Management

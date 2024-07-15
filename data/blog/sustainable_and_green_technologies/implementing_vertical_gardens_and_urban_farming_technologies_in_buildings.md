@@ -5,6 +5,8 @@ date: '2024-07-15'
 tags: ['Urban Farming', 'Vertical Gardens', 'Sustainability', 'Green Technologies', 'Construction']
 draft: true
 summary: 'In this article, we'll walkthrough the process of implementing vertical gardens and urban farming technologies in your building projects, discuss the benefits these methodologies bring and the challenges you might face.'
+
+images: ['https://www.contechnews.com/articleimage/sustainable_and_green_technologies/implementing_vertical_gardens_and_urban_farming_technologies_in_buildings.webp']
 ---
 
 # Introduction

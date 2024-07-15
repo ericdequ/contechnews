@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['BIPV', 'sustainable architecture', 'green technologies', 'construction technology', 'modern architecture']
 draft: true
 summary: 'A detailed tutorial showcasing how to integrate Building-Integrated Photovoltaics (BIPV) within modern architecture with practical examples, expert insights on best practices and insights into potential challenges.'
+
+images: ['https://www.contechnews.com/articleimage/sustainable_and_green_technologies/implementing_building-integrated_photovoltaics_bipv_in_modern_architecture.webp']
 ---
 
 # Introduction

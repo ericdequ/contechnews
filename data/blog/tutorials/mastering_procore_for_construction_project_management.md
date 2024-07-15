@@ -5,6 +5,8 @@ date: '2024-5-27'
 tags: ['Construction', 'Project Management', 'Procore', 'Tutorial']
 draft: false
 summary: 'Unlock the full potential of Procore for streamlined construction project management with our comprehensive guide.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_procore_for_construction_project_management.webp']
 ---
 
 # Mastering Procore for Construction Project Management

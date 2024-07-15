@@ -5,6 +5,8 @@ date: '2024-2-27'
 tags: ['Construction', 'Tool Tracking', 'Hilti ON!Track']
 draft: false
 summary: 'Dive into the world of efficient tool tracking with Hilti ON!Track. Learn best practices, advanced tutorials, and tips to streamline construction site management.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_tool_tracking_with_hilti_ontrack.webp']
 ---
 
 # Mastering Tool Tracking with Hilti ON!Track

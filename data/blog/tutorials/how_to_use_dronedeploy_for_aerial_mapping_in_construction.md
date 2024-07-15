@@ -5,6 +5,8 @@ date: '2023-11-29'
 tags: ['Drones', 'Construction', 'Aerial Mapping', 'Technology']
 draft: false
 summary: 'Unlock the potential of DroneDeploy for efficient and detailed aerial mapping in construction projects.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/how_to_use_dronedeploy_for_aerial_mapping_in_construction.webp']
 ---
 
 ## How to Use DroneDeploy for Aerial Mapping in Construction

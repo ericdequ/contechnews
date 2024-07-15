@@ -5,6 +5,8 @@ date: '2023-09-05'
 tags: ['Synchro', '4D Scheduling', 'Construction Technology']
 draft: false
 summary: 'Dive into the advanced world of Synchro for 4D construction scheduling. Learn best practices, features, and step-by-step tutorials to supercharge your project planning.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_synchro_the_ultimate_guide_to_4d_construction_scheduling.webp']
 ---
 
 ## Introduction

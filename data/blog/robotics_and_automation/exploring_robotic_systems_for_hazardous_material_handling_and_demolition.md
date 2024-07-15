@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Robotics', 'Automation', 'Construction Technology', 'Hazardous Material Handling', 'Demolition']
 draft: true
 summary: 'Discover the increasingly important role of robotic systems in hazardous material handling and demolition. This article delves into the applications, implementation tutorials, best practices, and potential challenges associated with using these sophisticated technologies in the construction industry.'
+
+images: ['https://www.contechnews.com/articleimage/robotics_and_automation/exploring_robotic_systems_for_hazardous_material_handling_and_demolition.webp']
 ---
 
 # Introduction

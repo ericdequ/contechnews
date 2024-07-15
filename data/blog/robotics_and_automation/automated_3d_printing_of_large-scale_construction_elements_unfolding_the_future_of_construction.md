@@ -5,6 +5,8 @@ date: '2024-07-15'
 tags: ['3d_printing', 'construction_technology', 'large_scale', 'automation', 'robotics']
 draft: true
 summary: 'A comprehensive guide to the latest trends and technologies in automated 3D printing for large-scale construction. This tutorial provides a step-by-step walkthrough of the process, offering best practices, challenges faced, and a glimpse into the future of automated construction.'
+
+images: ['https://www.contechnews.com/articleimage/robotics_and_automation/automated_3d_printing_of_large-scale_construction_elements_unfolding_the_future_of_construction.webp']
 ---
 
 # Introduction

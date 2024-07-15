@@ -6,6 +6,8 @@ tags: ['Nanotechnology', 'Construction', 'Low-maintenance', 'Self-cleaning', 'Na
 draft: true
 summary: 'Discover the emerging applications of self-cleaning nanomaterials in the construction industry, their benefits, as well as considerations for future developments.'
 
+
+images: ['https://www.contechnews.com/articleimage/nanotechnology_in_construction/revolutionizing_construction_with_self-cleaning_nanomaterials_for_low-maintenance_buildings.webp']
 ---
 
 # Revolutionizing Construction with Self-Cleaning Nanomaterials for Low-Maintenance Buildings

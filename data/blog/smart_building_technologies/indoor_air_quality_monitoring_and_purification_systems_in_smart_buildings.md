@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Smart Buildings', 'Indoor Air Quality', 'Purification Systems', 'IoT', 'Health & Safety']
 draft: true
 summary: 'This post provides a detailed exploration and step-by-step guide to Indoor Air Quality (IAQ) monitoring and purification systems within smart buildings. We explore their functions, benefits, challenges, and provide practical examples on how to implement and manage these solutions effectively.'
+
+images: ['https://www.contechnews.com/articleimage/smart_building_technologies/indoor_air_quality_monitoring_and_purification_systems_in_smart_buildings.webp']
 ---
 
 # Introduction

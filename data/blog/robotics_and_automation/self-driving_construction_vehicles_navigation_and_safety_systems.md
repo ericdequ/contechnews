@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Construction Technology', 'Robotics and Automation', 'Vehicle Navigation', 'Safety Systems', 'AI in Construction']
 draft: true
 summary: 'A deep-dive into the role of navigation and safety systems in self-driving construction vehicles, their functioning, their usage implications on real-world construction sites and potential challenges faced in their integration.'
+
+images: ['https://www.contechnews.com/articleimage/robotics_and_automation/self-driving_construction_vehicles_navigation_and_safety_systems.webp']
 ---
 
 # Self-Driving Construction Vehicles: Navigation and Safety Systems

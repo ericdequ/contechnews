@@ -5,6 +5,8 @@ date: '2024-07-15'
 tags: ['Smart Buildings', 'HVAC', 'AI', 'Energy Efficiency', 'Climate Control']
 draft: true
 summary: 'Explore hoe AI-driven Smart HVAC systems are revolutionizing climate control in buildings, enhancing comfort levels and energy efficiency. In this in-depth analysis, we walk through the components of smart HVAC systems, the benefits, challenges, best practices, and future trends.'
+
+images: ['https://www.contechnews.com/articleimage/smart_building_technologies/smart_hvac_systems_ai-driven_climate_control_and_energy_efficiency.webp']
 ---
 
 # Introduction

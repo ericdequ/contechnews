@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Construction_Technology', 'Green_Technology', 'Biogas', 'Waste_Management', 'Sustainable_Energy']
 draft: true
 summary: 'Analyzing an ecologically innovative approach to managing waste from construction and demolition activities using biogas technology. This article provides a detailed step-by-step tutorial and deep dive into the processes involved, practical applications, and potential challenges.'
+
+images: ['https://www.contechnews.com/articleimage/sustainable_and_green_technologies/generating_biogas_from_construction_and_demolition_waste_an_innovative_approach_to_sustainability.webp']
 ---
 
 # Introduction

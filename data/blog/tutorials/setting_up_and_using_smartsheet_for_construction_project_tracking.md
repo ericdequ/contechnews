@@ -5,6 +5,8 @@ date: '2024-04-08'
 tags: ['Smartsheet', 'Construction Project Management', 'Project Tracking']
 draft: false
 summary: 'Discover how to effectively set up and utilize Smartsheet for tracking construction projects, ensuring on-time delivery, and streamlined communication among stakeholders.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/setting_up_and_using_smartsheet_for_construction_project_tracking.webp']
 ---
 
 ## Setting Up and Using Smartsheet for Construction Project Tracking

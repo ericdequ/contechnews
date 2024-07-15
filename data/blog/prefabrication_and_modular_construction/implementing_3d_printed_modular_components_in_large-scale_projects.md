@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Prefabrication_and_Modular_Construction', '3D_Printing', 'Construction_Technology', 'Large_Scale_Projects', 'Modular_Components']
 draft: true
 summary: 'This in-depth guide provides insights into the implementation of 3D printed modular components in large scale construction projects, detailing the benefits, procedures, practical examples, and potential challenges within.'
+
+images: ['https://www.contechnews.com/articleimage/prefabrication_and_modular_construction/implementing_3d_printed_modular_components_in_large-scale_projects.webp']
 ---
 
 # Introduction

@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['smart_building_technologies', 'water_management', 'leak_detection', 'usage_optimization', 'sustainability']
 draft: true
 summary: 'An in-depth tutorial that delves into the intricacies of smart water management - specifically leak detection and usage optimization technologies. Learn how these advancements are revolutionizing the construction sector and creating smarter, more sustainable buildings.'
+
+images: ['https://www.contechnews.com/articleimage/smart_building_technologies/smart_water_management_leak_detection_and_usage_optimization_technologies.webp']
 ---
 
 # Smart Water Management: Leak Detection and Usage Optimization Technologies

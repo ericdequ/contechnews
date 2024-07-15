@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Lean Manufacturing', 'Off-Site Construction', 'Prefabrication', 'Modular Construction', 'Construction Technology']
 draft: true
 summary: 'This in-depth guide explores how lean manufacturing principles can be integrated into off-site construction facilities, particularly within the realm of prefabrication and modular construction. This article provides a comprehensive, step-by-step walkthrough that outlines the benefits of lean principles, real-life examples, best practices, and the potential challenges that could emerge in such implementation.'
+
+images: ['https://www.contechnews.com/articleimage/prefabrication_and_modular_construction/lean_manufacturing_principles_in_off-site_construction_facilities.webp']
 ---
 
 # Introduction

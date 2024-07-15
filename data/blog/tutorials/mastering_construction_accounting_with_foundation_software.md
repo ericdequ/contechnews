@@ -5,6 +5,8 @@ date: '2023-02-16'
 tags: ['Construction Accounting', 'Foundation Software', 'Tutorial']
 draft: false
 summary: 'Dive deep into setting up and optimizing Foundation Software for unparalleled construction accounting efficiency.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_construction_accounting_with_foundation_software.webp']
 ---
 
 # Mastering Construction Accounting with Foundation Software

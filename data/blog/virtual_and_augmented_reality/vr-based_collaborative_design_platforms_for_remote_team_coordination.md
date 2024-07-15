@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Virtual Reality', 'Collaborative Design', 'Remote Work', 'Team Coordination', 'Construction Technology']
 draft: true
 summary: 'An in-depth exploration and tutorial on using Virtual Reality (VR) based collaborative design platforms for efficient remote team coordination in the construction industry.'
+
+images: ['https://www.contechnews.com/articleimage/virtual_and_augmented_reality/vr-based_collaborative_design_platforms_for_remote_team_coordination.webp']
 ---
 
 # Introduction

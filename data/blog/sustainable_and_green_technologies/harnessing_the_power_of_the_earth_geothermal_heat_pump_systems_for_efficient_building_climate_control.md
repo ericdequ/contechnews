@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Geothermal Energy', 'Green Building', 'Sustainable Design', 'Climate Control', 'Energy Efficiency']
 draft: true
 summary: 'In this article, we delve deep into the workings of geothermal heat pump systems, highlighting how they contribute to efficient building climate control. It also includes a step-by-step guide on installation, best practices, and troubleshooting challenges.'
+
+images: ['https://www.contechnews.com/articleimage/sustainable_and_green_technologies/harnessing_the_power_of_the_earth_geothermal_heat_pump_systems_for_efficient_building_climate_control.webp']
 ---
 
 # Introduction

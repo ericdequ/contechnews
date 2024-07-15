@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['construction technology','augmented reality', 'project progress visualization', 'real-time reporting', 'emerging trends']
 draft: true
 summary: 'In this tutorial, we delve into the integration of augmented reality (AR) into the construction industry, specifically focusing on real-time project progress visualization. We shall provide a step-by-step guide of its use, demonstrations, and an analysis of the challenges and best practices.'
+
+images: ['https://www.contechnews.com/articleimage/virtual_and_augmented_reality/harnessing_augmented_reality_for_real-time_project_progress_visualization_in_construction.webp']
 ---
 
 # Introduction

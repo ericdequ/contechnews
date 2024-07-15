@@ -5,6 +5,8 @@ date: '2023-11-30'
 tags: ['Pype', 'AutoSpecs', 'Automation', 'Construction']
 draft: false
 summary: 'Master the automation of specification management with Pype AutoSpecs. This comprehensive guide walks you through tutorials and best practices for leveraging its power in construction projects.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/guide_to_using_pype_autospecs_for_automated_specification_management.webp']
 ---
 
 # Guide to Using Pype AutoSpecs for Automated Specification Management

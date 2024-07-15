@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Digital Twin', 'Building Operation', 'Simulations', 'Real-Time', 'Smart Building Technologies']
 draft: true
 summary: 'Learn about the transformative potential of Digital Twin technology in real-time building operations and simulations. This comprehensive guide helps you understand the intricacies involved in implementing this advanced technology in the field of Smart Building Technologies.'
+
+images: ['https://www.contechnews.com/articleimage/smart_building_technologies/digital_twin_technology_for_real-time_building_operations_and_simulations.webp']
 ---
 
 # Digital Twin Technology for Real-Time Building Operations and Simulations

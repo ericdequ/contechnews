@@ -5,6 +5,8 @@ date: '2023-03-02'
 tags: ['Construction Management', 'Software Integration', 'Dexter + Chaney']
 draft: false
 summary: 'Dive into the essentials of using Dexter + Chaney for a comprehensive and efficient approach to integrated construction management. From setup to best practices, weve got you covered!'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_integrated_construction_management_with_dexter_chaney.webp']
 ---
 
 # Mastering Integrated Construction Management with Dexter + Chaney

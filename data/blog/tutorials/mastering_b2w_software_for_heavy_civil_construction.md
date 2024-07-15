@@ -5,6 +5,8 @@ date: '2023-04-21'
 tags: ['B2W Software', 'Heavy Civil Construction', 'Technology', 'Tutorial']
 draft: false
 summary: 'Discover the comprehensive guide on setting up and effectively using B2W Software for heavy civil construction projects, optimizing workflows and enhancing productivity.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_b2w_software_for_heavy_civil_construction.webp']
 ---
 
 # Mastering B2W Software for Heavy Civil Construction

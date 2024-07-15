@@ -5,6 +5,8 @@ date: '2024-07-15'
 tags: ['BIM', 'fabrication', 'modular_construction', 'prefabrication', 'construction_technology']
 draft: true
 summary: 'An in-depth tutorial on implementing Building Information Modeling (BIM) to fabrication workflows for efficient and seamless modular construction. The article also discusses best practices, challenges, and practical examples for a comprehensive understanding.'
+
+images: ['https://www.contechnews.com/articleimage/prefabrication_and_modular_construction/bim-to-fabrication_workflows_for_seamless_modular_construction.webp']
 ---
 
 # Introduction 

@@ -5,6 +5,8 @@ date: '2023-04-22'
 tags: ['Construction', 'Document Management', 'Egnyte']
 draft: false
 summary: 'Master the art of construction document management with Egnyte through this comprehensive tutorial. Learn best practices and advanced techniques to optimize your workflow.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/streamlining_construction_document_management_with_egnyte.webp']
 ---
 
 # Streamlining Construction Document Management with Egnyte

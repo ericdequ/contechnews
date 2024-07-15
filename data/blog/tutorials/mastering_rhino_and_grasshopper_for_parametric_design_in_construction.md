@@ -5,6 +5,8 @@ date: '2024-3-27'
 tags: ['Rhino', 'Grasshopper', 'Parametric Design', 'Construction']
 draft: false
 summary: 'Dive into the world of parametric design with Rhino and Grasshopper. Learn how to harness the power of these tools for innovative construction projects.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_rhino_and_grasshopper_for_parametric_design_in_construction.webp']
 ---
 
 # Mastering Rhino and Grasshopper for Parametric Design in Construction

@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['virtual_and_augmented_reality', 'building_maintenance', 'facility_management', 'new_technologies', 'AR']
 draft: true
 summary: 'In the evolving landscape of technology-assisted building maintenance, Augmented Reality (AR) is rapidly advancing as a significant tool. This detailed tutorial provides insights into how AR can revolutionize facility management with a step-by-step guide to AR implementation, and an analysis of its potential difficulties and benefits.'
+
+images: ['https://www.contechnews.com/articleimage/virtual_and_augmented_reality/revolutionizing_building_maintenance_with_augmented_reality.webp']
 ---
 
 # Introduction

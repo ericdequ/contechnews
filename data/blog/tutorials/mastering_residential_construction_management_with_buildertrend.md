@@ -5,6 +5,8 @@ date: '2024-1-11'
 tags: ['Construction Management', 'Buildertrend', 'Software']
 draft: false
 summary: 'Unlock the full potential of Buildertrend to streamline and optimize residential construction management with this in-depth tutorial and best practices guide.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_residential_construction_management_with_buildertrend.webp']
 ---
 
 # Mastering Residential Construction Management with Buildertrend

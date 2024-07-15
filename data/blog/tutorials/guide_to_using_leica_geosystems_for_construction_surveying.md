@@ -5,6 +5,8 @@ date: '2024-5-27'
 tags: ['Geospatial', 'Construction', 'Leica Geosystems']
 draft: false
 summary: 'Unlock the potential of Leica Geosystems in construction surveying with this comprehensive guide. Dive into tutorials, best practices, and expert tips to optimize your workflow.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/guide_to_using_leica_geosystems_for_construction_surveying.webp']
 ---
 
 # Guide to Using Leica Geosystems for Construction Surveying

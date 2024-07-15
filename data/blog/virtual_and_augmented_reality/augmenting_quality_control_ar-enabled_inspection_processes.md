@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Augmented Reality', 'Quality Control', 'Construction Technology', 'Inspection', 'Future Trends']
 draft: true
 summary: 'A comprehensive walkthrough on how Augmented Reality (AR) boosts quality control and inspection processes in construction, replete with practical examples, cutting-edge best practices, and anticipated challenges.'
+
+images: ['https://www.contechnews.com/articleimage/virtual_and_augmented_reality/augmenting_quality_control_ar-enabled_inspection_processes.webp']
 ---
 
 # Augmenting Quality Control: AR-Enabled Inspection Processes

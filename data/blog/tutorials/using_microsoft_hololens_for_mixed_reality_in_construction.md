@@ -5,6 +5,8 @@ date: '2024-1-27'
 tags: ['Mixed Reality', 'Construction', 'Microsoft HoloLens']
 draft: false
 summary: 'Discover how Microsoft HoloLens can revolutionize the construction industry through mixed reality, from detailed tutorials to best practices.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/using_microsoft_hololens_for_mixed_reality_in_construction.webp']
 ---
 
 # Using Microsoft HoloLens for Mixed Reality in Construction

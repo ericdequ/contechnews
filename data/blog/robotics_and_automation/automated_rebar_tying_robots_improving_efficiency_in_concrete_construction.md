@@ -5,6 +5,8 @@ date: '2024-07-15'
 tags: ['Construction_Technology', 'Robotics', 'Automation', 'Rebar_Tying', 'Efficiency']
 draft: true
 summary: 'This tutorial will guide you through the concepts and practicalities of using automated rebar tying robots for improved efficiency in concrete construction, including best practices and potential challenges.'
+
+images: ['https://www.contechnews.com/articleimage/robotics_and_automation/automated_rebar_tying_robots_improving_efficiency_in_concrete_construction.webp']
 ---
 
 # Automated Rebar Tying Robots: Improving Efficiency in Concrete Construction

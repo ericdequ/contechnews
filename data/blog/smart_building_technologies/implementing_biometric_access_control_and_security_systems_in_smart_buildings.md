@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Biometric Technology', 'Access Control', 'Smart Buildings', 'Security Systems', 'Infrastructure Management']
 draft: true
 summary: 'This article explores the integration of biometric access control and security systems into smart buildings. The article also covers practical examples, best practices, and potential challenges associated with the deployment and use of this technology.'
+
+images: ['https://www.contechnews.com/articleimage/smart_building_technologies/implementing_biometric_access_control_and_security_systems_in_smart_buildings.webp']
 ---
 
 # Introduction

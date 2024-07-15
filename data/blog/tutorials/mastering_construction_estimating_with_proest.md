@@ -5,6 +5,8 @@ date: '2023-04-04'
 tags: ['Construction', 'Software', 'Estimating']
 draft: false
 summary: 'Unlock the full potential of ProEst for your construction projects with our comprehensive guide. Learn best practices, tips, and tricks for accurate and efficient estimating.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_construction_estimating_with_proest.webp']
 ---
 
 # Mastering Construction Estimating with ProEst

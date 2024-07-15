@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Quantum_Technology', 'Cryptography', 'Building_Management_Systems', 'Security', 'Innovation']
 draft: true
 summary: 'This article delves deep into the exciting world of Quantum Cryptography and its potential impact on enhancing the security of Building Management Systems (BMS). Highlighting advancements, challenges, and future scenarios that could be realized with the integration of quantum technologies within BMS.'
+
+images: ['https://www.contechnews.com/articleimage/quantum_tech_applications/quantum_cryptography_unlocking_secure_building_management_systems.webp']
 ---
 
 # Introduction

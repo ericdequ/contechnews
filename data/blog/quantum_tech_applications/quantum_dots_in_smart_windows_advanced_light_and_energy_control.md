@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['Quantum Tech', 'Construction Technology', 'Smart Windows', 'Energy Efficiency', 'Sustainable Building'] 
 draft: true
 summary: 'This article explores the integration of quantum dots in smart windows to enhance both light and energy control. We detail the advantages of this revolutionary technology, and its potential to steer the future of sustainable construction.'
+
+images: ['https://www.contechnews.com/articleimage/quantum_tech_applications/quantum_dots_in_smart_windows_advanced_light_and_energy_control.webp']
 --- 
 
 # Quantum Dots in Smart Windows: Advanced Light and Energy Control

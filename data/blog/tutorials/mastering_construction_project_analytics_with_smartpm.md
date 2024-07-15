@@ -5,6 +5,8 @@ date: '2023-09-29'
 tags: ['Construction', 'Project Management', 'Analytics']
 draft: false
 summary: 'Unlock the full potential of construction project analytics using SmartPM. Learn best practices, advanced features, and expert tips to streamline your project management processes.'
+
+images: ['https://www.contechnews.com/articleimage/tutorials/mastering_construction_project_analytics_with_smartpm.webp']
 ---
 
 # Mastering Construction Project Analytics with SmartPM

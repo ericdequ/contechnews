@@ -4,6 +4,8 @@ date: '2024-07-15'
 tags: ['robotics_and_automation', 'exoskeleton_technology', 'construction_tech', 'workplace_safety', 'future_trends']
 draft: true
 summary: 'This comprehensive post analyzes the cutting-edge role of exoskeleton technology in construction. Focused on enhancing worker physical capabilities and safety, the application of this robotics-based solution embodies the future of the construction industry.'
+
+images: ['https://www.contechnews.com/articleimage/robotics_and_automation/exoskeleton_technology_amplifying_worker_potential_and_ensuring_safety.webp']
 ---
 
 # Introduction to Exoskeleton Technology in Construction
