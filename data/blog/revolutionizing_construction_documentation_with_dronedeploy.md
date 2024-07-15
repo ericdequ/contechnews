@@ -5,6 +5,8 @@ date: '2023-07-24'
 tags: ['Construction Technology', 'DroneDeploy', 'Aerial Mapping', 'Site Surveys', 'Progress Tracking', 'Inspections']
 draft: true
 summary: 'Discover how DroneDeploys aerial mapping and drone technology are transforming construction documentation, offering precise site surveys, progress tracking, and detailed inspections from the sky.'
+
+images: ['https://www.contechnews.com/articleimage/./revolutionizing_construction_documentation_with_dronedeploy.webp']
 ---
 
 # Revolutionizing Construction Documentation with DroneDeploy

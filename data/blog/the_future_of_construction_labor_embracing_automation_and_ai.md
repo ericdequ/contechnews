@@ -5,6 +5,8 @@ date: '2023-04-28'
 tags: ['Construction', 'Automation', 'AI']
 draft: false
 summary: 'Explore how automation and AI are revolutionizing the construction industry, bringing enhanced efficiency, safety, and sustainability to the forefront.'
+
+images: ['https://www.contechnews.com/articleimage/./the_future_of_construction_labor_embracing_automation_and_ai.webp']
 ---
 
 # The Future of Construction Labor: Embracing Automation and AI

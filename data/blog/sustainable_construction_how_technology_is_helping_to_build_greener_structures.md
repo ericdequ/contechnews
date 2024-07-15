@@ -5,6 +5,8 @@ date: '2024-03-30'
 tags: ['Sustainable Construction', 'Green Technology', 'Innovation']
 draft: false
 summary: 'Explore how cutting-edge technologies are revolutionizing sustainable construction and paving the way for greener, eco-friendly buildings.'
+
+images: ['https://www.contechnews.com/articleimage/./sustainable_construction_how_technology_is_helping_to_build_greener_structures.webp']
 ---
 
 # Sustainable Construction: How Technology is Helping to Build Greener Structures

@@ -5,6 +5,8 @@ date: '2023-04-21'
 tags: ['Blockchain', 'Construction Technology', 'Supply Chain', 'Transparency', 'Provenance', 'VeChain', 'Innovation', 'Construction Management', 'Secure Transactions']
 draft: true
 summary: "Learn how blockchain platforms like Provenance and VeChain are being used to enhance transparency and efficiency in construction supply chains, ensuring secure and traceable transactions for materials and services."
+
+images: ['https://www.contechnews.com/articleimage/./leveraging_blockchain_for_construction_supply_chain_transparency.webp']
 ---
 
 ## Leveraging Blockchain for Construction Supply Chain Transparency

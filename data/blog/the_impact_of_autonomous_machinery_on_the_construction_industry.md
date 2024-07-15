@@ -5,6 +5,8 @@ date: '2023-10-30'
 tags: ['Construction', 'Autonomous Machinery', 'Innovation', 'Technology']
 draft: false
 summary: 'Explore how autonomous machinery is revolutionizing the construction industry, increasing efficiency, safety, and transforming the traditional jobsite.'
+
+images: ['https://www.contechnews.com/articleimage/./the_impact_of_autonomous_machinery_on_the_construction_industry.webp']
 ---
 
 # The Impact of Autonomous Machinery on the Construction Industry

@@ -5,6 +5,8 @@ date: '2023-03-21'
 tags: ['Construction', 'Automation', 'Innovation']
 draft: false
 summary: 'Dive into the remarkable trends shaping the future of construction equipment through automation and efficiency, revolutionizing the industry as we know it.'
+
+images: ['https://www.contechnews.com/articleimage/./the_future_of_construction_equipment_trends_in_automation_and_efficiency.webp']
 ---
 
 ## The Future of Construction Equipment: Trends in Automation and Efficiency

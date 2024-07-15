@@ -5,6 +5,8 @@ date: '2023-02-01'
 tags: ['Construction', 'Innovation', 'Sustainability']
 draft: false
 summary: 'Explore how modular construction is revolutionizing the building industry with enhanced efficiency, sustainability, and cost-effectiveness.'
+
+images: ['https://www.contechnews.com/articleimage/./the_benefits_of_modular_construction_in_modern_building_projects.webp']
 ---
 
 # The Benefits of Modular Construction in Modern Building Projects

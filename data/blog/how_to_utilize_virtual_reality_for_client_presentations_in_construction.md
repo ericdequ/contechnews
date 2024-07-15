@@ -5,6 +5,8 @@ date: '2023-09-20'
 tags: ['Virtual Reality', 'Construction', 'Technology']
 draft: false
 summary: 'Discover how virtual reality is revolutionizing client presentations in the construction industry, providing immersive experiences and fostering better communication and understanding.'
+
+images: ['https://www.contechnews.com/articleimage/./how_to_utilize_virtual_reality_for_client_presentations_in_construction.webp']
 ---
 
 # How to Utilize Virtual Reality for Client Presentations in Construction

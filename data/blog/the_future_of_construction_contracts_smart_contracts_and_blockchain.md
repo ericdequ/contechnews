@@ -5,6 +5,8 @@ date: '2023-08-09'
 tags: ['Construction', 'Blockchain', 'Smart Contracts']
 draft: false
 summary: 'Discover how smart contracts and blockchain are revolutionizing the construction industry, offering greater transparency, efficiency, and security.'
+
+images: ['https://www.contechnews.com/articleimage/./the_future_of_construction_contracts_smart_contracts_and_blockchain.webp']
 ---
 
 # The Future of Construction Contracts: Smart Contracts and Blockchain

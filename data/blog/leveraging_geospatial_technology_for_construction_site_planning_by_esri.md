@@ -5,6 +5,8 @@ date: "2024-05-21"
 tags: ['construction technology', 'geospatial technology', 'site planning', 'Esri', 'mapping', 'spatial analysis', 'project management', 'construction innovation', 'GIS']
 draft: true
 summary: "Learn how Esris geospatial technology is transforming construction site planning, providing detailed mapping and spatial analysis that enhance project planning, execution, and monitoring."
+
+images: ['https://www.contechnews.com/articleimage/./leveraging_geospatial_technology_for_construction_site_planning_by_esri.webp']
 ---
 
 ## Introduction

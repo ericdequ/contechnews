@@ -5,6 +5,8 @@ date: '2023-08-06'
 tags: ['Construction', 'Digital Platforms', 'Technology', 'Project Management']
 draft: false
 summary: 'Discover how digital platforms are revolutionizing construction project coordination by enhancing efficiency, communication, and overall project success.'
+
+images: ['https://www.contechnews.com/articleimage/./the_impact_of_digital_platforms_on_construction_project_coordination.webp']
 ---
 
 # The Impact of Digital Platforms on Construction Project Coordination

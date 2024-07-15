@@ -5,6 +5,8 @@ date: '2024-05-28'
 tags: ['Construction', 'Technology', 'Innovation']
 draft: false
 summary: 'Dive into the cutting-edge trends and innovations poised to revolutionize how construction sites are managed and operated.'
+
+images: ['https://www.contechnews.com/articleimage/./the_future_of_construction_site_management_trends_and_innovations.webp']
 ---
 
 # The Future of Construction Site Management: Trends and Innovations

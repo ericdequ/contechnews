@@ -5,6 +5,8 @@ date: '2023-10-18'
 tags: ['Virtual Reality', 'Client Interaction', 'Technology']
 draft: false
 summary: 'Unlock the power of Virtual Reality to revolutionize client walkthroughs and approvals by making presentations more interactive, immersive, and convincing.'
+
+images: ['https://www.contechnews.com/articleimage/./how_to_use_virtual_reality_for_client_walkthroughs_and_approvals.webp']
 ---
 
 # How to Use Virtual Reality for Client Walkthroughs and Approvals

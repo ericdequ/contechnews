@@ -5,6 +5,8 @@ date: '2023-02-07'
 tags: ['Construction', 'Robotics', 'Innovation']
 draft: false
 summary: 'Discover how the latest advancements in robotics are transforming the construction industry, offering unparalleled efficiency, safety, and quality.'
+
+images: ['https://www.contechnews.com/articleimage/./the_future_of_construction_how_robotics_are_revolutionizing_the_industry.webp']
 ---
 
 # The Future of Construction: How Robotics are Revolutionizing the Industry

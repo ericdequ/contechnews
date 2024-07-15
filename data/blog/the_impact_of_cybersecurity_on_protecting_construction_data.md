@@ -5,6 +5,8 @@ date: '2023-08-21'
 tags: ['Cybersecurity', 'Construction Technology']
 draft: false
 summary: 'Discover the critical role of cybersecurity in safeguarding sensitive construction data, and how cutting-edge technologies are driving the future of secure construction practices.'
+
+images: ['https://www.contechnews.com/articleimage/./the_impact_of_cybersecurity_on_protecting_construction_data.webp']
 ---
 
 # The Impact of Cybersecurity on Protecting Construction Data

@@ -5,6 +5,8 @@ date: '2023-10-03'
 tags: ['Construction', 'Innovation', 'Concrete']
 draft: false
 summary: 'Discover how cutting-edge innovations are transforming the construction industry with groundbreaking advancements in concrete and other materials.'
+
+images: ['https://www.contechnews.com/articleimage/./the_future_of_construction_materials_innovations_in_concrete_and_beyond.webp']
 ---
 
 # The Future of Construction Materials: Innovations in Concrete and Beyond

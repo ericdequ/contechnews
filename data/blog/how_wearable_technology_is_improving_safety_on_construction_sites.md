@@ -5,6 +5,8 @@ date: '2024-04-03'
 tags: ['Wearable Technology', 'Construction', 'Safety']
 draft: false
 summary: 'Discover how wearable technology is revolutionizing safety standards on construction sites, reducing accidents, and improving workers well-being.'
+
+images: ['https://www.contechnews.com/articleimage/./how_wearable_technology_is_improving_safety_on_construction_sites.webp']
 ---
 
 # How Wearable Technology is Improving Safety on Construction Sites

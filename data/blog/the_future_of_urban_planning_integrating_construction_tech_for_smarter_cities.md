@@ -5,6 +5,8 @@ date: '2023-08-16'
 tags: ['Urban Planning', 'Construction Technology', 'Smart Cities']
 draft: false
 summary: 'Discover how the latest construction technologies are revolutionizing urban planning and paving the way for smarter, more sustainable cities.'
+
+images: ['https://www.contechnews.com/articleimage/./the_future_of_urban_planning_integrating_construction_tech_for_smarter_cities.webp']
 ---
 
 # The Future of Urban Planning: Integrating Construction Tech for Smarter Cities

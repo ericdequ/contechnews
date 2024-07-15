@@ -5,6 +5,8 @@ date: '2023-09-19'
 tags: ['Construction', 'Advanced Materials', 'Innovation']
 draft: false
 summary: 'Explore how advanced materials are revolutionizing the construction industry and shaping the future of building methods.'
+
+images: ['https://www.contechnews.com/articleimage/./the_impact_of_advanced_materials_on_future_construction_methods.webp']
 ---
 
 # The Impact of Advanced Materials on Future Construction Methods

@@ -5,6 +5,8 @@ date: '2023-10-29'
 tags: ['Construction', 'Surveillance', 'Innovation', 'Technology']
 draft: false
 summary: 'Discover the cutting-edge technologies transforming construction site surveillance and ensuring safety, efficiency, and security like never before.'
+
+images: ['https://www.contechnews.com/articleimage/./the_future_of_construction_site_surveillance_tech_trends_and_innovations.webp']
 ---
 
 # The Future of Construction Site Surveillance: Tech Trends and Innovations

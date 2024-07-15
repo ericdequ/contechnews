@@ -5,6 +5,8 @@ date: '2023-05-10'
 tags: ['Construction', 'Technology', 'Infrastructure']
 draft: false
 summary: 'Discover how cutting-edge construction technologies are revolutionizing infrastructure projects, increasing efficiency, and transforming the industry landscape.'
+
+images: ['https://www.contechnews.com/articleimage/./the_impact_of_construction_technology_on_infrastructure_projects.webp']
 ---
 
 # The Impact of Construction Technology on Infrastructure Projects

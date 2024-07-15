@@ -6,6 +6,8 @@ tags: ['Construction', 'Digital Platforms', 'Stakeholder Engagement', 'Technolog
 draft: false
 summary: 'Explore how digital platforms are transforming the construction industry by enhancing stakeholder engagement, improving transparency, and boosting collaboration.'
 
+
+images: ['https://www.contechnews.com/articleimage/./the_impact_of_digital_platforms_on_construction_stakeholder_engagement.webp']
 ---
 
 # The Impact of Digital Platforms on Construction Stakeholder Engagement

@@ -6,6 +6,8 @@ tags: ['Predictive Maintenance', 'Construction Technology', 'Innovation']
 draft: false
 summary: 'Explore the transformative potential of predictive maintenance in construction, ensuring equipment efficiency and minimizing downtime.'
 
+
+images: ['https://www.contechnews.com/articleimage/./how_to_use_predictive_maintenance_for_construction_equipment.webp']
 ---
 
 # How to Use Predictive Maintenance for Construction Equipment

@@ -5,6 +5,8 @@ date: '2024-05-01'
 tags: ['Digital Transformation', 'Construction', 'Innovation']
 draft: false
 summary: 'Explore how digital transformation is reshaping the construction industry, driving efficiency, and sparking innovation.'
+
+images: ['https://www.contechnews.com/articleimage/./the_impact_of_digital_transformation_on_construction_business_models.webp']
 ---
 
 # The Impact of Digital Transformation on Construction Business Models

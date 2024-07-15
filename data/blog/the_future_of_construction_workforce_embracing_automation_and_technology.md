@@ -6,6 +6,8 @@ tags: ['Construction', 'Automation', 'Technology']
 draft: false
 summary: 'Dive into how automation and advanced technologies are reshaping the construction industry, offering insights into the future workforce, increased efficiency, and innovative solutions.'
 
+
+images: ['https://www.contechnews.com/articleimage/./the_future_of_construction_workforce_embracing_automation_and_technology.webp']
 ---
 
 # The Future of Construction Workforce: Embracing Automation and Technology

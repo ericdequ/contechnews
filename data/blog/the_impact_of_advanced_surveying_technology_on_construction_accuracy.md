@@ -5,6 +5,8 @@ date: '2023-01-29'
 tags: ['Construction', 'Technology', 'Surveying']
 draft: false
 summary: 'Discover how cutting-edge surveying technologies are revolutionizing construction accuracy, reducing errors, and optimizing workflows in the industry.'
+
+images: ['https://www.contechnews.com/articleimage/./the_impact_of_advanced_surveying_technology_on_construction_accuracy.webp']
 ---
 
 # The Impact of Advanced Surveying Technology on Construction Accuracy

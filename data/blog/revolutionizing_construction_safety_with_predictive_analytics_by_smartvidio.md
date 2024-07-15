@@ -5,6 +5,8 @@ date: '2023-02-21'
 tags:  ['Construction Technology', 'Predictive Analytics', 'Construction Safety', 'Innovation', 'Smartvid.io', 'Proactive Safety', 'Hazard Identification', 'Worker Protection', 'AI in Construction']
 draft: true
 summary: 'Examine how Smartvid.io is using predictive analytics to enhance construction safety, identifying potential hazards before they occur and implementing proactive safety measures to protect workers.'
+
+images: ['https://www.contechnews.com/articleimage/./revolutionizing_construction_safety_with_predictive_analytics_by_smartvidio.webp']
 ---
 
 # Revolutionizing Construction Safety with Predictive Analytics by Smartvid.io

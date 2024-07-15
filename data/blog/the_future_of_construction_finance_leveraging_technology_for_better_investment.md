@@ -5,6 +5,8 @@ date: '2023-08-24'
 tags: ['Construction', 'Finance', 'Technology', 'Innovation']
 draft: false
 summary: 'Discover how cutting-edge technology is revolutionizing construction finance, transforming investment strategies, and paving the way for a more efficient and profitable future.'
+
+images: ['https://www.contechnews.com/articleimage/./the_future_of_construction_finance_leveraging_technology_for_better_investment.webp']
 ---
 
 # The Future of Construction Finance: Leveraging Technology for Better Investment

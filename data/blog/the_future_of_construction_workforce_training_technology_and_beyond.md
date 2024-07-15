@@ -5,6 +5,8 @@ date: '2024-02-08'
 tags: ['Construction', 'Technology', 'Workforce Training']
 draft: false
 summary: 'Discover how innovative technologies are revolutionizing construction workforce training, making the industry safer, more efficient, and future-ready.'
+
+images: ['https://www.contechnews.com/articleimage/./the_future_of_construction_workforce_training_technology_and_beyond.webp']
 ---
 
 # The Future of Construction Workforce Training: Technology and Beyond

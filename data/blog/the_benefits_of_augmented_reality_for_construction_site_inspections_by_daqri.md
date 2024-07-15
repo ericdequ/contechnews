@@ -5,6 +5,8 @@ date: "2024-05-21"
 tags: ['construction', 'technology', 'innovation', 'augmented reality', 'DAQRI', 'site inspections', 'real-time visualization', 'project data', 'efficiency', 'accuracy']
 draft: true
 summary: "Discover how DAQRIs augmented reality solutions are enhancing construction site inspections, providing real-time visualization of project data and enabling more accurate and efficient inspections."
+
+images: ['https://www.contechnews.com/articleimage/./the_benefits_of_augmented_reality_for_construction_site_inspections_by_daqri.webp']
 ---
 
 # The Benefits of Augmented Reality for Construction Site Inspections by DAQRI

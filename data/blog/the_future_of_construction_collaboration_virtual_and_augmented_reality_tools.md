@@ -5,6 +5,8 @@ date: '2023-02-18'
 tags: ['Construction', 'AR', 'VR', 'Innovation', 'Technology']
 draft: false
 summary: 'Discover how virtual and augmented reality tools are revolutionizing the construction industry by enhancing collaboration, increasing efficiency, and reducing errors.'
+
+images: ['https://www.contechnews.com/articleimage/./the_future_of_construction_collaboration_virtual_and_augmented_reality_tools.webp']
 ---
 
 # The Future of Construction Collaboration: Virtual and Augmented Reality Tools
