@@ -10,11 +10,11 @@ images: ['https://www.contechnews.com/articleimage/biotech_in_construction/plant
 
 # Plant-Inspired Adaptive Building Skins: Biomimetic Climate Control
 
-In our pursuit to design sustainable buildings that harmonize with their environment, biomimicry has emerged as an innovative approach. This approach emulates nature's time-tested patterns and strategies to find sustainable solutions to modern challenges. One groundbreaking application of biomimicry in construction technology is the development of plant-inspired adaptive building skins for climate control. These "skins", inspired by the adaptive qualities of plant cells and structures, offer a futuristic solution for energy-efficient climate control in buildings.
+In our pursuit to design sustainable buildings that harmonize with their environment, biomimicry has emerged as an innovative approach. This approach emulates Natures time-tested patterns and strategies to find sustainable solutions to modern challenges. One groundbreaking application of biomimicry in construction technology is the development of plant-inspired adaptive building skins for climate control. These "skins", inspired by the adaptive qualities of plant cells and structures, offer a futuristic solution for energy-efficient climate control in buildings.
 
 ## Understanding Biomimicry in Construction
 
-Biomimicry in construction involves the exploration and integration of principles derived from biological systems into the design of human-made materials, equipment, and buildings. The vital emphasis is on sustainable solutions and energy-efficient methods, reflecting nature's ability to optimize resources.
+Biomimicry in construction involves the exploration and integration of principles derived from biological systems into the design of human-made materials, equipment, and buildings. The vital emphasis is on sustainable solutions and energy-efficient methods, reflecting Natures ability to optimize resources.
  
 * **Biomimetic architecture** - This refers to the application of functional aspects of biological entities to architectural design.
 * **Biotech in construction** - This involves the integration of biological processes or materials in construction technology. 

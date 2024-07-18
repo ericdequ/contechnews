@@ -10,7 +10,7 @@ images: ['https://www.contechnews.com/articleimage/energy_tech_for_construction/
 
 # Artificial Photosynthesis in Building Facades: Converting CO2 to Energy
 
-Science fiction? Far from it! The latest technological advancements within the field of construction technology bring forward methods that harness nature's efficient systems, practically imitating the process of photosynthesis in artificial structures. This article aims to demystify the concept of artificial photosynthesis and illustrate its potential in turning building facades into carbon-neutral powerhouses.
+Science fiction? Far from it! The latest technological advancements within the field of construction technology bring forward methods that harness Natures efficient systems, practically imitating the process of photosynthesis in artificial structures. This article aims to demystify the concept of artificial photosynthesis and illustrate its potential in turning building facades into carbon-neutral powerhouses.
 
 ## Understanding Photosynthesis
 

@@ -30,7 +30,7 @@ The goal of this tutorial-style article is to guide you through an understanding
 
 Biomimicry is the design and production of materials, structures, and systems modeled on biological entities and processes. The **three main principles** of biomimicry are:
 
-1. **Nature as a Model**: Studying and imitating nature's techniques to solve human problems.
+1. **Nature as a Model**: Studying and imitating Natures techniques to solve human problems.
 2. **Nature as a Measure**: Using an ecological standard to judge the rightness of our innovations.
 3. **Nature as a Mentor**: Learning from nature, not just about nature.
 
@@ -92,4 +92,4 @@ Here are a few potential issues and some solutions in implementing biomimicry in
 
 In conclusion, biomimetic materials hold a reservoir of potential for sustainable building design. A deep understanding of natural systems, combined with interdisciplinary collaboration, can pave the way for the next-gen sustainable architecture.
 
-Biomimicry encourages us to learn from nature's billions of years of research and development to create a greener, more sustainable future.
+Biomimicry encourages us to learn from Natures billions of years of research and development to create a greener, more sustainable future.

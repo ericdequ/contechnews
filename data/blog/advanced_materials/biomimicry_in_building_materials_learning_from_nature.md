@@ -1,5 +1,5 @@
 ---
-title: 'Biomimicry in Building Materials: Learning from Nature's Designs'
+title: 'Biomimicry in Building Materials: Learning from Natures Designs'
 date: '2024-07-15'
 tags: ['Biomimicry', 'Building Materials', 'Advanced_Materials', 'Sustainable Construction', 'Innovation']
 draft: true
@@ -8,7 +8,7 @@ summary: 'This article will explore the fascinating field of biomimicry, and its
 images: ['https://www.contechnews.com/articleimage/advanced_materials/biomimicry_in_building_materials_learning_from_nature.webp']
 ---
 
-# Biomimicry in Building Materials: Learning from Nature's Designs
+# Biomimicry in Building Materials: Learning from Natures Designs
 
 Biomimicry, as a field of study and innovation, unites biology and technology, strolling the vistas where these domains intersect. It proposes the notion that nature, an excellent, time-tested engineer itself, holds the key to some of our most complex problems. Within the construction industry, it births materials that mirror the genius supplied by millions of years of natural evolution.
 
@@ -37,7 +37,7 @@ Taking notes from human skin's ability to heal wounds, scientists developed conc
 Drawing inspiration from the clear undersea structures of mantis shrimp, Swedish researchers have developed transparent wood. This material allows natural light to pass through, thus reducing dependence on artificial lighting.
 
 ```python 
-print("Nature's Innovation in Building Materials")
+print("Natures Innovation in Building Materials")
 ```
 
 | Materials             | Inspiration       | Benefits                                          |
@@ -50,7 +50,7 @@ print("Nature's Innovation in Building Materials")
 
 As we venture deeper into the era of sustainable building practices, biomimicry keeps unveiling tremendous possibilities. As nature remains a dynamic and stimulating field offering an array of different unique biological systems to draw from, the future of biomimicry in construction looks promising. 
 
-Emphasizing not only ecological sustainability but also long-term economization, this design philosophy continues to drive innovative material production. As more research is being conducted into harnessing nature's design for human benefit, we edge closer to a more sustainable and efficient construction future where technology meets biology.
+Emphasizing not only ecological sustainability but also long-term economization, this design philosophy continues to drive innovative material production. As more research is being conducted into harnessing Natures design for human benefit, we edge closer to a more sustainable and efficient construction future where technology meets biology.
 
 ```python
 print("Here lies the future of construction")
