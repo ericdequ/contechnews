@@ -11,7 +11,7 @@ images: ['https://www.contechnews.com/articleimage/tutorials/guide_to_using_leic
 
 # Guide to Using Leica Geosystems for Construction Surveying
 
-Construction surveying has been revolutionized by advanced technologies like Leica Geosystems. Precision, efficiency, and real-time data are more critical than ever, and Leica Geosystems brings these elements to the forefront of your projects. In this guide, we'll delve into the essentials of using Leica Geosystems for construction surveying, ensuring you make the most out of this powerful tool.
+Construction surveying has been revolutionized by advanced technologies like Leica Geosystems. Precision, efficiency, and real-time data are more critical than ever, and Leica Geosystems brings these elements to the forefront of your projects. In this guide, well delve into the essentials of using Leica Geosystems for construction surveying, ensuring you make the most out of this powerful tool.
 
 ## Why Leica Geosystems?
 

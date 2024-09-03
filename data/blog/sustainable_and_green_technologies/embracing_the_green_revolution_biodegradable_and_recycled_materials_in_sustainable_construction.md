@@ -12,7 +12,7 @@ images: ['https://www.contechnews.com/articleimage/sustainable_and_green_technol
 
 The global construction industry is standing at the forefront of a green revolution, shifting its focus towards sustainable construction. This paradigm shift is steering the sector away from traditional building methods and materials in favor of eco-friendly alternatives. At the heart of this revolution, lies the concept of biodegradable and recycled materials. 
 
-This article provides a comprehensive review of these materials and their usage in sustainable construction. We'll also take a look at best practices, share practical examples, possible challenges and shed some light on future trends in this field. 
+This article provides a comprehensive review of these materials and their usage in sustainable construction. well also take a look at best practices, share practical examples, possible challenges and shed some light on future trends in this field. 
 
 # Understanding Biodegradable & Recycled Materials
 

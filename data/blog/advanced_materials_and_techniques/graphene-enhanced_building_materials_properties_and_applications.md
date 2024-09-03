@@ -10,7 +10,7 @@ images: ['https://www.contechnews.com/articleimage/advanced_materials_and_techni
 
 # Introduction
 
-This tutorial aims to provide a comprehensive understanding of cutting-edge material technology, specifically graphene-enhanced building materials. We'll delve into its peculiar properties, practical applications, issues related to its implementation, and possible future trends.
+This tutorial aims to provide a comprehensive understanding of cutting-edge material technology, specifically graphene-enhanced building materials. well delve into its peculiar properties, practical applications, issues related to its implementation, and possible future trends.
 
 Let's define the terms: **Graphene** is a form of carbon just one atom thick, arranged in an hexagonal lattice. It is regarded as the thinnest, yet strongest, material known to humans with amazing electric and thermal conduction properties.
 

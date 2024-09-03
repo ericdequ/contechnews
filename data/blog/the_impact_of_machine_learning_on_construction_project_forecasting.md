@@ -11,7 +11,7 @@ images: ['https://www.contechnews.com/articleimage/./the_impact_of_machine_learn
 
 # The Impact of Machine Learning on Construction Project Forecasting
 
-In the world of construction, where precision and timeliness are paramount, accurate project forecasting can make or break a project. Traditionally, project managers have relied on historical data, expert judgment, and occasionally, some educated guesswork to predict project timelines and costs. However, the advent of machine learning is reshaping this landscape, offering new ways to enhance accuracy, efficiency, and decision quality. In this blog, we'll dive into how machine learning is transforming construction project forecasting and why it's an incredibly exciting time for the industry.
+In the world of construction, where precision and timeliness are paramount, accurate project forecasting can make or break a project. Traditionally, project managers have relied on historical data, expert judgment, and occasionally, some educated guesswork to predict project timelines and costs. However, the advent of machine learning is reshaping this landscape, offering new ways to enhance accuracy, efficiency, and decision quality. In this blog, well dive into how machine learning is transforming construction project forecasting and why it's an incredibly exciting time for the industry.
 
 ## The Challenges of Traditional Forecasting
 

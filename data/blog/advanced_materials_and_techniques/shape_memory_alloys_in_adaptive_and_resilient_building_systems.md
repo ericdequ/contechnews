@@ -14,7 +14,7 @@ images: ['https://www.contechnews.com/articleimage/advanced_materials_and_techni
 
 Shape Memory Alloys (SMAs) represent a revolutionary material technology in the construction industry. The unique characteristic of these materials, referred to as memory effect, allows them to return to their original shape after undergoing deformation when subjected to certain stimuli e.g., heat.
 
-In this article, we'll dive into the intriguing world of SMAs, explore their applications in adaptive and resilient building systems, and share a step-by-step guide on integrating SMAs into your construction project.
+In this article, well dive into the intriguing world of SMAs, explore their applications in adaptive and resilient building systems, and share a step-by-step guide on integrating SMAs into your construction project.
 
 ## Basics of Shape Memory Alloys
 

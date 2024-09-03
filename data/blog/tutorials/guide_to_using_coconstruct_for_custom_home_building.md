@@ -11,7 +11,7 @@ images: ['https://www.contechnews.com/articleimage/tutorials/guide_to_using_coco
 
 # Guide to Using CoConstruct for Custom Home Building
 
-Custom home building is a complex endeavor that demands meticulous planning, efficient collaboration, and precise execution. Enter CoConstruct, a powerful project management tool tailored for builders, remodelers, and design-build firms. In this guide, we'll delve deep into best practices and step-by-step tutorials for leveraging CoConstruct to the fullest.
+Custom home building is a complex endeavor that demands meticulous planning, efficient collaboration, and precise execution. Enter CoConstruct, a powerful project management tool tailored for builders, remodelers, and design-build firms. In this guide, well delve deep into best practices and step-by-step tutorials for leveraging CoConstruct to the fullest.
 
 ## Table of Contents
 

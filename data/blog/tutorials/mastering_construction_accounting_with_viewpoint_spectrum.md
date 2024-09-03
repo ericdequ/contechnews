@@ -11,7 +11,7 @@ images: ['https://www.contechnews.com/articleimage/tutorials/mastering_construct
 
 ## Introduction
 
-In the fast-paced world of construction, managing finances and accounting can quickly become overwhelming. That's where **Viewpoint Spectrum** comes in – a powerful, cloud-based construction management software designed to streamline accounting processes. In this post, we'll explore:
+In the fast-paced world of construction, managing finances and accounting can quickly become overwhelming. That's where **Viewpoint Spectrum** comes in – a powerful, cloud-based construction management software designed to streamline accounting processes. In this post, well explore:
 
 1. What makes Viewpoint Spectrum stand out.
 2. Step-by-step tutorials for essential tasks.

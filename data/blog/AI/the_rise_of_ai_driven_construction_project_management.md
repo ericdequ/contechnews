@@ -11,7 +11,7 @@ images: ['https://www.contechnews.com/articleimage/AI/the_rise_of_ai_driven_cons
 
 # The Rise of AI-Driven Construction Project Management
 
-Artificial Intelligence (AI) is transforming countless industries, and construction is no exception. AI-powered platforms such as Alice Technologies and nPlan are revolutionizing project management by optimizing schedules, predicting potential delays, and improving overall efficiency. In this article, we'll dive deep into how these technologies are shaping the future of construction project management.
+Artificial Intelligence (AI) is transforming countless industries, and construction is no exception. AI-powered platforms such as Alice Technologies and nPlan are revolutionizing project management by optimizing schedules, predicting potential delays, and improving overall efficiency. In this article, well dive deep into how these technologies are shaping the future of construction project management.
 
 ## Alice Technologies: Pioneering AI in Construction
 

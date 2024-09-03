@@ -11,7 +11,7 @@ images: ['https://www.contechnews.com/articleimage/tutorials/mastering_buildertr
 
 # Mastering Buildertrend for Scheduling and Client Communication
 
-Buildertrend is a powerhouse for construction management, designed to streamline every aspect of your project workflow. In this post, we'll dive into the intricacies of using Buildertrend for scheduling and client communication, ensuring you can handle even the most complex projects with ease.
+Buildertrend is a powerhouse for construction management, designed to streamline every aspect of your project workflow. In this post, well dive into the intricacies of using Buildertrend for scheduling and client communication, ensuring you can handle even the most complex projects with ease.
 
 ## Getting Started with Buildertrend
 

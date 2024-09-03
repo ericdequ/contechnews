@@ -11,7 +11,7 @@ images: ['https://www.contechnews.com/articleimage/./the_role_of_autonomous_vehi
 
 # The Role of Autonomous Vehicles in Construction Material Transport
 
-Autonomous vehicles (AVs) have been making headlines in the realms of personal transportation and logistics, but their potential extends far beyond these conventional applications. One of the most exciting and impactful areas for AVs is construction material transport. In this blog post, we'll explore how autonomous vehicles are transforming the construction industry by revolutionizing the way materials are transported, enhancing efficiency, safety, and sustainability.
+Autonomous vehicles (AVs) have been making headlines in the realms of personal transportation and logistics, but their potential extends far beyond these conventional applications. One of the most exciting and impactful areas for AVs is construction material transport. In this blog post, well explore how autonomous vehicles are transforming the construction industry by revolutionizing the way materials are transported, enhancing efficiency, safety, and sustainability.
 
 ## The Shift Towards Automation in Construction
 

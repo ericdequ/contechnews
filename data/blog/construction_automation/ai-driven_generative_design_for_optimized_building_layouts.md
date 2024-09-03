@@ -42,4 +42,4 @@ Bloom Residences | Use of AI to design floor plans for maximum space utilization
 
 AI-driven generative design holds a promising future in revolutionizing the construction industry. By facilitating efficient and optimized designs, the technology enables architects and engineers to arrive at better decisions, faster. Embracing this advanced technology is essential for firms seeking to stay competitive in the dynamic construction industry terrain. 
 
-In succeeding posts, we'll delve deeper into the practical applications of generative design in construction and provide guides on how to leverage these tools to optimize your projects. Stay tuned for more exciting insights into construction automation advancements!
+In succeeding posts, well delve deeper into the practical applications of generative design in construction and provide guides on how to leverage these tools to optimize your projects. Stay tuned for more exciting insights into construction automation advancements!

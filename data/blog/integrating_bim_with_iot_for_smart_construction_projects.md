@@ -11,7 +11,7 @@ images: ['https://www.contechnews.com/articleimage/./integrating_bim_with_iot_fo
 
 # Integrating BIM with IoT for Smart Construction Projects
 
-The construction industry has always been at the forefront of adopting new technologies to revolutionize how projects are designed, executed, and maintained. **Building Information Modeling (BIM)** and the **Internet of Things (IoT)** are two groundbreaking technologies that, when integrated, can significantly enhance the efficiency, safety, and overall outcomes of construction projects. In this blog post, we'll dive deep into how BIM and IoT work together to create smart construction projects.
+The construction industry has always been at the forefront of adopting new technologies to revolutionize how projects are designed, executed, and maintained. **Building Information Modeling (BIM)** and the **Internet of Things (IoT)** are two groundbreaking technologies that, when integrated, can significantly enhance the efficiency, safety, and overall outcomes of construction projects. In this blog post, well dive deep into how BIM and IoT work together to create smart construction projects.
 
 ## What is BIM?
 

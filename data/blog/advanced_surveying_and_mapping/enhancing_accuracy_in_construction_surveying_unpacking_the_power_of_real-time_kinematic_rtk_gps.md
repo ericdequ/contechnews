@@ -12,7 +12,7 @@ images: ['https://www.contechnews.com/articleimage/advanced_surveying_and_mappin
 
 Real-Time Kinematic (RTK) GPS has revolutionized the field of construction surveying by providing centimeter-level accuracy. This technology swiftly positions surveying data by correcting GPS signals, fostering precision and boosting efficiency during project execution. 
 
-In this guide, we'll explore how to implement and leverage RTK GPS in construction surveying.
+In this guide, well explore how to implement and leverage RTK GPS in construction surveying.
 
 # Table of Contents 
 

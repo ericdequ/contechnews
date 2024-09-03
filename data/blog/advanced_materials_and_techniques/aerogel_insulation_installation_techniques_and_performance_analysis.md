@@ -9,7 +9,7 @@ images: ['https://www.contechnews.com/articleimage/advanced_materials_and_techni
 ---
 
 # Introduction
-As construction technology continues to evolve, so too do the materials we use. One of the most intriguing developments in this area is Aerogel Insulation. This ultra-light, transparent material has the potential to revolutionize how buildings are insulated, due to its superior thermal performance and easy installation process. In this guide, we'll delve into how to install aerogel insulation, analyze its performance, and discuss potential challenges.
+As construction technology continues to evolve, so too do the materials we use. One of the most intriguing developments in this area is Aerogel Insulation. This ultra-light, transparent material has the potential to revolutionize how buildings are insulated, due to its superior thermal performance and easy installation process. In this guide, well delve into how to install aerogel insulation, analyze its performance, and discuss potential challenges.
 
 ## What is Aerogel Insulation?
 Aerogel insulation is a high-performance material, which despite being the lightest solid known to man, has excellent thermal, acoustic and electrical insulation properties. It is made from a gel where, instead of liquid, a gas fills the pores. The result is an extremely low-density material that is as much as 99% air.

@@ -10,7 +10,7 @@ images: ['https://www.contechnews.com/articleimage/virtual_and_augmented_reality
 
 # Introduction
 
-With the advent of remote work culture in the construction industry, efficient team coordination has become crucial. This paradigm shift has made VR-based collaborative design platforms a revolutionary tool. In this tutorial, we'll explore the key benefits of such platforms, provide a step-by-step guide to using one, and discuss potential challenges and solutions.
+With the advent of remote work culture in the construction industry, efficient team coordination has become crucial. This paradigm shift has made VR-based collaborative design platforms a revolutionary tool. In this tutorial, well explore the key benefits of such platforms, provide a step-by-step guide to using one, and discuss potential challenges and solutions.
 
 ## Overview
 

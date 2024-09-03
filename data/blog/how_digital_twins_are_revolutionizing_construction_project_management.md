@@ -13,7 +13,7 @@ images: ['https://www.contechnews.com/articleimage/how_digital_twins_are_revolut
 
 ## Introduction
 
-Imagine being able to visualize every aspect of a construction project in real-time, from the initial design phase to the final build, and beyond. Well, welcome to the world of Digital Twins where the physical and digital converge to offer unprecedented control, insights, and efficiency. In this blog post, we'll explore how Digital Twins are revolutionizing construction project management, creating smarter, more sustainable, and agile processes.
+Imagine being able to visualize every aspect of a construction project in real-time, from the initial design phase to the final build, and beyond. Well, welcome to the world of Digital Twins where the physical and digital converge to offer unprecedented control, insights, and efficiency. In this blog post, well explore how Digital Twins are revolutionizing construction project management, creating smarter, more sustainable, and agile processes.
 
 ## What are Digital Twins?
 

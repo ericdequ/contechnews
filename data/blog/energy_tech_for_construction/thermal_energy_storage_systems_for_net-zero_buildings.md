@@ -42,7 +42,7 @@ Below are the major benefits of integrating TES systems into the infrastructure 
 
 # Future of TES in Construction Technology
 
-The possibilities of incorporating TES systems into future buildings are endless. As research and development in this field intensify, it's expected that we'll see an increase in the efficiency and cost-effectiveness of these systems. TES systems have the potential to revolutionize how energy is managed within buildings, and could play a key role in the endeavor to achieve global sustainability targets. The integration of TES with other innovative technologies such as artificial intelligence and IoT could further enhance these benefits.
+The possibilities of incorporating TES systems into future buildings are endless. As research and development in this field intensify, it's expected that well see an increase in the efficiency and cost-effectiveness of these systems. TES systems have the potential to revolutionize how energy is managed within buildings, and could play a key role in the endeavor to achieve global sustainability targets. The integration of TES with other innovative technologies such as artificial intelligence and IoT could further enhance these benefits.
 
 In conclusion, by offering enhanced energy management capabilities, TES systems promise a brighter, energy-efficient, and sustainable future for the construction industry. Therefore, they are an essential consideration for any net-zero building plan.
 

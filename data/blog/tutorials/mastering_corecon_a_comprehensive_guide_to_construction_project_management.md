@@ -13,7 +13,7 @@ images: ['https://www.contechnews.com/articleimage/tutorials/mastering_corecon_a
 
 ## Introduction
 
-Construction projects are complex, involving numerous stakeholders, intricate timelines, and tight budgets. Managing all these aspects efficiently is paramount to ensuring a project's success. Enter **Corecon**, a robust construction project management software designed to streamline processes, foster collaboration, and enhance productivity. In this blog, we'll dive into the best practices and step-by-step tutorials for using Corecon to its full potential.
+Construction projects are complex, involving numerous stakeholders, intricate timelines, and tight budgets. Managing all these aspects efficiently is paramount to ensuring a project's success. Enter **Corecon**, a robust construction project management software designed to streamline processes, foster collaboration, and enhance productivity. In this blog, well dive into the best practices and step-by-step tutorials for using Corecon to its full potential.
 
 ## Getting Started with Corecon
 

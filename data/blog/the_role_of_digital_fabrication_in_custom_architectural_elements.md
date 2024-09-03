@@ -13,7 +13,7 @@ images: ['https://www.contechnews.com/articleimage/./the_role_of_digital_fabrica
 
 ## Introduction
 
-Welcome to an exciting era where the fusion of technology and creativity enables architects to craft unique, bespoke designs with unprecedented precision and efficiency. Digital fabrication is paving the way for a revolution in custom architectural elements, making it possible to transform even the most complex visions into tangible realities. In this blog post, we'll dive into the key aspects of digital fabrication, exploring its impact on modern architecture and the myriad benefits it offers.
+Welcome to an exciting era where the fusion of technology and creativity enables architects to craft unique, bespoke designs with unprecedented precision and efficiency. Digital fabrication is paving the way for a revolution in custom architectural elements, making it possible to transform even the most complex visions into tangible realities. In this blog post, well dive into the key aspects of digital fabrication, exploring its impact on modern architecture and the myriad benefits it offers.
 
 ## What is Digital Fabrication?
 

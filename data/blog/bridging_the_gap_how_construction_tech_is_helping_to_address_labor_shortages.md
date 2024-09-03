@@ -13,7 +13,7 @@ images: ['https://www.contechnews.com/articleimage/bridging_the_gap_how_construc
 
 ## Introduction
 
-The construction industry, historically a manual and labor-intensive sector, is facing an unprecedented challenge: labor shortages. With a growing demand for new infrastructure and housing, the gap between available skilled workers and project needs is widening. But as with many challenges, innovation steps up. In this blog post, we'll delve into how construction technology is not just addressing these shortages, but revolutionizing the entire industry.
+The construction industry, historically a manual and labor-intensive sector, is facing an unprecedented challenge: labor shortages. With a growing demand for new infrastructure and housing, the gap between available skilled workers and project needs is widening. But as with many challenges, innovation steps up. In this blog post, well delve into how construction technology is not just addressing these shortages, but revolutionizing the entire industry.
 
 ## The Labor Shortage Crisis
 

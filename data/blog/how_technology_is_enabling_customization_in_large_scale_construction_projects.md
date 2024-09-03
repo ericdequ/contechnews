@@ -11,7 +11,7 @@ images: ['https://www.contechnews.com/articleimage/how_technology_is_enabling_cu
 
 # How Technology is Enabling Customization in Large-Scale Construction Projects
 
-Welcome to the future of construction! If you thought the construction industry was all about hard hats and heavy machinery, think again. The fusion of technology and construction is creating a new landscape where large-scale projects can be tailored with unprecedented precision. Today, we'll explore the high-tech tools and innovations that are paving the way for bespoke construction on a grand scale. Buckle up; it's going to be a fascinating ride!
+Welcome to the future of construction! If you thought the construction industry was all about hard hats and heavy machinery, think again. The fusion of technology and construction is creating a new landscape where large-scale projects can be tailored with unprecedented precision. Today, well explore the high-tech tools and innovations that are paving the way for bespoke construction on a grand scale. Buckle up; it's going to be a fascinating ride!
 
 ## The Rise of 3D Printing: From Concept to Reality
 

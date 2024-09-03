@@ -11,7 +11,7 @@ images: ['https://www.contechnews.com/articleimage/tutorials/using_microsoft_hol
 
 # Using Microsoft HoloLens for Mixed Reality in Construction
 
-The construction industry is on the cusp of a technological breakthrough with the advent of mixed reality. Microsoft HoloLens, with its state-of-the-art holographic computing platform, is at the forefront of this transformation. In this post, we'll dive deep into how HoloLens can be leveraged to enhance construction projects, delivering a comprehensive guide that ranges from setting up your device to implementing best practices.
+The construction industry is on the cusp of a technological breakthrough with the advent of mixed reality. Microsoft HoloLens, with its state-of-the-art holographic computing platform, is at the forefront of this transformation. In this post, well dive deep into how HoloLens can be leveraged to enhance construction projects, delivering a comprehensive guide that ranges from setting up your device to implementing best practices.
 
 ## Table of Contents
 

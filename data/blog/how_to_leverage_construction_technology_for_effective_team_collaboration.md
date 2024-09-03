@@ -11,7 +11,7 @@ images: ['https://www.contechnews.com/articleimage/how_to_leverage_construction_
 
 # How to Leverage Construction Technology for Effective Team Collaboration
 
-When you think of construction, images of hard hats, steel beams, and blueprints might come to mind. But the construction industry is rapidly evolving thanks to cutting-edge technology. One of the most exciting transformations is in how teams collaborate. In this post, we'll explore how leveraging construction technology can significantly enhance team collaboration, streamline operations, and drive project success.
+When you think of construction, images of hard hats, steel beams, and blueprints might come to mind. But the construction industry is rapidly evolving thanks to cutting-edge technology. One of the most exciting transformations is in how teams collaborate. In this post, well explore how leveraging construction technology can significantly enhance team collaboration, streamline operations, and drive project success.
 
 ## The Evolution of Construction Technology
 

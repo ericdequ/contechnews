@@ -3,7 +3,7 @@ title: 'Transforming Construction: Virtual Reality Simulations for Heavy Equipme
 date: '2024-07-15'
 tags: ['Virtual Reality', 'Construction Technology', 'Heavy Equipment', 'Operator Training', 'Simulation']
 draft: true
-summary: 'This post dives deep into the cutting-edge application of virtual reality technologies in training heavy equipment operators in the construction field. We'll cover the benefits, practical examples, best practices, and potential challenges.'
+summary: 'This post dives deep into the cutting-edge application of virtual reality technologies in training heavy equipment operators in the construction field. well cover the benefits, practical examples, best practices, and potential challenges.'
 
 images: ['https://www.contechnews.com/articleimage/virtual_and_augmented_reality/transforming_construction_virtual_reality_simulations_for_heavy_equipment_operator_training.webp']
 ---

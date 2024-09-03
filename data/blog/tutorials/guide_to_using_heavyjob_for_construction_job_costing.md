@@ -11,7 +11,7 @@ images: ['https://www.contechnews.com/articleimage/tutorials/guide_to_using_heav
 
 # Guide to Using HeavyJob for Construction Job Costing
 
-HeavyJob is a powerful tool designed to streamline construction job costing and management. In this guide, we'll walk you through everything you need to know to get started, optimize your use, and leverage advanced features to enhance your project's efficiency and profitability.
+HeavyJob is a powerful tool designed to streamline construction job costing and management. In this guide, well walk you through everything you need to know to get started, optimize your use, and leverage advanced features to enhance your project's efficiency and profitability.
 
 ## Table of Contents
 

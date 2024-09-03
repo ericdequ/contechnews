@@ -10,7 +10,7 @@ images: ['https://www.contechnews.com/articleimage/advanced_materials_and_techni
 
 # Implementing Self-Healing Concrete Technologies in Infrastructure Projects
 
-In today's innovative world, construction technology is evolving rapidly. One such advancement is the so-called **Self-Healing Concrete**. It has the potential to transform and prolong the lifespan of infrastructure projects. In this guide, we'll explore the innovative use of this pioneering material and explain how to harness its power in your next construction project.
+In today's innovative world, construction technology is evolving rapidly. One such advancement is the so-called **Self-Healing Concrete**. It has the potential to transform and prolong the lifespan of infrastructure projects. In this guide, well explore the innovative use of this pioneering material and explain how to harness its power in your next construction project.
 
 ## Table of Contents
 1. [Understanding Self-Healing Concrete](#Understanding)

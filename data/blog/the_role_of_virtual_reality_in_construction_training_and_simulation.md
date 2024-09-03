@@ -11,7 +11,7 @@ images: ['https://www.contechnews.com/articleimage/./the_role_of_virtual_reality
 
 # The Role of Virtual Reality in Construction Training and Simulation
 
-Virtual Reality (VR) is revolutionizing industries across the globe, and the construction sector is no exception. This immersive technology is setting a new paradigm for training and simulation by offering a safer, more efficient, and incredibly effective environment for skills acquisition. In this post, we'll delve deep into how VR is being leveraged in the construction industry to change the way we build and train.
+Virtual Reality (VR) is revolutionizing industries across the globe, and the construction sector is no exception. This immersive technology is setting a new paradigm for training and simulation by offering a safer, more efficient, and incredibly effective environment for skills acquisition. In this post, well delve deep into how VR is being leveraged in the construction industry to change the way we build and train.
 
 ## Enhancing Safety Through Immersive Experiences
 

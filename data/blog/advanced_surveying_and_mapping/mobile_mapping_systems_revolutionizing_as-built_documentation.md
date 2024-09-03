@@ -14,7 +14,7 @@ images: ['https://www.contechnews.com/articleimage/advanced_surveying_and_mappin
 
 Mobile Mapping Systems (MMS) add a new dimension in the world of construction tech, especially when it comes to as-built documentation. These high-performance multi-sensor systems enable highly efficient recording of existing structures—a fundamental process in managing construction projects.
 
-In this article, we’ll dive deep into the world of MMS, offering a step-by-step guide on how it works and its benefits. We'll also look at challenges and solutions to adopt this technology.
+In this article, we’ll dive deep into the world of MMS, offering a step-by-step guide on how it works and its benefits. well also look at challenges and solutions to adopt this technology.
 
 ## Table of Contents:
 

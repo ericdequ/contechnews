@@ -11,7 +11,7 @@ images: ['https://www.contechnews.com/articleimage/./the_role_of_smart_sensors_i
 
 # The Role of Smart Sensors in Structural Health Monitoring
 
-Welcome to the world of structural health monitoring (SHM)! Imagine a future where buildings, bridges, and other critical infrastructure can provide real-time feedback on their condition. Thanks to smart sensors, this is no longer a futuristic dream but an exciting reality. In this blog post, we'll dive deep into the role of smart sensors in SHM, exploring their technological nuances, applications, and the bright future they promise.
+Welcome to the world of structural health monitoring (SHM)! Imagine a future where buildings, bridges, and other critical infrastructure can provide real-time feedback on their condition. Thanks to smart sensors, this is no longer a futuristic dream but an exciting reality. In this blog post, well dive deep into the role of smart sensors in SHM, exploring their technological nuances, applications, and the bright future they promise.
 
 ## What Are Smart Sensors?
 

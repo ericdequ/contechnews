@@ -11,7 +11,7 @@ images: ['https://www.contechnews.com/articleimage/tutorials/mastering_synchro_t
 
 ## Introduction
 
-Welcome to the world of 4D construction scheduling with Synchro! In this comprehensive guide, we'll take you through the ins and outs of leveraging Synchro to create dynamic, data-driven project schedules that go beyond traditional timelines.
+Welcome to the world of 4D construction scheduling with Synchro! In this comprehensive guide, well take you through the ins and outs of leveraging Synchro to create dynamic, data-driven project schedules that go beyond traditional timelines.
 
 ## Table of Contents
 

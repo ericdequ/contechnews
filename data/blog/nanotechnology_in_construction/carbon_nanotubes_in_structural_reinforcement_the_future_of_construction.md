@@ -10,7 +10,7 @@ images: ['https://www.contechnews.com/articleimage/nanotechnology_in_constructio
 
 # Carbon Nanotubes in Structural Reinforcement: A Transformative Approach
 
-In the rapidly evolving field of construction technology, tremendous strides are being made in the domain of materials science. From self-healing concrete to smart glass, it's clear that innovation is accelerating. Today, we'll be shining a light on a game-changer: **carbon nanotubes** (CNTs) and their role in structural reinforcement.
+In the rapidly evolving field of construction technology, tremendous strides are being made in the domain of materials science. From self-healing concrete to smart glass, it's clear that innovation is accelerating. Today, well be shining a light on a game-changer: **carbon nanotubes** (CNTs) and their role in structural reinforcement.
 
 ## The Power of Carbon Nanotubes
 

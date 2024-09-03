@@ -3,7 +3,7 @@ title: 'Hybrid Construction Methods: Combining On-Site and Off-Site Techniques'
 date: '2024-07-15'
 tags: ['Prefabrication', 'Modular Construction', 'Hybrid Construction', 'Construction Technology', 'Construction Methods']
 draft: true
-summary: 'This tutorial delves into hybrid construction methods, specifically the merger of on-site and off-site techniques. We'll discuss modularity, prefabrication, their integration into traditional building practices, real-life examples, and the potential challenges faced.'
+summary: 'This tutorial delves into hybrid construction methods, specifically the merger of on-site and off-site techniques. well discuss modularity, prefabrication, their integration into traditional building practices, real-life examples, and the potential challenges faced.'
 
 images: ['https://www.contechnews.com/articleimage/prefabrication_and_modular_construction/hybrid_construction_methods_combining_on-site_and_off-site_techniques.webp']
 ---

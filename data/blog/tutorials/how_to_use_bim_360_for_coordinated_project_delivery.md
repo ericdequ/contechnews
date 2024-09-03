@@ -11,7 +11,7 @@ images: ['https://www.contechnews.com/articleimage/tutorials/how_to_use_bim_360_
 
 # How to Use BIM 360 for Coordinated Project Delivery
 
-In the bustling world of modern construction, the need for cohesive and integrated project management tools has never been greater. Enter **BIM 360**, Autodesk's flagship construction management software that ensures all project stakeholders are on the same page from inception to completion. Today, we'll delve deep into using BIM 360 for coordinated project delivery, touching on best practices, tutorials, and advanced techniques for maximum efficiency.
+In the bustling world of modern construction, the need for cohesive and integrated project management tools has never been greater. Enter **BIM 360**, Autodesk's flagship construction management software that ensures all project stakeholders are on the same page from inception to completion. Today, well delve deep into using BIM 360 for coordinated project delivery, touching on best practices, tutorials, and advanced techniques for maximum efficiency.
 
 ## 1. Introduction to BIM 360
 

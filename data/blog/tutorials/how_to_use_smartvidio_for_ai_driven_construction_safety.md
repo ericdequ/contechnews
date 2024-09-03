@@ -13,7 +13,7 @@ images: ['https://www.contechnews.com/articleimage/tutorials/how_to_use_smartvid
 
 ## Introduction
 
-In the construction industry, safety is paramount. With the advent of AI, tools like Smartvid.io are revolutionizing how we approach site safety, risk management, and compliance. In this blog post, we'll dive into the nuts and bolts of using Smartvid.io to enhance construction safety. You'll learn how to get started, integrate it into your workflow, and best practices to ensure your site is as safe as possible.
+In the construction industry, safety is paramount. With the advent of AI, tools like Smartvid.io are revolutionizing how we approach site safety, risk management, and compliance. In this blog post, well dive into the nuts and bolts of using Smartvid.io to enhance construction safety. You'll learn how to get started, integrate it into your workflow, and best practices to ensure your site is as safe as possible.
 
 ## Getting Started with Smartvid.io
 

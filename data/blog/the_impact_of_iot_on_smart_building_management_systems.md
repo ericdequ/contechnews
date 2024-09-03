@@ -11,7 +11,7 @@ images: ['https://www.contechnews.com/articleimage/./the_impact_of_iot_on_smart_
 
 # The Impact of IoT on Smart Building Management Systems
 
-Welcome to the future of buildings! Imagine walking into an office where lights adjust automatically to your presence, air conditioning optimizes itself based on the room's occupancy, and security systems communicate seamlessly to ensure your safety. This isn't a scene from a sci-fi movie—this is the power of the Internet of Things (IoT) in smart building management systems (BMS). Today, we'll dive deep into how IoT is revolutionizing the way we manage and interact with our built environments.
+Welcome to the future of buildings! Imagine walking into an office where lights adjust automatically to your presence, air conditioning optimizes itself based on the room's occupancy, and security systems communicate seamlessly to ensure your safety. This isn't a scene from a sci-fi movie—this is the power of the Internet of Things (IoT) in smart building management systems (BMS). Today, well dive deep into how IoT is revolutionizing the way we manage and interact with our built environments.
 
 ## What is IoT in the Context of Smart Buildings?
 

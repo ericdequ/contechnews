@@ -11,7 +11,7 @@ images: ['https://www.contechnews.com/articleimage/tutorials/mastering_rhino_and
 
 # Mastering Rhino and Grasshopper for Parametric Design in Construction
 
-Welcome to the world of parametric design! In this comprehensive guide, we'll explore how Rhino and Grasshopper can revolutionize the construction industry. From creating intricate designs to optimizing structures, these tools can dramatically improve the way we approach architectural and structural projects.
+Welcome to the world of parametric design! In this comprehensive guide, well explore how Rhino and Grasshopper can revolutionize the construction industry. From creating intricate designs to optimizing structures, these tools can dramatically improve the way we approach architectural and structural projects.
 
 ## 1. Getting Started with Rhino
 

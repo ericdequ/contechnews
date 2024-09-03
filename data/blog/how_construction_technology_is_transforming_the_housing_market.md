@@ -11,7 +11,7 @@ images: ['https://www.contechnews.com/articleimage/how_construction_technology_i
 
 # How Construction Technology is Transforming the Housing Market
 
-Picture a world where houses are constructed in mere days, customized to your specifications, with built-in smart technologies that make life more convenient and energy-efficient. This isn't some far-off utopia; it's happening *now*, thanks to the rapid advancements in construction technology. In this blog post, we'll dive into the cutting-edge innovations that are reshaping the housing market.
+Picture a world where houses are constructed in mere days, customized to your specifications, with built-in smart technologies that make life more convenient and energy-efficient. This isn't some far-off utopia; it's happening *now*, thanks to the rapid advancements in construction technology. In this blog post, well dive into the cutting-edge innovations that are reshaping the housing market.
 
 ## The Rise of 3D-Printed Homes
 

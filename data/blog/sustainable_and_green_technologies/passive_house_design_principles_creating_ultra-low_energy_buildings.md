@@ -3,7 +3,7 @@ title: 'Passive House Design Principles: Creating Ultra-Low Energy Buildings'
 date: '2024-07-15'
 tags: ['Passive House', 'Sustainable Design', 'Green Technologies', 'Construction Technology', 'Ultra-Low Energy Buildings']
 draft: true
-summary: 'In this detailed tutorial, we'll explore the principles and strategies behind the design of Passive Houses — a concept leading the sustainability drive in the construction industry. We'll delve into practical step-by-step strategies, present examples, highlight best practices, and discuss potential challenges in achieving these ultra-low energy buildings.'
+summary: 'In this detailed tutorial, well explore the principles and strategies behind the design of Passive Houses — a concept leading the sustainability drive in the construction industry. well delve into practical step-by-step strategies, present examples, highlight best practices, and discuss potential challenges in achieving these ultra-low energy buildings.'
 
 images: ['https://www.contechnews.com/articleimage/sustainable_and_green_technologies/passive_house_design_principles_creating_ultra-low_energy_buildings.webp']
 ---
@@ -94,4 +94,4 @@ While the Passive House standard has many merits, designers may face challenges 
 
 Passive House design principles provide a blueprint for constructing more sustainable, ultra-low energy buildings. However, it is crucial to understand that achieving these stringent standards involves careful design, attention to detail, and knowledge of building physics. If successfully implemented, such designs promise a future of greener, more energy-efficient buildings.
 
-_Stay tuned for my next article where we'll delve deeper into the cost analysis of implementing Passive House designs._
+_Stay tuned for my next article where well delve deeper into the cost analysis of implementing Passive House designs._

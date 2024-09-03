@@ -11,7 +11,7 @@ images: ['https://www.contechnews.com/articleimage/how_to_leverage_augmented_rea
 
 # How to Leverage Augmented Reality for Construction Error Detection
 
-The construction industry has always been ripe for innovation. With projects involving vast resources and multiple complex variables, even the smallest error can lead to significant financial losses and delays. Enter **Augmented Reality (AR)** — a technology that promises to revolutionize error detection in construction, optimizing both efficiency and accuracy. In this post, we'll explore how AR can be employed to mitigate construction errors and improve project outcomes.
+The construction industry has always been ripe for innovation. With projects involving vast resources and multiple complex variables, even the smallest error can lead to significant financial losses and delays. Enter **Augmented Reality (AR)** — a technology that promises to revolutionize error detection in construction, optimizing both efficiency and accuracy. In this post, well explore how AR can be employed to mitigate construction errors and improve project outcomes.
 
 ## What is Augmented Reality?
 
