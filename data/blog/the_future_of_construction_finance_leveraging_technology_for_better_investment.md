@@ -76,7 +76,3 @@ Stay tuned to our blog for more insights into the ever-evolving world of constru
 ---
 
 Feel free to leave your thoughts and comments below. How do you see technology shaping the future of construction finance?
-
----
-
-*Written by [Your Name]*

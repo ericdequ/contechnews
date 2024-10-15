@@ -82,7 +82,3 @@ Ready to revolutionize your construction projects with cutting-edge technology? 
 What do you think about using tech in construction? Share your thoughts and let's ignite a discussion in the comments below!
 
 ---
-
-Happy Building,
-[Your Name]
-
