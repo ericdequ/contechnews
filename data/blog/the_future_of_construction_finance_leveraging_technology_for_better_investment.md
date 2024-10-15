@@ -74,5 +74,3 @@ As the construction industry embraces digital transformation, leveraging technol
 Stay tuned to our blog for more insights into the ever-evolving world of construction technology. The future is being built today—let's be part of it!
 
 ---
-
-Feel free to leave your thoughts and comments below. How do you see technology shaping the future of construction finance?
