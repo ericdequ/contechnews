@@ -471,16 +471,6 @@
   </item>
 
   <item>
-    <guid>https://www.contechnews.com/blog/how_to_use_building_automation_systems_for_energy_efficiency</guid>
-    <title>How to Use Building Automation Systems for Energy Efficiency</title>
-    <link>https://www.contechnews.com/blog/how_to_use_building_automation_systems_for_energy_efficiency</link>
-    <description>Explore how building automation systems can revolutionize energy management and lead to substantial savings in commercial and residential properties.</description>
-    <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
-    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
-    <category>Building Automation</category><category>Energy Efficiency</category><category>Smart Technology</category>
-  </item>
-
-  <item>
     <guid>https://www.contechnews.com/blog/VR/harnessing_virtual_reality_for_immersive_construction_planning</guid>
     <title>Harnessing Virtual Reality for Immersive Construction Planning</title>
     <link>https://www.contechnews.com/blog/VR/harnessing_virtual_reality_for_immersive_construction_planning</link>
@@ -488,6 +478,16 @@
     <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
     <author>contact@quantumcybersolutions.com (ConTechNews)</author>
     <category>Construction Technology</category><category>Virtual Reality</category><category>Immersive Planning</category><category>3D Visualization</category><category>Unity</category><category>IrisVR</category><category>Project Management</category><category>Innovation</category><category>Construction Tools</category>
+  </item>
+
+  <item>
+    <guid>https://www.contechnews.com/blog/how_to_use_building_automation_systems_for_energy_efficiency</guid>
+    <title>How to Use Building Automation Systems for Energy Efficiency</title>
+    <link>https://www.contechnews.com/blog/how_to_use_building_automation_systems_for_energy_efficiency</link>
+    <description>Explore how building automation systems can revolutionize energy management and lead to substantial savings in commercial and residential properties.</description>
+    <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Building Automation</category><category>Energy Efficiency</category><category>Smart Technology</category>
   </item>
 
   <item>
@@ -801,16 +801,6 @@
   </item>
 
   <item>
-    <guid>https://www.contechnews.com/blog/Construction/Agave</guid>
-    <title>Agave: Revolutionizing Construction Data Integration and Interoperability</title>
-    <link>https://www.contechnews.com/blog/Construction/Agave</link>
-    <description>Discover how Agave is transforming the construction industry by providing a unified data integration platform that enhances interoperability, efficiency, and reliability. With its seamless API integration, pre-built front-end components, and comprehensive analytics, Agave empowers construction companies and software vendors to optimize data management and drive project success.</description>
-    <pubDate>Sat, 25 Nov 2023 00:00:00 GMT</pubDate>
-    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
-    <category>Construction Technology</category><category>Data Integration</category><category>Interoperability</category><category>Agave</category><category>API Integration</category><category>Construction Software</category>
-  </item>
-
-  <item>
     <guid>https://www.contechnews.com/blog/Construction/AGAVEvsAPPXCHANGEvsPROCORE</guid>
     <title>Agave vs. Procore vs. Trimble App Xchange: A Comprehensive Comparison of Construction Tech Integration Platforms</title>
     <link>https://www.contechnews.com/blog/Construction/AGAVEvsAPPXCHANGEvsPROCORE</link>
@@ -818,6 +808,16 @@
     <pubDate>Sat, 25 Nov 2023 00:00:00 GMT</pubDate>
     <author>contact@quantumcybersolutions.com (ConTechNews)</author>
     <category>Construction Technology</category><category>Data Integration</category><category>Interoperability</category><category>Agave</category><category>Procore</category><category>Trimble App Xchange</category>
+  </item>
+
+  <item>
+    <guid>https://www.contechnews.com/blog/Construction/Agave</guid>
+    <title>Agave: Revolutionizing Construction Data Integration and Interoperability</title>
+    <link>https://www.contechnews.com/blog/Construction/Agave</link>
+    <description>Discover how Agave is transforming the construction industry by providing a unified data integration platform that enhances interoperability, efficiency, and reliability. With its seamless API integration, pre-built front-end components, and comprehensive analytics, Agave empowers construction companies and software vendors to optimize data management and drive project success.</description>
+    <pubDate>Sat, 25 Nov 2023 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Construction Technology</category><category>Data Integration</category><category>Interoperability</category><category>Agave</category><category>API Integration</category><category>Construction Software</category>
   </item>
 
   <item>
@@ -1841,16 +1841,6 @@
   </item>
 
   <item>
-    <guid>https://www.contechnews.com/blog/how_3d_scanning_is_enhancing_construction_project_documentation</guid>
-    <title>How 3D Scanning is Enhancing Construction Project Documentation</title>
-    <link>https://www.contechnews.com/blog/how_3d_scanning_is_enhancing_construction_project_documentation</link>
-    <description>Explore how cutting-edge 3D scanning technology is revolutionizing the way construction projects are documented, making the building process more accurate, efficient, and safe.</description>
-    <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
-    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
-    <category>Construction</category><category>3D Scanning</category><category>Technology</category><category>Innovation</category>
-  </item>
-
-  <item>
     <guid>https://www.contechnews.com/blog/Reviews/Plantheath</guid>
     <title>PlantHealth Blog Review</title>
     <link>https://www.contechnews.com/blog/Reviews/Plantheath</link>
@@ -1858,6 +1848,16 @@
     <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
     <author>contact@quantumcybersolutions.com (ConTechNews)</author>
     <category>Nature</category><category>Technology</category><category>Holistic Health</category><category>Blog Review</category>
+  </item>
+
+  <item>
+    <guid>https://www.contechnews.com/blog/how_3d_scanning_is_enhancing_construction_project_documentation</guid>
+    <title>How 3D Scanning is Enhancing Construction Project Documentation</title>
+    <link>https://www.contechnews.com/blog/how_3d_scanning_is_enhancing_construction_project_documentation</link>
+    <description>Explore how cutting-edge 3D scanning technology is revolutionizing the way construction projects are documented, making the building process more accurate, efficient, and safe.</description>
+    <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Construction</category><category>3D Scanning</category><category>Technology</category><category>Innovation</category>
   </item>
 
   <item>
