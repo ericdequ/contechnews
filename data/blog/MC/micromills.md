@@ -4,7 +4,7 @@ date: '2025-04-30'
 tags: ['wind energy', 'micro windmills', 'green design', 'public infrastructure', 'energy art', 'urban sustainability', 'wind sculpture', 'decentralized power']  
 draft: false  
 summary: "Why build giant windmills in remote deserts when we can fill our neighborhoods with beautiful, modular, and functional wind art? Micro and medium windmills could be the foundation of a decentralized energy grid—and the canvas for a new generation of civic creativity."  
-images: ['https://www.contechnews.com/MicroWindFuture.png']  
+images: ['https://www.contechnews.com/micromills.png']  
 ---
 
 # 🌬️ Small Blades, Big Change: The Micro Windmill Revolution
