@@ -1,0 +1,26 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.contechnews.com/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Tue, 21 Feb 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.contechnews.com/tags/worker-protection/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.contechnews.com/blog/revolutionizing_construction_safety_with_predictive_analytics_by_smartvidio</guid>
+    <title>Revolutionizing Construction Safety with Predictive Analytics by Smartvid.io</title>
+    <link>https://www.contechnews.com/blog/revolutionizing_construction_safety_with_predictive_analytics_by_smartvidio</link>
+    
+    <description>Examine how Smartvid.io is using predictive analytics to enhance construction safety, identifying potential hazards before they occur and implementing proactive safety measures to protect workers.</description>
+    <pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Construction Technology</category><category>Predictive Analytics</category><category>Construction Safety</category><category>Innovation</category><category>Smartvid.io</category><category>Proactive Safety</category><category>Hazard Identification</category><category>Worker Protection</category><category>AI in Construction</category>
+    undefined
+  </item>
+
+    </channel>
+  </rss>

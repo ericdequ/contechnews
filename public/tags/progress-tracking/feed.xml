@@ -1,0 +1,26 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.contechnews.com/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Mon, 24 Jul 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.contechnews.com/tags/progress-tracking/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.contechnews.com/blog/revolutionizing_construction_documentation_with_dronedeploy</guid>
+    <title>Revolutionizing Construction Documentation with DroneDeploy</title>
+    <link>https://www.contechnews.com/blog/revolutionizing_construction_documentation_with_dronedeploy</link>
+    
+    <description>Discover how DroneDeploys aerial mapping and drone technology are transforming construction documentation, offering precise site surveys, progress tracking, and detailed inspections from the sky.</description>
+    <pubDate>Mon, 24 Jul 2023 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Construction Technology</category><category>DroneDeploy</category><category>Aerial Mapping</category><category>Site Surveys</category><category>Progress Tracking</category><category>Inspections</category>
+    undefined
+  </item>
+
+    </channel>
+  </rss>

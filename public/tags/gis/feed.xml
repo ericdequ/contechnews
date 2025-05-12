@@ -1,0 +1,26 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.contechnews.com/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Tue, 21 May 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.contechnews.com/tags/gis/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.contechnews.com/blog/leveraging_geospatial_technology_for_construction_site_planning_by_esri</guid>
+    <title>Leveraging Geospatial Technology for Construction Site Planning by Esri</title>
+    <link>https://www.contechnews.com/blog/leveraging_geospatial_technology_for_construction_site_planning_by_esri</link>
+    
+    <description>Learn how Esris geospatial technology is transforming construction site planning, providing detailed mapping and spatial analysis that enhance project planning, execution, and monitoring.</description>
+    <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>construction technology</category><category>geospatial technology</category><category>site planning</category><category>Esri</category><category>mapping</category><category>spatial analysis</category><category>project management</category><category>construction innovation</category><category>GIS</category>
+    undefined
+  </item>
+
+    </channel>
+  </rss>

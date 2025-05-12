@@ -1,0 +1,26 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.contechnews.com/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Wed, 30 Apr 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.contechnews.com/tags/robotic-intelligence/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.contechnews.com/blog/MC/SmartTurbines</guid>
+    <title>The Sentient River: How Smart Turbines Will Power and Protect Our Future</title>
+    <link>https://www.contechnews.com/blog/MC/SmartTurbines</link>
+    
+    <description>From generating power to protecting ecosystems, purifying water, and bottling minerals—modern RI-powered river turbines are becoming adaptive machines that manage energy, environment, and community needs in real time.</description>
+    <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>river turbines</category><category>renewable energy</category><category>water intelligence</category><category>robotic intelligence</category><category>climate adaptation</category><category>aquatic life</category><category>circular systems</category><category>environmental AI</category>
+    <image> https://www.contechnews.com/SentientRiverGrid.webp'</image>
+  </item>
+
+    </channel>
+  </rss>
