@@ -1,0 +1,26 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.contechnews.com/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Fri, 02 May 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.contechnews.com/tags/submarine-cables/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.contechnews.com/blog/MC/superseasays</guid>
+    <title>Subsea Superhighways: From Data to Power — Could Undersea Cables Link Global Grids?</title>
+    <link>https://www.contechnews.com/blog/MC/superseasays</link>
+    
+    <description>Explore how the vast network of undersea internet cables might be adapted or paralleled by power‑transmission lines to interconnect national grids, balance renewables, and forge a truly global electricity network.</description>
+    <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>submarine cables</category><category>grid interconnection</category><category>renewable energy</category><category>global power</category><category>energy internet</category>
+    <image> https://www.rics-notebook.com/articleimage/Energy/SubseaSuperhighways.webp</image>
+  </item>
+
+    </channel>
+  </rss>

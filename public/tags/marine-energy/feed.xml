@@ -1,0 +1,26 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.contechnews.com/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Fri, 02 May 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.contechnews.com/tags/marine-energy/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.contechnews.com/blog/smartSensors/harbharv</guid>
+    <title>HarborHarvest Dock: Self‑Powered Marina with Micro‑Wind &amp; Hydrokinetic Energy</title>
+    <link>https://www.contechnews.com/blog/smartSensors/harbharv</link>
+    
+    <description>A next‑generation boat dock outfitted with micro‑wind turbines and underwater current turbines to generate all the energy needed for charging electric boats—fully self‑sufficient and eco‑friendly.</description>
+    <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>marine energy</category><category>renewables</category><category>microwind</category><category>hydrokinetic</category><category>electric boating</category>
+    <image> https://www.rics-notebook.com/articleimage/Tech/HarborHarvestDock.webp</image>
+  </item>
+
+    </channel>
+  </rss>

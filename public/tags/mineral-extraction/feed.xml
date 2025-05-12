@@ -1,0 +1,26 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.contechnews.com/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Fri, 02 May 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.contechnews.com/tags/mineral-extraction/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.contechnews.com/blog/smartSensors/Riffilter</guid>
+    <title>RiverGuard AI: Intelligent Mineral Harvesting with Wildlife Passage</title>
+    <link>https://www.contechnews.com/blog/smartSensors/Riffilter</link>
+    
+    <description>A river‑based device that gently diverts aquatic wildlife around an intake structure while filtering water to harvest salt, scan for gold, diamonds, and other precious materials, and collect them for sustainable use.</description>
+    <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>environmental tech</category><category>AI</category><category>mineral extraction</category><category>wildlife conservation</category><category>hydroengineering</category>
+    <image> https://www.rics-notebook.com/articleimage/Tech/RiverGuardAI.webp</image>
+  </item>
+
+    </channel>
+  </rss>
