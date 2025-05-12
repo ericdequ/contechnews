@@ -3,7 +3,7 @@
 title: "The Role of Exoskeletons in Reducing Worker Fatigue by Ekso Bionics"
 date: "2024-05-21"
 tags: ["Construction Technology", "Exoskeletons", "Worker Safety", "Productivity", "Innovation", "Ekso Bionics", "Workplace Ergonomics"]
-draft: true
+draft: false
 summary: "Learn how Ekso Bionics is developing exoskeleton technology to reduce worker fatigue and injury in construction, enhancing productivity and improving overall job site safety."
 ---
 

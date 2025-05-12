@@ -2,7 +2,7 @@
 title: "Pedal to Power: The Peloton That Charges Your World"  
 date: '2025-04-30'  
 tags: ['renewable energy', 'fitness tech', 'energy generation', 'sustainability', 'eco design', 'exercise equipment', 'microgrid', 'green fitness']  
-draft: true
+draft: false
 summary: "Introducing the first Peloton-style smart bike that not only burns calories—but also generates clean, trackable energy as you ride. This is where fitness meets the grid, and you become the battery."  
 images: ['https://www.contechnews.com/articleimage/PedalToPower.png']  
 ---

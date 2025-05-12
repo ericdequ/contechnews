@@ -3,7 +3,7 @@
 title: "Exploring the Future of Construction with Robotics"
 date: "2024-05-21"
 tags: ['Construction Technology', 'Robotics', 'Innovation', 'Automation', 'Worker Safety', 'Boston Dynamics', 'Built Robotics', 'Construction Site Operations']
-draft: true
+draft: false
 summary: "Dive into the latest advancements in robotics technology by companies like Boston Dynamics and Built Robotics, and how they are transforming construction site operations by automating repetitive tasks and enhancing worker safety."
 
 images: ['https://www.contechnews.com/articleimage/Robotics/exploring_the_future_of_construction_with_robotics.webp']

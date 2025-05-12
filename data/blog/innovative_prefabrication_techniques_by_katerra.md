@@ -3,7 +3,7 @@
 title: "Innovative Prefabrication Techniques by Katerra"
 date: '2023-04-29'
 tags: ['Prefabrication', 'Modular Construction', 'Sustainability', 'Efficiency', 'Construction Technology', 'Waste Reduction', 'Building Processes', 'Katerra', 'Innovation']
-draft: true
+draft: false
 summary: "Explore how Katerra is leveraging advanced prefabrication techniques and modular construction to streamline building processes, reduce waste, and deliver high-quality structures more efficiently."
 ---
 

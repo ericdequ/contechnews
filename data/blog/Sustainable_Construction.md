@@ -2,7 +2,7 @@
 title: "Sustainable Construction Practices with Green Building Materials: Driving the Future "
 date: '2023-12-24'
 tags: ['Sustainable Construction', 'Green Building Materials', 'CarbonCure', 'Ecovative Design', 'Environmental Performance', 'Innovation', 'Green Technology', 'Construction Industry', 'Eco-friendly']
-draft: true
+draft: false
 summary: 'This article explores sustainable construction practices with a focus on green building materials. Highlighting companies like CarbonCure and Ecovative Design, we delve into how innovative materials are reducing carbon footprints and enhancing environmental performance. '
 ---
 

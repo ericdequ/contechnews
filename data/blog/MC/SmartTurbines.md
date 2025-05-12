@@ -2,7 +2,7 @@
 title: "The Sentient River: How Smart Turbines Will Power and Protect Our Future"  
 date: '2025-04-30'  
 tags: ['river turbines', 'renewable energy', 'water intelligence', 'robotic intelligence', 'climate adaptation', 'aquatic life', 'circular systems', 'environmental AI']  
-draft: true
+draft: false
 summary: "From generating power to protecting ecosystems, purifying water, and bottling minerals—modern RI-powered river turbines are becoming adaptive machines that manage energy, environment, and community needs in real time."  
 images: [https://www.contechnews.com/SentientRiverGrid.webp']  
 ---
