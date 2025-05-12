@@ -4,7 +4,7 @@ date: '2025-05-12'
 tags: ['air purification', 'urban sustainability', 'wind-powered tech', 'clean energy', 'smart cities', 'green architecture', 'biofiltration', 'energy-positive infrastructure']  
 draft: false  
 summary: "Introducing the Aether Spire—an autonomous, wind-powered tower that filters city air and powers itself with embedded turbines. Its not just a building—its an atmospheric engine for urban rebirth."  
-images: ['https://www.quantumcreativesolutions.org/energy/aetherspire.png']  
+images: ['https://www.quantumcybersolutions.com/energy/aetherspire.png']  
 ---
 
 # 🌬️ Aether Spire: The Self-Sustaining Tower That Breathes Clean Air into Cities
