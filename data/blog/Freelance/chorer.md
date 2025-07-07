@@ -4,7 +4,7 @@ date: '2025-07-07'
 tags: ['Community Tech', 'Gig Economy', 'Elder Care', 'Local Business']
 draft: false
 summary: 'Introducing CHORER, an app designed to connect neighbors—especially seniors—with trustworthy locals or small businesses for everyday chores. From gutter cleaning to pool skimming, CHORER blends community, care, and convenience in a user-friendly mobile app.'
-images: ['https://www.rics-notebook.com/articleimage/ChorerApp/choreconnect.webp']
+images: ['https://www.contechnews.com/chorer.png']
 ---
 
 ## Empowering Communities One Chore at a Time 👵🤝🧽
