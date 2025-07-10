@@ -3,8 +3,8 @@ title: "GeoLink: Using Geothermal Heat to Replace Oil Pipelines & Power Subsea C
 date: '2025-05-02'  
 tags: ['geothermal', 'renewable energy', 'infrastructure', 'HVDC', 'energy transition']  
 draft: false  
-summary: "Explore how tapping deep geothermal reservoirs across the U.S. can phase out fossil‑fuel pipelines and feed next‑generation undersea HVDC interconnectors for a resilient, carbon‑free national grid."  
-images: ['https://www.rics-notebook.com/articleimage/Energy/GeoLinkInfrastructure.webp']  
+summary: "Explore how tapping deep geothermal reservoirs across the Atlantic can phase out fossil‑fuel pipelines and feed next‑generation undersea HVDC interconnectors for a resilient, carbon‑free Global grid."  
+images: ['https://www.rics-notebook.com/articleimage/Energy/GeoLinkInfrastructure.png']  
 
 ---
 
@@ -19,7 +19,7 @@ Across North America, hidden heat reservoirs lie tens of kilometers beneath our 
    - Drill paired injection/production wells to circulate a closed‑loop working fluid (water, CO₂, or specialized brine) through 200–300 °C formations.
 
 2. **Power Generation & Thermal Output**  
-   - At surface, **binary‑cycle plants** convert heat to electricity with minimal emissions (<5 g CO₂/kWh).  
+   - At surface, **binary‑cycle plants** convert heat to electricity with minimal emissions .  
    - Excess heat drives **district heating**, desalination modules, or industrial process heat, offsetting natural gas use.
 
 3. **HVDC Integration & Pipeline Replacement**  
