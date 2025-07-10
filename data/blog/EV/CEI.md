@@ -4,7 +4,7 @@ date: '2025-07-07'
 tags: ['Clean Energy', 'Smart Stadiums', 'Sports Infrastructure', 'LatAm Construction', 'Crystal Obelisks']
 draft: false
 summary: 'Spanning continents and ideologies, the rise of clean energy megastructures—from smart stadiums to power-positive obelisks—offers a radical new construction mandate for the Americas. A surplus in renewable energy unlocks a wave of empowerment, decentralized sports economies, and rainbow-casting obelisks that electrify both cities and spirits.'
-images: ['https://www.rics-notebook.com/articleimage/CrystalObelisk/obeliskskybeam.webp']
+images: ['https://www.rics-notebook.com/articleimage/Energy/PrismPanel.png']
 ---
 
 ## 🏗️ The Great Clean Buildout: From Ice to Equator

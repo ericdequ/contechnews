@@ -74,6 +74,8 @@ module.exports = withBundleAnalyzer({
       'plantheath.com',
       'www.robotric.org',
       'robotric.org',
+      'www.rics-notebook.com',
+      'rics-notebook.com',
     ],
   },
   async headers() {
