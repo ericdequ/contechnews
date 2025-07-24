@@ -1,8 +1,9 @@
+@import '@fontsource/inter/variable-full.css';
+@import '@fontsource/inter/variable.css';
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import '@fontsource/inter/variable-full.css';
-@import '@fontsource/inter/variable.css';
+
 
 .task-list-item::before {
   @apply hidden;
