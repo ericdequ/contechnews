@@ -4,7 +4,7 @@ date: '2025-05-02'
 tags: ['submarine cables', 'grid interconnection', 'renewable energy', 'global power', 'energy internet']  
 draft: false  
 summary: "Explore how the vast network of undersea internet cables might be adapted or paralleled by power‑transmission lines to interconnect national grids, balance renewables, and forge a truly global electricity network."  
-images: ['https://www.rics-notebook.com/articleimage/Energy/SubseaSuperhighways.webp']  
+images: ['https://rikara.vercel.app/innovation/18.png']  
 ---
 
 The world’s continents are already tied together by **half a million kilometers** of submarine fiber‑optic cables, carrying petabits of data beneath the waves. But what if similar—or even hybrid—cables could carry **gigawatts of electricity**, pooling renewable power from sun‑soaked deserts and windy straits to wherever it’s needed most? Welcome to the vision of the **Subsea Superhighway**: a planet‑spanning power grid riding the seabed alongside our digital arteries.

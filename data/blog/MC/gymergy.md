@@ -5,7 +5,7 @@ date: '2025-04-30'
 tags: ['renewable energy', 'fitness tech', 'microgrid', 'sustainable gym', 'energy harvesting', 'green infrastructure', 'climate solutions', 'wearable tech']  
 draft: false  
 summary: "What if your workout didn’t just transform your body—but also energized your community? Welcome to the Kinetic Gym revolution: where every lift, run, and pedal fuels the lights, fans, and sound system of the gym itself."  
-images: ['https://www.sportstips.org/KineticGymPower.png']  
+images: ['https://www.contechnews.com/KineticGymPower.png','https://rikara.vercel.app/innovation/16.png']  
 ---
 
 # 🏋️‍♂️ Kinetic Gym: Where Gains Light the Grid

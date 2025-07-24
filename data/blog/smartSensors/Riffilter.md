@@ -4,7 +4,7 @@ date: '2025-05-02'
 tags: ['environmental tech', 'AI', 'mineral extraction', 'wildlife conservation', 'hydroengineering']  
 draft: false  
 summary: "A river‑based device that gently diverts aquatic wildlife around an intake structure while filtering water to harvest salt, scan for gold, diamonds, and other precious materials, and collect them for sustainable use."  
-images: ['https://www.rics-notebook.com/articleimage/Tech/RiverGuardAI.webp']  
+images: ['https://rikara.vercel.app/innovation/14.png']  
 ---
 
 Rivers carry more than just life—they carry dissolved salts, suspended minerals, and sometimes microscopic traces of gold, diamonds, and rare earths. **RiverGuard AI** is a modular installation that sits unobtrusively in flowing water, creating safe escape channels for fish and amphibians, while filtering and analyzing the remaining flow to **capture salt**, **separate minerals**, and **identify precious particles** via advanced AI vision.

@@ -4,7 +4,7 @@ date: "2025-03-06"
 tags: ["Sustainability", "Biomaterials", "Construction"]
 draft: false
 summary: "Explore how mycelium-infused concrete mixtures offer an eco-friendly alternative to traditional building materials—combining strength, insulation, and biodegradability for structures deeply integrated with the natural environment."
-images: ["https://www.govcon.me/blindmice.webp"]
+images: ["https://rikara.vercel.app/innovation/sio.png"]
 ---
 
 # Fusing Nature and Architecture: The Mycelium Concrete Revolution

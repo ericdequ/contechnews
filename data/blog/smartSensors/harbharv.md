@@ -4,7 +4,7 @@ date: '2025-05-02'
 tags: ['marine energy', 'renewables', 'microwind', 'hydrokinetic', 'electric boating']  
 draft: false  
 summary: "A next‑generation boat dock outfitted with micro‑wind turbines and underwater current turbines to generate all the energy needed for charging electric boats—fully self‑sufficient and eco‑friendly."  
-images: ['https://www.rics-notebook.com/articleimage/Tech/HarborHarvestDock.webp']  
+images: ['https://rikara.vercel.app/innovation/17.png']  
 
 ---
 
