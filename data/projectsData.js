@@ -13,6 +13,13 @@ const projectsData = [
     url: 'https://robotric.org/',
     imgSrc: 'https://robotric.org/logo.webp',
   },
+   {
+    title: 'Quantum Construction Solutions',
+    description:
+      'Helping Construction companies Migrate to cutting edge Technology Solutions',
+    url: 'https://www.quantumcybersolutions.com/Construction',
+    imgSrc: 'https://www.quantumcybersolutions.com/mine.png',
+  },
 ]
 
 export default projectsData
