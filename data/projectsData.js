@@ -1,5 +1,11 @@
 const projectsData = [
-
+  {
+    title: 'Quantum Construction Solutions',
+    description:
+      'Helping Construction companies Migrate to cutting edge Technology Solutions',
+    url: 'https://www.quantumcybersolutions.com/Construction',
+    imgSrc: 'https://www.quantumcybersolutions.com/mine.png',
+  },
   {
     title: 'Quantum Learning',
     description:
@@ -11,14 +17,21 @@ const projectsData = [
     title: 'Robot Ric',
     description: 'My Book Series about a robot who learns about the world and humanity',
     url: 'https://robotric.org/',
-    imgSrc: 'https://robotric.org/logo.webp',
+    imgSrc: 'https://robotric.org/lp.webp',
   },
-   {
-    title: 'Quantum Construction Solutions',
+  {
+    title: 'Bev',
     description:
-      'Helping Construction companies Migrate to cutting edge Technology Solutions',
-    url: 'https://www.quantumcybersolutions.com/Construction',
-    imgSrc: 'https://www.quantumcybersolutions.com/mine.png',
+      'A Bar Discovery App that helps you find the perfect Place To drink with Friends!',
+    url: 'https://www.bev.cool',
+    imgSrc: 'https://www.bev.cool/BEV.svg',
+  },
+  {
+    title: 'Legelet',
+    description:
+      'A platform that connects legal professionals with clients seeking legal services, providing a seamless experience for both parties.',
+    url: 'https://www.leopiolet.com/',
+    imgSrc: 'https://www.leopiolet.com/TTP.png',
   },
 ]
 
