@@ -1,0 +1,6 @@
+allowBuilds:
+  canvas: true
+  core-js-pure: true
+  deasync: true
+  sharp: true
+  unrs-resolver: true

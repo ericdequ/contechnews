@@ -1,5 +1,5 @@
-const defaultTheme = require('tailwindcss/defaultTheme');
-const colors = require('tailwindcss/colors');
+const defaultTheme = require('tailwindcss/defaultTheme')
+const colors = require('tailwindcss/colors')
 
 module.exports = {
   content: [
@@ -27,10 +27,10 @@ module.exports = {
       },
       colors: {
         primary: colors.amber,
-        secondary: colors.coolGray,
-        accent: colors.blueGray,
-        neutral: colors.warmGray,
-        background: colors.trueGray,
+        secondary: colors.gray,
+        accent: colors.slate,
+        neutral: colors.stone,
+        background: colors.neutral,
       },
       typography: (theme) => ({
         DEFAULT: {
@@ -170,4 +170,4 @@ module.exports = {
     require('@tailwindcss/typography'),
     require('@tailwindcss/aspect-ratio'),
   ],
-};
+}

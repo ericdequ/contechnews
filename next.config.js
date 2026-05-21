@@ -1,6 +1,6 @@
 const withBundleAnalyzer = require('@next/bundle-analyzer')({
   enabled: process.env.ANALYZE === 'true',
-});
+})
 
 const ContentSecurityPolicy = `
   default-src 'self';
@@ -11,7 +11,7 @@ const ContentSecurityPolicy = `
   connect-src *;
   font-src 'self';
   frame-src giscus.app quantumcybersolutions.com;
-`;
+`
 
 const securityHeaders = [
   {
@@ -38,7 +38,7 @@ const securityHeaders = [
     key: 'Permissions-Policy',
     value: 'camera=(), microphone=(), geolocation=()',
   },
-];
+]
 
 module.exports = withBundleAnalyzer({
   reactStrictMode: true,
@@ -90,18 +90,13 @@ module.exports = withBundleAnalyzer({
         source: '/(.*)',
         headers: securityHeaders,
       },
-    ];
-  },
-  pwa: {
-    dest: 'public',
-    skipWaiting: true,
-    clientsClaim: true,
+    ]
   },
   webpack: (config, { dev, isServer }) => {
     config.module.rules.push({
       test: /\.svg$/,
       use: ['@svgr/webpack'],
-    });
+    })
 
     if (!dev && !isServer) {
       Object.assign(config.resolve.alias, {
@@ -109,9 +104,9 @@ module.exports = withBundleAnalyzer({
         react: 'preact/compat',
         'react-dom/test-utils': 'preact/test-utils',
         'react-dom': 'preact/compat',
-      });
+      })
     }
 
-    return config;
+    return config
   },
-});
+})
