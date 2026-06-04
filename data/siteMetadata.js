@@ -1,4 +1,4 @@
-const siteMetadata = {
+﻿const siteMetadata = {
   title: 'ConTechNews',
   author: 'ConTechNews',
   headerTitle: `Your Construction Tech News`,
@@ -6,12 +6,12 @@ const siteMetadata = {
   language: 'en-us',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://www.contechnews.com',
-  siteRepo: 'https://https://github.com/ericdequ/contechnews',
+  siteRepo: 'https://github.com/ericdequ/contechnews',
   siteLogo: 'logoo-removebg.webp',
   image: 'https://www.contechnews.com/logoo.webp',
   socialBanner: 'https://www.contechnews.com/logoo.webp',
   email: 'contact@quantumcybersolutions.com',
-  github: 'https://https://github.com/ericdequ',
+  github: 'https://github.com/ericdequ',
   twitter: '',
   facebook: '',
   youtube: '',
@@ -41,7 +41,7 @@ const siteMetadata = {
     giscusConfig: {
       // Visit the link below, and follow the steps in the 'configuration' section
       // https://giscus.app/
-      repo: process.env.NEXT_PUBLIC_GISCUS_REPO,
+      repo: process.env.NEXT_PUBLIC_GISCUS_REPO || 'ericdequ/contechnews',
       repositoryId: process.env.NEXT_PUBLIC_GISCUS_REPOSITORY_ID,
       category: process.env.NEXT_PUBLIC_GISCUS_CATEGORY,
       categoryId: process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID,
@@ -66,9 +66,9 @@ const siteMetadata = {
     utterancesConfig: {
       // Visit the link below, and follow the steps in the 'configuration' section
       // https://utteranc.es/
-      repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO,
-      issueTerm: '', // supported options: pathname, url, title
-      label: '', // label (optional): Comment 💬
+      repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || 'ericdequ/contechnews',
+      issueTerm: 'pathname', // supported options: pathname, url, title
+      label: 'comments', // label (optional): Comment ðŸ’¬
       // theme example: github-light, github-dark, preferred-color-scheme
       // github-dark-orange, icy-dark, dark-blue, photon-dark, boxy-light
       theme: 'github-dark-orange',

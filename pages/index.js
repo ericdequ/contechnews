@@ -40,65 +40,65 @@ export default function Home({ posts }) {
   return (
     <>
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
-      <div className="divide-y divide-gray-200 dark:divide-gray-700">
+      <div>
         <motion.div
-          className="space-y-2 pt-6 pb-8 md:space-y-5 overflow-x-hidden overflow-y-hidden"
-          initial={{ opacity: 0, y: 20 }}
+          className="home-hero"
+          initial={false}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
-          
         >
-          <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
-            Latest
+          <p className="hero-eyebrow">Latest field notes</p>
+          <h1 className="hero-title">
+            {siteMetadata.title}
           </h1>
-          <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
+          <p className="hero-copy">
             {siteMetadata.description}
           </p>
         </motion.div>
         <motion.ul
-          className="divide-y divide-gray-200 dark:divide-gray-700"
+          className="post-list"
           variants={containerVariants}
-          initial="hidden"
+          initial={false}
           animate="visible"
         >
           {!posts.length && 'No posts found.'}
           {posts.slice(0, MAX_DISPLAY).map((frontMatter) => {
             const { slug, date, title, summary, tags } = frontMatter
             return (
-              <motion.li key={slug} className="py-12" variants={postVariants}>
-                <article>
-                  <div className="space-y-2 xl:grid xl:grid-cols-4 xl:items-baseline xl:space-y-0">
-                    <dl>
+              <motion.li key={slug} variants={postVariants}>
+                <article className="home-post-card">
+                  <div className="space-y-5 md:grid md:grid-cols-4 md:gap-8 md:space-y-0">
+                    <dl className="md:pt-1">
                       <dt className="sr-only">Published on</dt>
-                      <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
+                      <dd className="meta-date">
                         <time dateTime={date}>{formatDate(date)}</time>
                       </dd>
                     </dl>
-                    <div className="space-y-5 xl:col-span-3">
-                      <div className="space-y-6">
+                    <div className="space-y-5 md:col-span-3">
+                      <div className="space-y-4">
                         <div>
-                          <h2 className="text-2xl font-bold leading-8 tracking-tight">
+                          <h2 className="text-2xl font-black leading-tight sm:text-3xl">
                             <Link
                               href={`/blog/${slug}`}
-                              className="text-gray-900 dark:text-gray-100"
+                              className="text-gray-950 transition-colors hover:text-[var(--theme-accent)] dark:text-white"
                             >
                               {title}
                             </Link>
                           </h2>
-                          <div className="flex flex-wrap">
+                          <div className="mt-3 flex flex-wrap gap-2">
                             {tags &&
                               Array.isArray(tags) &&
                               tags.map((tag) => <Tag key={tag} text={tag} />)}
                           </div>
                         </div>
-                        <div className="prose max-w-none text-gray-500 dark:text-gray-400">
+                        <div className="max-w-none text-base leading-8 text-gray-600 dark:text-gray-300">
                           {summary}
                         </div>
                       </div>
-                      <div className="text-base font-medium leading-6">
+                      <div>
                         <Link
                           href={`/blog/${slug}`}
-                          className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
+                          className="read-link"
                           aria-label={`Read "${title}"`}
                         >
                           Read more &rarr;
@@ -115,13 +115,13 @@ export default function Home({ posts }) {
       {posts.length > MAX_DISPLAY && (
         <motion.div
           className="flex justify-end text-base font-medium leading-6"
-          initial={{ opacity: 0 }}
+          initial={false}
           animate={{ opacity: 1 }}
           transition={{ delay: 0.5, duration: 0.5 }}
         >
           <Link
             href="/blog"
-            className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
+            className="read-link"
             aria-label="all posts"
           >
             All Posts &rarr;
@@ -131,11 +131,11 @@ export default function Home({ posts }) {
       {siteMetadata.newsletter.provider !== '' && (
         <motion.div
           className="flex items-center justify-center pt-4"
-          initial={{ opacity: 0, y: 20 }}
+          initial={false}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.5, duration: 0.5 }}
         >
-          
+
 
         </motion.div>
       )}
