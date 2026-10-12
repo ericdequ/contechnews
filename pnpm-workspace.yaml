@@ -1,0 +1,7 @@
+onlyBuiltDependencies:
+  - canvas
+  - core-js-pure
+  - deasync
+  - esbuild
+  - sharp
+  - unrs-resolver
